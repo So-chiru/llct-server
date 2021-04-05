@@ -20,5 +20,5 @@ func main() {
 	address := os.Getenv("ADDRESS")
 	log.Println("Running on port " + address)
 
-	http.ListenAndServe(address, route.Gzip(route.Router()))
+	http.ListenAndServe(address, route.Router())
 }
