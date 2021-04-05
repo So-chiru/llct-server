@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "id": "muse",
+      "name": "µ's",
+      "artists": ["µ's"],
+      "color": "#E4007F"
+    },
+    {
+      "id": "aqours",
+      "name": "Aqours",
+      "artists": ["Aqours"],
+      "color": "#00A0E9"
+    },
+    {
+      "id": "nijigasaki",
+      "name": "虹ヶ咲学園スクールアイドル同好会",
+      "artists": ["虹ヶ咲学園スクールアイドル同好会"],
+      "color": "#F6B92E"
+    },
+    {
+      "id": "liella",
+      "name": "Liella!",
+      "artists": ["Liella!"],
+      "color": "#9B3790"
+    }
+  ],
+  "songs": [
+    [],
+    [
+      {
+        "title": "君のこころは輝いてるかい？",
+        "title.ko": "너의 마음은 빛나고 있니?",
+        "artist": 0
+      }
+    ],
+    [],
+    []
+  ]
+}
