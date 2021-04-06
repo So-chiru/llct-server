@@ -7,10 +7,15 @@ type LLCTGroup struct {
 	Color   string   `json:"color"`
 }
 
+type LLCTSongMetadata struct {
+	Released int64 `json:"released"`
+}
+
 type LLCTSongs struct {
-	Title   string `json:"title"`
-	TitleKo string `json:"title.ko"`
-	Artist  int    `json:"artist"`
+	Title    string           `json:"title"`
+	TitleKo  string           `json:"title.ko"`
+	Artist   interface{}      `json:"artist"`
+	Metadata LLCTSongMetadata `json:"metadata"`
 }
 
 type LLCTLists struct {
