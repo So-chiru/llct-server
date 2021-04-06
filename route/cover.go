@@ -179,13 +179,11 @@ func coverHandler(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "image/jpeg")
 
-	fmt.Println(cache_exists, origin_path, sized_path)
-
 	// 캐시 파일이 존재하는 경우
 	if cache_exists && len(sized_path) > 1 {
 		err := cacheFile(w, r, sized_path)
 		if err != nil {
-			fmt.Println(err)
+			log.Println(err)
 			w.WriteHeader(500)
 		}
 
@@ -196,7 +194,7 @@ func coverHandler(w http.ResponseWriter, r *http.Request) {
 	if size_number == 0 {
 		cacheFile(w, r, origin_path)
 		if err != nil {
-			fmt.Println(err)
+			log.Println(err)
 			w.WriteHeader(500)
 		}
 

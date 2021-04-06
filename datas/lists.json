@@ -3,7 +3,22 @@
     {
       "id": "muse",
       "name": "µ's",
-      "artists": ["µ's", "Printemps", "BiBi", "Lily White"],
+      "artists": [
+        "µ's",
+        "A-RISE",
+        "Printemps",
+        "BiBi",
+        "lily white",
+        "코우사카 호노카 (CV. 닛타 에미)",
+        "아야세 에리 (CV. 난죠 요시노)",
+        "미나미 코토리 (CV. 우치다 아야)",
+        "소노다 우미 (CV. 미모리 스즈코)",
+        "호시조라 린 (CV. 아이다 리호)",
+        "니시키노 마키 (CV. Pile)",
+        "토죠 노조미 (CV. 쿠스다 아이나)",
+        "코이즈미 하나요 (CV. 쿠보 유리카)",
+        "야자와 니코 (CV. 토쿠이 소라)"
+      ],
       "color": "#E4007F"
     },
     {
@@ -30,7 +45,7 @@
       {
         "title": "僕らのLIVE 君とのLIFE",
         "title.ko": "우리들의 LIVE 너와의 LIFE",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1282662000
         }
@@ -38,14 +53,14 @@
       {
         "title": "友情ノーチェンジ",
         "title.ko": "우정 노 체인지",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1282662000
         }
       },
       {
         "title": "Snow halation",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1292943600
         }
@@ -53,21 +68,21 @@
       {
         "title": "baby maybe 恋のボタン",
         "title.ko": "baby maybe 사랑의 버튼",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1292943600
         }
       },
       {
         "title": "Love marginal",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1306249200
         }
       },
       {
         "title": "sweet＆sweet holiday",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1306249200
         }
@@ -75,7 +90,7 @@
       {
         "title": "ダイヤモンドプリンセスの憂鬱",
         "title.ko": "다이아몬드 프린세스의 우울",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1308668400
         }
@@ -83,7 +98,7 @@
       {
         "title": "ラブノベルス",
         "title.ko": "러브 노벨즈",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1308668400
         }
@@ -91,7 +106,7 @@
       {
         "title": "知らないLove*教えてLove",
         "title.ko": "모르는 Love*가르쳐줘 Love",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1311692400
         }
@@ -99,7 +114,7 @@
       {
         "title": "あ・の・ね・が・ん・ば・れ！",
         "title.ko": "있・잖・아・힘・을・내!",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1311692400
         }
@@ -107,14 +122,14 @@
       {
         "title": "夏色えがおで1,2,Jump!",
         "title.ko": "여름빛 미소로 1, 2, Jump!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1314111600
         }
       },
       {
         "title": "Mermaid festa vol.1",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1314111600
         }
@@ -122,7 +137,7 @@
       {
         "title": "私たちは未来の花",
         "title.ko": "우리들은 미래의 꽃",
-        "artists": 8,
+        "artist": 8,
         "metadata": {
           "released": 1321974000
         }
@@ -130,7 +145,7 @@
       {
         "title": "スピカテリブル",
         "title.ko": "스피카 테러블",
-        "artists": 7,
+        "artist": 7,
         "metadata": {
           "released": 1323788400
         }
@@ -138,7 +153,7 @@
       {
         "title": "愛は太陽じゃない?",
         "title.ko": "사랑은 태양이 아닐까?",
-        "artists": 5,
+        "artist": 5,
         "metadata": {
           "released": 1327417200
         }
@@ -146,7 +161,7 @@
       {
         "title": "もうひとりじゃないよ",
         "title.ko": "더 이상 혼자가 아니야",
-        "artists": 5,
+        "artist": 5,
         "metadata": {
           "released": 1327417200
         }
@@ -154,7 +169,7 @@
       {
         "title": "もぎゅっと“love”で接近中！",
         "title.ko": "꼬옥 \"love\"로 접근 중!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1329231600
         }
@@ -162,21 +177,21 @@
       {
         "title": "愛してるばんざーい！",
         "title.ko": "사랑해 만세!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1329231600
         }
       },
       {
         "title": "Mermaid festa vol.2 ~Passionate~",
-        "artists": [5, 9],
+        "artist": [5, 9],
         "metadata": {
           "released": 1335279600
         }
       },
       {
         "title": "Someday of my life",
-        "artists": [5, 9],
+        "artist": [5, 9],
         "metadata": {
           "released": 1335279600
         }
@@ -184,7 +199,7 @@
       {
         "title": "恋のシグナルRin rin rin!",
         "title.ko": "사랑의 시그널 Rin rin rin!",
-        "artists": [5, 9],
+        "artist": [5, 9],
         "metadata": {
           "released": 1335279600
         }
@@ -192,7 +207,7 @@
       {
         "title": "乙女式れんあい塾",
         "title.ko": "소녀식 연애 학원",
-        "artists": [11, 13],
+        "artist": [11, 13],
         "metadata": {
           "released": 1337698800
         }
@@ -200,7 +215,7 @@
       {
         "title": "まほうつかいはじめました！",
         "title.ko": "마법사 시작했습니다!",
-        "artists": [11, 13],
+        "artist": [11, 13],
         "metadata": {
           "released": 1337698800
         }
@@ -208,7 +223,7 @@
       {
         "title": "純愛レンズ",
         "title.ko": "순애 렌즈",
-        "artists": [11, 13],
+        "artist": [11, 13],
         "metadata": {
           "released": 1337698800
         }
@@ -216,7 +231,7 @@
       {
         "title": "告白日和、です！",
         "title.ko": "고백하기 좋은 날, 입니다!",
-        "artists": [7, 12],
+        "artist": [7, 12],
         "metadata": {
           "released": 1340722800
         }
@@ -224,7 +239,7 @@
       {
         "title": "ぶる~べりぃ♥とれいん",
         "title.ko": "블루~베리♥트레인",
-        "artists": [7, 12],
+        "artist": [7, 12],
         "metadata": {
           "released": 1340722800
         }
@@ -232,21 +247,21 @@
       {
         "title": "孤独なHeaven",
         "title.ko": "고독한 Heaven",
-        "artists": [7, 12],
+        "artist": [7, 12],
         "metadata": {
           "released": 1340722800
         }
       },
       {
         "title": "soldier game",
-        "artists": [6, 8, 10],
+        "artist": [6, 8, 10],
         "metadata": {
           "released": 1343142000
         }
       },
       {
         "title": "Daring!!",
-        "artists": [6, 8, 10],
+        "artist": [6, 8, 10],
         "metadata": {
           "released": 1343142000
         }
@@ -254,7 +269,7 @@
       {
         "title": "勇気のReason",
         "title.ko": "용기의 Reason",
-        "artists": [6, 8, 10],
+        "artist": [6, 8, 10],
         "metadata": {
           "released": 1343142000
         }
@@ -262,35 +277,35 @@
       {
         "title": "ありふれた悲しみの果て",
         "title.ko": "흔한 슬픔의 끝",
-        "artists": [6, 8, 10],
+        "artist": [6, 8, 10],
         "metadata": {
           "released": 1343142000
         }
       },
       {
         "title": "Wonderful Rush",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1346770800
         }
       },
       {
         "title": "Oh,Love＆Peace!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1346770800
         }
       },
       {
         "title": "Listen to my heart!!",
-        "artists": [9, 12, 13],
+        "artist": [9, 12, 13],
         "metadata": {
           "released": 1350399600
         }
       },
       {
         "title": "after school NAVIGATORS",
-        "artists": [9, 12, 13],
+        "artist": [9, 12, 13],
         "metadata": {
           "released": 1350399600
         }
@@ -298,14 +313,14 @@
       {
         "title": "僕らは今のなかで",
         "title.ko": "우리들은 지금 속에서",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1358866800
         }
       },
       {
         "title": "WILD STARS",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1358866800
         }
@@ -313,7 +328,7 @@
       {
         "title": "きっと青春が聞こえる",
         "title.ko": "분명 청춘이 들릴 거야",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1360076400
         }
@@ -321,7 +336,7 @@
       {
         "title": "輝夜の城で踊りたい",
         "title.ko": "카구야의 성에서 춤추고 싶어",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1360076400
         }
@@ -329,7 +344,7 @@
       {
         "title": "ススメ→トゥモロウ",
         "title.ko": "나아가→Tomorrow",
-        "artists": [5, 7, 8],
+        "artist": [5, 7, 8],
         "metadata": {
           "released": 1361286000
         }
@@ -337,7 +352,7 @@
       {
         "title": "START:DASH!!",
         "title.ko": "3인 버전",
-        "artists": [5, 7, 8],
+        "artist": [5, 7, 8],
         "metadata": {
           "released": 1361286000
         }
@@ -345,14 +360,14 @@
       {
         "title": "これからのSomeday",
         "title.ko": "앞으로 다가올 Someday",
-        "artists": [5, 7, 8, 9, 10, 12, 13],
+        "artist": [5, 7, 8, 9, 10, 12, 13],
         "metadata": {
           "released": 1362495600
         }
       },
       {
         "title": "Wonder zone",
-        "artists": [5, 7, 8, 9, 10, 12, 13],
+        "artist": [5, 7, 8, 9, 10, 12, 13],
         "metadata": {
           "released": 1362495600
         }
@@ -360,35 +375,35 @@
       {
         "title": "夢なき夢は夢じゃない",
         "title.ko": "꿈이 없는 꿈은 꿈이 아니야",
-        "artists": 5,
+        "artist": 5,
         "metadata": {
           "released": 1363878000
         }
       },
       {
         "title": "No brand girls",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1364914800
         }
       },
       {
         "title": "START:DASH!!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1364914800
         }
       },
       {
         "title": "Private Wars",
-        "artists": 1,
+        "artist": 1,
         "metadata": {
           "released": 1365519600
         }
       },
       {
         "title": "Anemone Heart",
-        "artists": [7, 8],
+        "artist": [7, 8],
         "metadata": {
           "released": 1366729200
         }
@@ -396,14 +411,14 @@
       {
         "title": "なわとび",
         "title.ko": "줄넘기",
-        "artists": 12,
+        "artist": 12,
         "metadata": {
           "released": 1369666800
         }
       },
       {
         "title": "Beat in Angel",
-        "artists": [9, 10],
+        "artist": [9, 10],
         "metadata": {
           "released": 1371740400
         }
@@ -411,7 +426,7 @@
       {
         "title": "微熱からMystery",
         "title.ko": "미열에서 Mystery",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1372172400
         }
@@ -419,14 +434,14 @@
       {
         "title": "キミのくせに！",
         "title.ko": "너 주제에!",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1372172400
         }
       },
       {
         "title": "Cutie Panther",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1374591600
         }
@@ -434,7 +449,7 @@
       {
         "title": "夏、終わらないで。",
         "title.ko": "여름, 끝나지 말아줘.",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1374591600
         }
@@ -442,21 +457,21 @@
       {
         "title": "にこぷり♥女子道",
         "title.ko": "니코프리♥여자의 길",
-        "artists": 13,
+        "artist": 13,
         "metadata": {
           "released": 1374764400
         }
       },
       {
         "title": "Pure girls project",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1377010800
         }
       },
       {
         "title": "UNBALANCED LOVE",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1377010800
         }
@@ -464,14 +479,14 @@
       {
         "title": "硝子の花園",
         "title.ko": "유리의 화원",
-        "artists": [6, 11],
+        "artist": [6, 11],
         "metadata": {
           "released": 1377615600
         }
       },
       {
         "title": "LONELIEST BABY",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1380034800
         }
@@ -479,21 +494,21 @@
       {
         "title": "ぷわぷわーお！",
         "title.ko": "푹신푹신-오!",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1380034800
         }
       },
       {
         "title": "Music S.T.A.R.T!!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1385478000
         }
       },
       {
         "title": "LOVELESS WORLD",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1385478000
         }
@@ -501,14 +516,14 @@
       {
         "title": "タカラモノズ",
         "title.ko": "보물들",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1390921200
         }
       },
       {
         "title": "Paradise Live",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1390921200
         }
@@ -516,7 +531,7 @@
       {
         "title": "それは僕たちの奇跡",
         "title.ko": "그것은 우리들의 기적",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1398178800
         }
@@ -524,7 +539,7 @@
       {
         "title": "だってだって噫無情",
         "title.ko": "그치만 그치만 아아 무정",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1398178800
         }
@@ -532,14 +547,14 @@
       {
         "title": "どんなときもずっと",
         "title.ko": "어떤 때라도 계속",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1399474800
         }
       },
       {
         "title": "COLORFUL VOICE",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1399474800
         }
@@ -547,28 +562,28 @@
       {
         "title": "ユメノトビラ",
         "title.ko": "꿈의 문",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1401202800
         }
       },
       {
         "title": "SENTIMENTAL StepS",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1401202800
         }
       },
       {
         "title": "Love wing bell",
-        "artists": [6, 9, 10, 11, 12, 13],
+        "artist": [6, 9, 10, 11, 12, 13],
         "metadata": {
           "released": 1402412400
         }
       },
       {
         "title": "Dancing stars on me!",
-        "artists": [6, 9, 10, 11, 12, 13],
+        "artist": [6, 9, 10, 11, 12, 13],
         "metadata": {
           "released": 1402412400
         }
@@ -576,21 +591,21 @@
       {
         "title": "シアワセ行きのSMILING!",
         "title.ko": "행복을 향한 SMILING!",
-        "artists": 5,
+        "artist": 5,
         "metadata": {
           "released": 1403190000
         }
       },
       {
         "title": "KiRa-KiRa Sensation!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1404831600
         }
       },
       {
         "title": "Happy maker!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1404831600
         }
@@ -598,7 +613,7 @@
       {
         "title": "ずるいよMagnetic today",
         "title.ko": "치사해 Magnetic today",
-        "artists": [10, 13],
+        "artist": [10, 13],
         "metadata": {
           "released": 1406214000
         }
@@ -606,28 +621,28 @@
       {
         "title": "くるりんMIRACLE",
         "title.ko": "빙그르르 MIRACLE",
-        "artists": 9,
+        "artist": 9,
         "metadata": {
           "released": 1409065200
         }
       },
       {
         "title": "Shocking Party",
-        "artists": 1,
+        "artist": 1,
         "metadata": {
           "released": 1409065200
         }
       },
       {
         "title": "Storm in Lover",
-        "artists": [6, 8],
+        "artist": [6, 8],
         "metadata": {
           "released": 1411484400
         }
       },
       {
         "title": "Shangri-La Shower",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1412089200
         }
@@ -635,7 +650,7 @@
       {
         "title": "もしもからきっと",
         "title.ko": "만약으로부터 분명",
-        "artists": 11,
+        "artist": 11,
         "metadata": {
           "released": 1414508400
         }
@@ -643,7 +658,7 @@
       {
         "title": "永遠フレンズ",
         "title.ko": "영원 프렌즈",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1415718000
         }
@@ -651,7 +666,7 @@
       {
         "title": "小夜啼鳥恋詩",
         "title.ko": "나이팅게일 러브 송",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1415718000
         }
@@ -659,7 +674,7 @@
       {
         "title": "好きですが好きですか？",
         "title.ko": "좋아하는데 좋아하나요?",
-        "artists": [7, 12],
+        "artist": [7, 12],
         "metadata": {
           "released": 1416495600
         }
@@ -667,7 +682,7 @@
       {
         "title": "秋のあなたの空遠く",
         "title.ko": "가을의 당신의 하늘 저 멀리",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1416927600
         }
@@ -675,7 +690,7 @@
       {
         "title": "ふたりハピネス",
         "title.ko": "두 사람 해피니스",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1416927600
         }
@@ -683,21 +698,21 @@
       {
         "title": "冬がくれた予感",
         "title.ko": "겨울이 준 예감",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1419346800
         }
       },
       {
         "title": "Trouble Busters",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1419346800
         }
       },
       {
         "title": "CheerDay CheerGirl!",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1419433200
         }
@@ -705,14 +720,14 @@
       {
         "title": "同じ星が見たい",
         "title.ko": "같은 별이 보고 싶어",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1419433200
         }
       },
       {
         "title": "Silent Tonight",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1419433200
         }
@@ -720,7 +735,7 @@
       {
         "title": "そして最後のページには",
         "title.ko": "그리고 마지막 페이지에는",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1419433200
         }
@@ -728,14 +743,14 @@
       {
         "title": "ミはμ’sicのミ",
         "title.ko": "미는 μ’sic의 미",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1429628400
         }
       },
       {
         "title": "Super LOVE＝Super LIVE!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1429628400
         }
@@ -743,7 +758,7 @@
       {
         "title": "最低で最高のParadiso",
         "title.ko": "최저이자 최고의 Paradiso",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1432306800
         }
@@ -751,7 +766,7 @@
       {
         "title": "乙姫心で恋宮殿",
         "title.ko": "용녀 마음으로 사랑 궁전",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1432306800
         }
@@ -759,14 +774,14 @@
       {
         "title": "MUSEUMでどうしたい",
         "title.ko": "MUSEUM에서 뭘하고 싶어?",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1432306800
         }
       },
       {
         "title": "Angelic Angel",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1435676400
         }
@@ -774,21 +789,21 @@
       {
         "title": "Hello, 星を数えて",
         "title.ko": "Hello, 별을 세며",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1435676400
         }
       },
       {
         "title": "SUNNY DAY SONG",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1436281200
         }
       },
       {
         "title": "？←HEARTBEAT",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1436281200
         }
@@ -796,28 +811,28 @@
       {
         "title": "僕たちはひとつの光",
         "title.ko": "우리는 하나의 빛",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1436886000
         }
       },
       {
         "title": "Future style",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1436886000
         }
       },
       {
         "title": "As Time Goes By",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1438700400
         }
       },
       {
         "title": "HEART to HEART!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1445958000
         }
@@ -825,21 +840,21 @@
       {
         "title": "嵐のなかの恋だから",
         "title.ko": "폭풍 속의 사랑이니까",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1445958000
         }
       },
       {
         "title": "WAO-WAO Powerful day!",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1448377200
         }
       },
       {
         "title": "NO EXIT ORION",
-        "artists": 2,
+        "artist": 2,
         "metadata": {
           "released": 1448377200
         }
@@ -847,7 +862,7 @@
       {
         "title": "これから",
         "title.ko": "지금부터",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1450105200
         }
@@ -855,7 +870,7 @@
       {
         "title": "思い出以上になりたくて",
         "title.ko": "추억 이상이 되고 싶어서",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1450796400
         }
@@ -863,7 +878,7 @@
       {
         "title": "春情ロマンティック",
         "title.ko": "춘정 로맨틱",
-        "artists": 4,
+        "artist": 4,
         "metadata": {
           "released": 1450796400
         }
@@ -871,21 +886,21 @@
       {
         "title": "錯覚CROSSROADS",
         "title.ko": "착각 CROSSROADS",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1453215600
         }
       },
       {
         "title": "PSYCHIC FIRE",
-        "artists": 3,
+        "artist": 3,
         "metadata": {
           "released": 1453215600
         }
       },
       {
         "title": "MOMENT RING",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1456844400
         }
@@ -893,14 +908,14 @@
       {
         "title": "さようならへさよなら！",
         "title.ko": "안녕이란 말에 안녕!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1456844400
         }
       },
       {
         "title": "A Song for You! You? You!!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1585062000
         }
@@ -908,7 +923,7 @@
       {
         "title": "なってしまった！",
         "title.ko": "되어버렸다!",
-        "artists": 0,
+        "artist": 0,
         "metadata": {
           "released": 1585062000
         }
