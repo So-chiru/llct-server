@@ -49,6 +49,13 @@ func cacheFile(w http.ResponseWriter, r *http.Request, path string) error {
 			return err
 		}
 
+		if !checkFileExists(filepath.Dir(cache_path)) {
+			err := os.MkdirAll(filepath.Dir(cache_path), 0777)
+			if err != nil {
+				return err
+			}
+		}
+
 		file, err := os.Create(cache_path)
 		if err != nil {
 			return err
@@ -59,9 +66,7 @@ func cacheFile(w http.ResponseWriter, r *http.Request, path string) error {
 		br := brotli.NewWriterLevel(writer, brotli.BestCompression)
 		io.Copy(br, reader)
 
-		defer reader.Close()
 		defer br.Close()
-		defer file.Close()
 
 		return nil
 	}
@@ -95,6 +100,13 @@ func cacheFile(w http.ResponseWriter, r *http.Request, path string) error {
 			return err
 		}
 
+		if !checkFileExists(filepath.Dir(cache_path)) {
+			err := os.MkdirAll(filepath.Dir(cache_path), 0777)
+			if err != nil {
+				return err
+			}
+		}
+
 		file, err := os.Create(cache_path)
 		if err != nil {
 			return err
@@ -109,9 +121,7 @@ func cacheFile(w http.ResponseWriter, r *http.Request, path string) error {
 
 		io.Copy(gz, reader)
 
-		defer reader.Close()
 		defer gz.Close()
-		defer file.Close()
 
 		return nil
 	}
@@ -123,6 +133,8 @@ func cacheFile(w http.ResponseWriter, r *http.Request, path string) error {
 	}
 
 	io.Copy(w, reader)
+
+	defer reader.Close()
 
 	return nil
 }

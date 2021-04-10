@@ -192,7 +192,7 @@ func coverHandler(w http.ResponseWriter, r *http.Request) {
 
 	// 원본 사이즈를 요청하는 경우
 	if size_number == 0 {
-		cacheFile(w, r, origin_path)
+		err := cacheFile(w, r, origin_path)
 		if err != nil {
 			log.Println(err)
 			w.WriteHeader(500)

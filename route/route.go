@@ -56,6 +56,7 @@ func Router() *mux.Router {
 	r.HandleFunc("/updates", updatesHandler)
 
 	r.HandleFunc("/cover/{id:[0-9]+}", coverHandler)
+	r.HandleFunc("/audio/{id:[0-9]+}", audioHandler)
 
 	return r
 }
