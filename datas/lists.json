@@ -24,13 +24,44 @@
     {
       "id": "aqours",
       "name": "Aqours",
-      "artists": ["Aqours"],
+      "artists": [
+        "Aqours",
+        "Saint Snow",
+        "Saint Aqours Snow",
+        "CYaRon!",
+        "AZALEA",
+        "Guilty Kiss",
+        "타카미 치카 (CV. 이나미 안쥬)",
+        "사쿠라우치 리코 (CV. 아이다 리카코)",
+        "마츠우라 카난 (CV. 스와 나나카)",
+        "쿠로사와 다이아 (CV. 코미야 아리사)",
+        "와타나베 요우 (CV. 사이토 슈카)",
+        "츠시마 요시코 (CV. 코바야시 아이카)",
+        "쿠니키다 하나마루 (CV. 타카츠키 카나코)",
+        "오하라 마리 (CV. 스즈키 아이나)",
+        "쿠로사와 루비 (CV. 후리하타 아이)"
+      ],
       "color": "#00A0E9"
     },
     {
       "id": "nijigasaki",
       "name": "虹ヶ咲学園スクールアイドル同好会",
-      "artists": ["虹ヶ咲学園スクールアイドル同好会"],
+      "artists": [
+        "虹ヶ咲学園スクールアイドル同好会",
+        "DiverDiva",
+        "AZUNA",
+        "QU4RTZ",
+        "우에하라 아유무 (CV. 오오니시 아구리)",
+        "나카스 카스미 (CV. 사가라 마유)",
+        "오사카 시즈쿠 (CV. 마에다 카오리)",
+        "아사카 카린 (CV. 쿠보타 미유)",
+        "미야시타 아이 (CV. 무라카미 나츠미)",
+        "코노에 카나타 (CV. 키토 아카리)",
+        "유우키 세츠나 (CV. 쿠스노키 토모리)",
+        "엠마 베르데 (CV. 사시데 마리아)",
+        "텐노지 리나 (CV. 타나카 치에미)",
+        "미후네 시오리코 (CV. 코이즈미 모에카)"
+      ],
       "color": "#F6B92E"
     },
     {
@@ -1324,6 +1355,13 @@
         }
       },
       {
+        "title": "“MY LIST” to you!",
+        "artist": 0,
+        "metadata": {
+          "released": 1510704000
+        }
+      },
+      {
         "title": "MY舞☆TONIGHT",
         "title.ko": "MY무희☆TONIGHT",
         "artist": 0,
@@ -1597,6 +1635,14 @@
         }
       },
       {
+        "title": "冒険Type A, B, C!!",
+        "title.ko": "모험 타입 A, B, C!!",
+        "artist": 0,
+        "metadata": {
+          "released": 1564099200
+        }
+      },
+      {
         "title": "未体験HORIZON",
         "title.ko": "미체험 HORIZON",
         "artist": 0,
@@ -1838,7 +1884,293 @@
         }
       }
     ],
-    [],
-    []
+    [
+      {
+        "title": "TOKIMEKI Runners",
+        "artist": 0
+      },
+      {
+        "title": "夢への一歩",
+        "title.ko": "꿈으로의 한 걸음",
+        "artist": 4
+      },
+      {
+        "title": "ダイアモンド",
+        "title.ko": "다이아몬드",
+        "artist": 5
+      },
+      {
+        "title": "あなたの理想のヒロイン",
+        "title.ko": "당신의 이상적인 히로인",
+        "artist": 6
+      },
+      {
+        "title": "Starlight",
+        "artist": 7
+      },
+      {
+        "title": "めっちゃGoing!!",
+        "title.ko": "엄청 Going!!",
+        "artist": 8
+      },
+      {
+        "title": "眠れる森に行きたいな",
+        "title.ko": "잠자는 숲 속으로 가고 싶어",
+        "artist": 9
+      },
+      {
+        "title": "CHASE!",
+        "artist": 10
+      },
+      {
+        "title": "Evergreen",
+        "artist": 11
+      },
+      {
+        "title": "ドキピポ☆エモーション",
+        "title.ko": "도키피포☆이모션",
+        "artist": 12
+      },
+      {
+        "title": "Love U my friends",
+        "artist": 0
+      },
+      {
+        "title": "開花宣言",
+        "title.ko": "개화선언",
+        "artist": 4
+      },
+      {
+        "title": "☆ワンダーランド☆",
+        "title.ko": "☆원더랜드☆",
+        "artist": 5
+      },
+      {
+        "title": "オードリ",
+        "title.ko": "오드리",
+        "artist": 6
+      },
+      {
+        "title": "Wish",
+        "artist": 7
+      },
+      {
+        "title": "友 & 愛",
+        "title.ko": "친구 & 사랑",
+        "artist": 8
+      },
+      {
+        "title": "My Own Fairy-Tale",
+        "artist": 9
+      },
+      {
+        "title": "MELODY",
+        "artist": 10
+      },
+      {
+        "title": "声繋ごうよ",
+        "title.ko": "목소리를 잇자",
+        "artist": 11
+      },
+      {
+        "title": "テレテレパシー",
+        "title.ko": "텔레텔레파시",
+        "artist": 12
+      },
+      {
+        "title": "SUPER NOVA",
+        "artist": 1
+      },
+      {
+        "title": "Love Triangle",
+        "artist": 1
+      },
+      {
+        "title": "Dream Land!Dream World!",
+        "artist": 2
+      },
+      {
+        "title": "Cheer for you!!",
+        "artist": 2
+      },
+      {
+        "title": "Sing & Smile!!",
+        "artist": 3
+      },
+      {
+        "title": "Beautiful Moonlight",
+        "artist": 3
+      },
+      {
+        "title": "無敵級*ビリーバー",
+        "title.ko": "무적급*빌리버",
+        "artist": 0
+      },
+      {
+        "title": "未来ハーモニー",
+        "title.ko": "미래 하모니",
+        "artist": 0
+      },
+      {
+        "title": "Say Good-Bye 涙",
+        "title.ko": "Say Good-Bye 눈물",
+        "artist": 4
+      },
+      {
+        "title": "Margaret",
+        "artist": 5
+      },
+      {
+        "title": "やがてひとつの物語",
+        "title.ko": "이윽고 하나의 이야기",
+        "artist": 6
+      },
+      {
+        "title": "Fire Bird",
+        "artist": 7
+      },
+      {
+        "title": "楽しいの天才",
+        "title.ko": "즐거움의 천재",
+        "artist": 8
+      },
+      {
+        "title": "Märchen Star",
+        "artist": 9
+      },
+      {
+        "title": "LIKE IT! LOVE IT!",
+        "artist": 10
+      },
+      {
+        "title": "哀温ノ詩",
+        "title.ko": "애온의 시",
+        "artist": 11
+      },
+      {
+        "title": "アナログハート",
+        "title.ko": "아날로그 하트",
+        "artist": 12
+      },
+      {
+        "title": "決意の光",
+        "title.ko": "결의의 빛",
+        "artist": 13
+      },
+      {
+        "title": "TOKIMEKI Runners (10인 버전)",
+        "artist": 0
+      },
+      {
+        "title": "Just Believe!!",
+        "artist": 0
+      },
+      {
+        "title": "虹色Passions!",
+        "title.ko": "무지개 빛 Passions!",
+        "artist": 0
+      },
+      {
+        "title": "Sweet Eyes",
+        "artist": 0
+      },
+      {
+        "title": "NEO SKY, NEO MAP!",
+        "artist": 0
+      },
+      {
+        "title": "全速ドリーマー",
+        "title.ko": "전속 드리머",
+        "artist": 0
+      },
+      {
+        "title": "Dream with You",
+        "artist": 4
+      },
+      {
+        "title": "Poppin' Up!",
+        "artist": 5
+      },
+      {
+        "title": "DIVE!",
+        "artist": 10
+      },
+      {
+        "title": "サイコーハート",
+        "title.ko": "사이코 하트",
+        "artist": 8
+      },
+      {
+        "title": "La Bella Patria",
+        "artist": 11
+      },
+      {
+        "title": "ツナガルコネクト",
+        "title.ko": "이어지는 커넥트",
+        "artist": 12
+      },
+      {
+        "title": "Butterfly",
+        "artist": 9
+      },
+      {
+        "title": "Solitude Rain",
+        "artist": 6
+      },
+      {
+        "title": "VIVID WORLD",
+        "artist": 7
+      },
+      {
+        "title": "Awakening Promise",
+        "artist": 4
+      },
+      {
+        "title": "夢がここからはじまるよ",
+        "title.ko": "꿈이 여기서부터 시작돼",
+        "artist": 0
+      },
+      {
+        "title": "POWER SPOT!!",
+        "artist": 1
+      },
+      {
+        "title": "Kakushiaji!",
+        "title.ko": "숨겨진 맛!",
+        "artist": 2
+      },
+      {
+        "title": "Make-up session ABC",
+        "artist": 3
+      },
+      {
+        "title": "祭花 -saika-",
+        "title.ko": "제화 -saika-",
+        "artist": 1
+      },
+      {
+        "title": "Happy Nyan! Days",
+        "artist": 2
+      },
+      {
+        "title": "Twinkle Town",
+        "artist": 3
+      }
+    ],
+    [
+      {
+        "title": "始まりは君の空",
+        "title.ko": "시작은 너의 하늘",
+        "artist": 0
+      },
+      {
+        "title": "Dancing Heart La-Pa-Pa-Pa!",
+        "artist": 0
+      },
+      {
+        "title": "Dreaming Energy",
+        "artist": 0
+      }
+    ]
   ]
 }
