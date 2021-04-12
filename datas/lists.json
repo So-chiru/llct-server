@@ -367,7 +367,7 @@
       },
       {
         "title": "Wonder zone",
-        "artist": [5, 7, 8, 9, 10, 12, 13],
+        "artist": 0,
         "metadata": {
           "released": 1362495600
         }
@@ -583,7 +583,7 @@
       },
       {
         "title": "Dancing stars on me!",
-        "artist": [6, 9, 10, 11, 12, 13],
+        "artist": 0,
         "metadata": {
           "released": 1402412400
         }
@@ -789,7 +789,7 @@
       {
         "title": "Hello, 星を数えて",
         "title.ko": "Hello, 별을 세며",
-        "artist": 0,
+        "artist": [9, 10, 12],
         "metadata": {
           "released": 1435676400
         }
@@ -803,7 +803,7 @@
       },
       {
         "title": "？←HEARTBEAT",
-        "artist": 0,
+        "artist": [6, 11, 13],
         "metadata": {
           "released": 1436281200
         }
@@ -818,7 +818,7 @@
       },
       {
         "title": "Future style",
-        "artist": 0,
+        "artist": [5, 7, 8],
         "metadata": {
           "released": 1436886000
         }
