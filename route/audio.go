@@ -4,9 +4,11 @@ import (
 	"fmt"
 	"net/http"
 	"os"
+	"path/filepath"
 	"strconv"
 
 	"github.com/gorilla/mux"
+	"github.com/so-chiru/llct-server/audio"
 	"github.com/so-chiru/llct-server/utils"
 )
 
@@ -69,20 +71,63 @@ func audioHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// var range_header = r.Header.Get("range")
-
-	reader, err := os.Open(audio_path)
-	if err != nil {
-		w.WriteHeader(500)
-		return
-	}
-
 	stat, err := os.Stat(audio_path)
 	if err != nil {
 		w.WriteHeader(500)
 		return
 	}
 
-	w.Header().Set("Content-Type", "audio/mp3")
+	var bitrate = r.URL.Query().Get("b")
+
+	if bitrate != "128" && bitrate != "64" {
+		reader, err := os.Open(audio_path)
+		if err != nil {
+			w.WriteHeader(500)
+			return
+		}
+
+		if bitrate == "64" {
+			w.Header().Set("Content-Type", "audio/opus")
+		} else {
+			w.Header().Set("Content-Type", "audio/mp3")
+		}
+
+		http.ServeContent(w, r, "llct.audio", stat.ModTime(), reader)
+
+		return
+	}
+
+	var cache_path = filepath.Dir(audio_path) + "/_cache/" + filepath.Base(audio_path) + "." + bitrate
+	if isFileExists(cache_path) {
+		reader, err := os.Open(cache_path)
+		if err != nil {
+			w.WriteHeader(500)
+			return
+		}
+
+		http.ServeContent(w, r, "llct.audio", stat.ModTime(), reader)
+
+		return
+	}
+
+	var codec string
+	if bitrate == "64" {
+		codec = "opus"
+	} else {
+		codec = "mp3"
+	}
+
+	if codec == "opus" {
+		w.Header().Set("Content-Type", "audio/ogg")
+	} else {
+		w.Header().Set("Content-Type", "audio/mp3")
+	}
+
+	reader, err := audio.Compress(audio_path, codec, w, bitrate)
+	if err != nil {
+		fmt.Println(err)
+		w.WriteHeader(500)
+	}
+
 	http.ServeContent(w, r, "llct.audio", stat.ModTime(), reader)
 }
