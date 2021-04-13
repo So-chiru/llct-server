@@ -381,8 +381,7 @@
         }
       },
       {
-        "title": "START:DASH!!",
-        "title.ko": "3인 버전",
+        "title": "START:DASH!! 3인 버전",
         "artist": [5, 7, 8],
         "metadata": {
           "released": 1361286000
@@ -545,6 +544,13 @@
         }
       },
       {
+        "title": "ENDLESS PARADE",
+        "artist": 0,
+        "metadata": {
+          "released": 1390921200
+        }
+      },
+      {
         "title": "タカラモノズ",
         "title.ko": "보물들",
         "artist": 0,
@@ -679,6 +685,13 @@
         }
       },
       {
+        "title": "るてしキスキしてる",
+        "artist": 0,
+        "metadata": {
+          "released": 1412089200
+        }
+      },
+      {
         "title": "もしもからきっと",
         "title.ko": "만약으로부터 분명",
         "artist": 11,
@@ -769,6 +782,13 @@
         "artist": 0,
         "metadata": {
           "released": 1419433200
+        }
+      },
+      {
+        "title": "Dreamin' Go! Go!!",
+        "artist": 0,
+        "metadata": {
+          "released": 1422630000
         }
       },
       {
@@ -1391,6 +1411,13 @@
         }
       },
       {
+        "title": "DROPOUT!",
+        "artist": 1,
+        "metadata": {
+          "released": 1513728000
+        }
+      },
+      {
         "title": "One More Sunshine Story",
         "artist": 6,
         "metadata": {
@@ -1628,6 +1655,27 @@
         }
       },
       {
+        "title": "Jump up HIGH!! (CYaRon! Ver.)",
+        "artist": 0,
+        "metadata": {
+          "released": 1561852800
+        }
+      },
+      {
+        "title": "Jump up HIGH!! (AZALEA Ver.)",
+        "artist": 0,
+        "metadata": {
+          "released": 1561852800
+        }
+      },
+      {
+        "title": "Jump up HIGH!! (Guilty Kiss Ver.)",
+        "artist": 0,
+        "metadata": {
+          "released": 1561852800
+        }
+      },
+      {
         "title": "\"I-n-g, I Try!!\"",
         "artist": 0,
         "metadata": {
@@ -1672,6 +1720,13 @@
         }
       },
       {
+        "title": "Wake up, Challenger!!",
+        "artist": 0,
+        "metadata": {
+          "released": 1572393600
+        }
+      },
+      {
         "title": "New Romantic Sailors",
         "artist": 5,
         "metadata": {
@@ -1680,6 +1735,13 @@
       },
       {
         "title": "Love Pulsar",
+        "artist": 5,
+        "metadata": {
+          "released": 1574812800
+        }
+      },
+      {
+        "title": "Phantom Rocket Adventure",
         "artist": 5,
         "metadata": {
           "released": 1574812800
@@ -1700,6 +1762,14 @@
         }
       },
       {
+        "title": "コドク・テレポート",
+        "title.ko": "고독・텔레포트",
+        "artist": 3,
+        "metadata": {
+          "released": 1575417600
+        }
+      },
+      {
         "title": "Amazing Travel DNA",
         "artist": 4,
         "metadata": {
@@ -1709,6 +1779,14 @@
       {
         "title": "空中恋愛論",
         "title.ko": "공중연애론",
+        "artist": 4,
+        "metadata": {
+          "released": 1576022400
+        }
+      },
+      {
+        "title": "メイズセカイ",
+        "title.ko": "미로 세계",
         "artist": 4,
         "metadata": {
           "released": 1576022400
