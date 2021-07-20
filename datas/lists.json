@@ -1955,14 +1955,15 @@
         }
       },
       {
-        "title": "오하라 마리 신곡",
+        "title": "Shiny Racers",
         "artist": 13,
         "metadata": {
           "released": 1623542400
         }
       },
       {
-        "title": "츠시마 요시코 신곡",
+        "title": "タテホコツバサ",
+        "title.ko": "모순의 날개",
         "artist": 11,
         "metadata": {
           "released": 1626134400
@@ -2254,6 +2255,30 @@
       },
       {
         "title": "Dreaming Energy",
+        "artist": 0
+      },
+      {
+        "title": "私のSymphony",
+        "title.ko": "나의 Symphony",
+        "artist": 0
+      },
+      {
+        "title": "START!! True dreams",
+        "artist": 0
+      },
+      {
+        "title": "だから僕らは鳴らすんだ！",
+        "title.ko": "그래서 우리는 소리를 울리는 거야!",
+        "artist": 0
+      },
+      {
+        "title": "未来は風のように",
+        "title.ko": "미래는 바람처럼",
+        "artist": 0
+      },
+      {
+        "title": "この街でいまキミと",
+        "title.ko": "이 거리에서 지금 너와",
         "artist": 0
       }
     ]
