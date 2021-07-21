@@ -8,7 +8,7 @@ type LLCTGroup struct {
 }
 
 type LLCTSongMetadata struct {
-	Album    int64    `json:"album"`
+	Album    string   `json:"album"`
 	Length   int64    `json:"length"`
 	BPM      int64    `json:"bpm"`
 	Released int64    `json:"released"`
