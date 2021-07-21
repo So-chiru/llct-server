@@ -78,7 +78,10 @@
         "title.ko": "우리들의 LIVE 너와의 LIFE",
         "artist": 0,
         "metadata": {
-          "released": 1282662000
+          "released": 1282662000,
+          "album": "僕らのLIVE 君とのLIFE",
+          "length": 323,
+          "composer": ["山田高弘"]
         }
       },
       {
@@ -86,14 +89,20 @@
         "title.ko": "우정 노 체인지",
         "artist": 0,
         "metadata": {
-          "released": 1282662000
+          "released": 1282662000,
+          "album": "僕らのLIVE 君とのLIFE",
+          "length": 254,
+          "composer": ["Tron-LM"]
         }
       },
       {
         "title": "Snow halation",
         "artist": 0,
         "metadata": {
-          "released": 1292943600
+          "released": 1292943600,
+          "album": "Snow halation",
+          "length": 259,
+          "composer": ["山田高弘"]
         }
       },
       {
@@ -101,21 +110,30 @@
         "title.ko": "baby maybe 사랑의 버튼",
         "artist": 0,
         "metadata": {
-          "released": 1292943600
+          "released": 1292943600,
+          "album": "Snow halation",
+          "length": 269,
+          "composer": ["山口朗彦"]
         }
       },
       {
         "title": "Love marginal",
         "artist": 2,
         "metadata": {
-          "released": 1306249200
+          "released": 1306249200,
+          "album": "Love marginal",
+          "length": 274,
+          "composer": ["藤末樹"]
         }
       },
       {
         "title": "sweet＆sweet holiday",
         "artist": 2,
         "metadata": {
-          "released": 1306249200
+          "released": 1306249200,
+          "album": "Love marginal",
+          "length": 255,
+          "composer": ["山口朗彦"]
         }
       },
       {
@@ -123,7 +141,10 @@
         "title.ko": "다이아몬드 프린세스의 우울",
         "artist": 3,
         "metadata": {
-          "released": 1308668400
+          "released": 1308668400,
+          "album": "ダイヤモンドプリンセスの憂鬱",
+          "length": 233,
+          "composer": ["吉田勝弥"]
         }
       },
       {
@@ -131,7 +152,10 @@
         "title.ko": "러브 노벨즈",
         "artist": 3,
         "metadata": {
-          "released": 1308668400
+          "released": 1308668400,
+          "album": "ダイヤモンドプリンセスの憂鬱",
+          "length": 218,
+          "composer": ["佐々倉有吾"]
         }
       },
       {
@@ -139,7 +163,10 @@
         "title.ko": "모르는 Love*가르쳐줘 Love",
         "artist": 4,
         "metadata": {
-          "released": 1311692400
+          "released": 1311692400,
+          "album": "知らないLove*教えてLove",
+          "length": 241,
+          "composer": ["星和生"]
         }
       },
       {
@@ -147,7 +174,10 @@
         "title.ko": "있・잖・아・힘・을・내!",
         "artist": 4,
         "metadata": {
-          "released": 1311692400
+          "released": 1311692400,
+          "album": "知らないLove*教えてLove",
+          "length": 255,
+          "composer": ["青木多果"]
         }
       },
       {
@@ -155,14 +185,20 @@
         "title.ko": "여름빛 미소로 1, 2, Jump!",
         "artist": 0,
         "metadata": {
-          "released": 1314111600
+          "released": 1314111600,
+          "album": "夏色えがおで1，2，Jump！",
+          "length": 268,
+          "composer": ["近藤昭雄"]
         }
       },
       {
         "title": "Mermaid festa vol.1",
         "artist": 0,
         "metadata": {
-          "released": 1314111600
+          "released": 1314111600,
+          "album": "夏色えがおで1，2，Jump！",
+          "length": 239,
+          "composer": ["俊龍"]
         }
       },
       {
@@ -170,7 +206,10 @@
         "title.ko": "우리들은 미래의 꽃",
         "artist": 8,
         "metadata": {
-          "released": 1321974000
+          "released": 1321974000,
+          "album": "ラブライブ！ Solo Live！ from μ's 園田海未 海色少女に魅せられて",
+          "length": 285,
+          "composer": ["三浦誠司"]
         }
       },
       {
@@ -178,7 +217,9 @@
         "title.ko": "스피카 테러블",
         "artist": 7,
         "metadata": {
-          "released": 1323788400
+          "released": 1323788400,
+          "album": "ラブライブ！　Solo Live! from μ's 南ことり ことりLovin' you",
+          "length": 256
         }
       },
       {
@@ -186,7 +227,10 @@
         "title.ko": "사랑은 태양이 아닐까?",
         "artist": 5,
         "metadata": {
-          "released": 1327417200
+          "released": 1327417200,
+          "album": "ラブライブ！ Solo Live！ from μ's 高坂穂乃果 ほんのり穂乃果色！",
+          "length": 233,
+          "composer": ["佐々倉有吾"]
         }
       },
       {
@@ -194,7 +238,10 @@
         "title.ko": "더 이상 혼자가 아니야",
         "artist": 5,
         "metadata": {
-          "released": 1327417200
+          "released": 1327417200,
+          "album": "ラブライブ！ Solo Live！ from μ's 高坂穂乃果 ほんのり穂乃果色！",
+          "length": 280,
+          "composer": ["佐伯高志"]
         }
       },
       {
@@ -202,7 +249,10 @@
         "title.ko": "꼬옥 \"love\"로 접근 중!",
         "artist": 0,
         "metadata": {
-          "released": 1329231600
+          "released": 1329231600,
+          "album": "もぎゅっと\"love\"で接近中！",
+          "length": 341,
+          "composer": ["増田達行"]
         }
       },
       {
@@ -210,21 +260,30 @@
         "title.ko": "사랑해 만세!",
         "artist": 0,
         "metadata": {
-          "released": 1329231600
+          "released": 1329231600,
+          "album": "もぎゅっと\"love\"で接近中！",
+          "length": 293,
+          "composer": ["山田高弘"]
         }
       },
       {
         "title": "Mermaid festa vol.2 ~Passionate~",
         "artist": [5, 9],
         "metadata": {
-          "released": 1335279600
+          "released": 1335279600,
+          "album": "Mermaid festa vol．2 ～Passionate～",
+          "length": 323,
+          "composer": ["山崎真吾"]
         }
       },
       {
         "title": "Someday of my life",
         "artist": [5, 9],
         "metadata": {
-          "released": 1335279600
+          "released": 1335279600,
+          "album": "Mermaid festa vol．2 ～Passionate～",
+          "length": 265,
+          "composer": ["八重樫ゆう一"]
         }
       },
       {
@@ -232,7 +291,10 @@
         "title.ko": "사랑의 시그널 Rin rin rin!",
         "artist": [5, 9],
         "metadata": {
-          "released": 1335279600
+          "released": 1335279600,
+          "album": "Mermaid festa vol．2 ～Passionate～",
+          "length": 260,
+          "composer": ["須田真吾"]
         }
       },
       {
@@ -240,7 +302,10 @@
         "title.ko": "소녀식 연애 학원",
         "artist": [11, 13],
         "metadata": {
-          "released": 1337698800
+          "released": 1337698800,
+          "album": "乙女式れんあい塾",
+          "length": 201,
+          "composer": ["佐々木 裕"]
         }
       },
       {
@@ -248,7 +313,10 @@
         "title.ko": "마법사 시작했습니다!",
         "artist": [11, 13],
         "metadata": {
-          "released": 1337698800
+          "released": 1337698800,
+          "album": "乙女式れんあい塾",
+          "length": 241,
+          "composer": ["鈴木裕明"]
         }
       },
       {
@@ -256,7 +324,10 @@
         "title.ko": "순애 렌즈",
         "artist": [11, 13],
         "metadata": {
-          "released": 1337698800
+          "released": 1337698800,
+          "album": "乙女式れんあい塾",
+          "length": 273,
+          "composer": ["山元佑介"]
         }
       },
       {
@@ -264,7 +335,10 @@
         "title.ko": "고백하기 좋은 날, 입니다!",
         "artist": [7, 12],
         "metadata": {
-          "released": 1340722800
+          "released": 1340722800,
+          "album": "告白日和、です！",
+          "length": 217,
+          "composer": ["若林充"]
         }
       },
       {
@@ -272,7 +346,10 @@
         "title.ko": "블루~베리♥트레인",
         "artist": [7, 12],
         "metadata": {
-          "released": 1340722800
+          "released": 1340722800,
+          "album": "告白日和、です！",
+          "length": 229,
+          "composer": ["増田達行"]
         }
       },
       {
@@ -280,21 +357,30 @@
         "title.ko": "고독한 Heaven",
         "artist": [7, 12],
         "metadata": {
-          "released": 1340722800
+          "released": 1340722800,
+          "album": "告白日和、です！",
+          "length": 276,
+          "composer": ["前口渉"]
         }
       },
       {
         "title": "soldier game",
         "artist": [6, 8, 10],
         "metadata": {
-          "released": 1343142000
+          "released": 1343142000,
+          "album": "soldier game",
+          "length": 221,
+          "composer": ["若林 充"]
         }
       },
       {
         "title": "Daring!!",
         "artist": [6, 8, 10],
         "metadata": {
-          "released": 1343142000
+          "released": 1343142000,
+          "album": "soldier game",
+          "length": 211,
+          "composer": ["近藤圭一"]
         }
       },
       {
@@ -302,7 +388,10 @@
         "title.ko": "용기의 Reason",
         "artist": [6, 8, 10],
         "metadata": {
-          "released": 1343142000
+          "released": 1343142000,
+          "album": "soldier game",
+          "length": 231,
+          "composer": ["増谷 賢"]
         }
       },
       {
@@ -310,35 +399,50 @@
         "title.ko": "흔한 슬픔의 끝",
         "artist": [6, 8, 10],
         "metadata": {
-          "released": 1343142000
+          "released": 1343142000,
+          "album": "soldier game",
+          "length": 243,
+          "composer": ["佐伯高志"]
         }
       },
       {
         "title": "Wonderful Rush",
         "artist": 0,
         "metadata": {
-          "released": 1346770800
+          "released": 1346770800,
+          "album": "Wonderful Rush",
+          "length": 280,
+          "composer": ["河田貴央"]
         }
       },
       {
         "title": "Oh,Love＆Peace!",
         "artist": 0,
         "metadata": {
-          "released": 1346770800
+          "released": 1346770800,
+          "album": "Wonderful Rush",
+          "length": 299,
+          "composer": ["黒須克彦"]
         }
       },
       {
         "title": "Listen to my heart!!",
         "artist": [9, 12, 13],
         "metadata": {
-          "released": 1350399600
+          "released": 1350399600,
+          "album": "ラブライ部 ラジオ課外活動 にこりんぱな テーマソングDJCD",
+          "length": 267,
+          "composer": ["河原嶺旭"]
         }
       },
       {
         "title": "after school NAVIGATORS",
         "artist": [9, 12, 13],
         "metadata": {
-          "released": 1350399600
+          "released": 1350399600,
+          "album": "ラブライ部 ラジオ課外活動 にこりんぱな テーマソングDJCD",
+          "length": 283,
+          "composer": ["河田貴央"]
         }
       },
       {
@@ -346,14 +450,18 @@
         "title.ko": "우리들은 지금 속에서",
         "artist": 0,
         "metadata": {
-          "released": 1358866800
+          "released": 1358866800,
+          "album": "僕らは今のなかで",
+          "length": 276
         }
       },
       {
         "title": "WILD STARS",
         "artist": 0,
         "metadata": {
-          "released": 1358866800
+          "released": 1358866800,
+          "album": "僕らは今のなかで",
+          "length": 258
         }
       },
       {
@@ -361,7 +469,9 @@
         "title.ko": "분명 청춘이 들릴 거야",
         "artist": 0,
         "metadata": {
-          "released": 1360076400
+          "released": 1360076400,
+          "album": "きっと青春が聞こえる",
+          "length": 247
         }
       },
       {
@@ -369,7 +479,9 @@
         "title.ko": "카구야의 성에서 춤추고 싶어",
         "artist": 0,
         "metadata": {
-          "released": 1360076400
+          "released": 1360076400,
+          "album": "きっと青春が聞こえる",
+          "length": 271
         }
       },
       {
@@ -377,14 +489,20 @@
         "title.ko": "나아가→Tomorrow",
         "artist": [5, 7, 8],
         "metadata": {
-          "released": 1361286000
+          "released": 1361286000,
+          "album": "ススメ→トゥモロウ / START：DASH！！",
+          "length": 274,
+          "composer": ["河田貴央"]
         }
       },
       {
         "title": "START:DASH!! 3인 버전",
         "artist": [5, 7, 8],
         "metadata": {
-          "released": 1361286000
+          "released": 1361286000,
+          "album": "ススメ→トゥモロウ / START：DASH！！",
+          "length": 254,
+          "composer": ["佐々木裕"]
         }
       },
       {
@@ -392,14 +510,18 @@
         "title.ko": "앞으로 다가올 Someday",
         "artist": [5, 7, 8, 9, 10, 12, 13],
         "metadata": {
-          "released": 1362495600
+          "released": 1362495600,
+          "album": "これからのSomeday / Wonder zone",
+          "length": 266
         }
       },
       {
         "title": "Wonder zone",
         "artist": 0,
         "metadata": {
-          "released": 1362495600
+          "released": 1362495600,
+          "album": "これからのSomeday / Wonder zone",
+          "length": 236
         }
       },
       {
@@ -407,35 +529,52 @@
         "title.ko": "꿈이 없는 꿈은 꿈이 아니야",
         "artist": 5,
         "metadata": {
-          "released": 1363878000
+          "released": 1363878000,
+          "album": "ラブライブ！TVA 1期 ブルーレイ 1冊 収録曲",
+          "length": 247,
+          "bpm": 157,
+          "composer": ["高田 暁"]
         }
       },
       {
         "title": "No brand girls",
         "artist": 0,
         "metadata": {
-          "released": 1364914800
+          "released": 1364914800,
+          "album": "No brand girls / START：DASH！！",
+          "length": 244,
+          "composer": ["河田貴央"]
         }
       },
       {
         "title": "START:DASH!!",
         "artist": 0,
         "metadata": {
-          "released": 1364914800
+          "released": 1364914800,
+          "album": "No brand girls / START：DASH！！",
+          "length": 255,
+          "composer": ["佐々木裕"]
         }
       },
       {
         "title": "Private Wars",
         "artist": 1,
         "metadata": {
-          "released": 1365519600
+          "released": 1365519600,
+          "album": "Notes of School idol days",
+          "length": 205,
+          "composer": ["板垣祐介"]
         }
       },
       {
         "title": "Anemone Heart",
         "artist": [7, 8],
         "metadata": {
-          "released": 1366729200
+          "released": 1366729200,
+          "album": "ラブライブ！TVA 1期 ブルーレイ 2冊 収録曲",
+          "length": 228,
+          "bpm": 129,
+          "composer": ["高田 暁"]
         }
       },
       {
@@ -443,14 +582,22 @@
         "title.ko": "줄넘기",
         "artist": 12,
         "metadata": {
-          "released": 1369666800
+          "released": 1369666800,
+          "album": "ラブライブ！TVA 1期 ブルーレイ 3冊 収録曲",
+          "length": 363,
+          "bpm": 75,
+          "composer": ["rino"]
         }
       },
       {
         "title": "Beat in Angel",
         "artist": [9, 10],
         "metadata": {
-          "released": 1371740400
+          "released": 1371740400,
+          "album": "ラブライブ！TVA 1期 ブルーレイ 4冊 収録曲",
+          "length": 252,
+          "bpm": 150,
+          "composer": ["倉内 達矢"]
         }
       },
       {
@@ -458,7 +605,10 @@
         "title.ko": "미열에서 Mystery",
         "artist": 4,
         "metadata": {
-          "released": 1372172400
+          "released": 1372172400,
+          "album": "微熱からMystery",
+          "length": 198,
+          "composer": ["佐々木裕"]
         }
       },
       {
@@ -466,14 +616,20 @@
         "title.ko": "너 주제에!",
         "artist": 4,
         "metadata": {
-          "released": 1372172400
+          "released": 1372172400,
+          "album": "微熱からMystery",
+          "length": 239,
+          "composer": ["杉森 舞"]
         }
       },
       {
         "title": "Cutie Panther",
         "artist": 3,
         "metadata": {
-          "released": 1374591600
+          "released": 1374591600,
+          "album": "Cutie Panther",
+          "length": 269,
+          "composer": ["佐々木裕"]
         }
       },
       {
@@ -481,7 +637,10 @@
         "title.ko": "여름, 끝나지 말아줘.",
         "artist": 3,
         "metadata": {
-          "released": 1374591600
+          "released": 1374591600,
+          "album": "Cutie Panther",
+          "length": 242,
+          "composer": ["渡辺和紀"]
         }
       },
       {
@@ -489,21 +648,29 @@
         "title.ko": "니코프리♥여자의 길",
         "artist": 13,
         "metadata": {
-          "released": 1374764400
+          "released": 1374764400,
+          "album": "ラブライブ！TVA 1期 ブルーレイ 5冊 収録曲",
+          "length": 265,
+          "bpm": 100,
+          "composer": ["江並哲志"]
         }
       },
       {
         "title": "Pure girls project",
         "artist": 2,
         "metadata": {
-          "released": 1377010800
+          "released": 1377010800,
+          "album": "Pure girls project",
+          "length": 274
         }
       },
       {
         "title": "UNBALANCED LOVE",
         "artist": 2,
         "metadata": {
-          "released": 1377010800
+          "released": 1377010800,
+          "album": "Pure girls project",
+          "length": 266
         }
       },
       {
@@ -511,14 +678,22 @@
         "title.ko": "유리의 화원",
         "artist": [6, 11],
         "metadata": {
-          "released": 1377615600
+          "released": 1377615600,
+          "album": "ラブライブ！TVA 1期 ブルーレイ 6冊 収録曲",
+          "length": 274,
+          "bpm": 168,
+          "composer": ["川崎里実"]
         }
       },
       {
         "title": "LONELIEST BABY",
         "artist": 0,
         "metadata": {
-          "released": 1380034800
+          "released": 1380034800,
+          "album": "ラブライブ！TVA 1期 ブルーレイ 7冊 収録曲",
+          "length": 300,
+          "bpm": 131,
+          "composer": ["倉内 達矢"]
         }
       },
       {
@@ -526,28 +701,40 @@
         "title.ko": "푹신푹신-오!",
         "artist": 2,
         "metadata": {
-          "released": 1380034800
+          "released": 1380034800,
+          "album": "ぷわぷわーお！",
+          "length": 221,
+          "composer": ["佐々倉 有吾"]
         }
       },
       {
         "title": "Music S.T.A.R.T!!",
         "artist": 0,
         "metadata": {
-          "released": 1385478000
+          "released": 1385478000,
+          "album": "Music S．T．A．R．T！！",
+          "length": 295,
+          "composer": ["山口朗彦"]
         }
       },
       {
         "title": "LOVELESS WORLD",
         "artist": 0,
         "metadata": {
-          "released": 1385478000
+          "released": 1385478000,
+          "album": "Music S．T．A．R．T！！",
+          "length": 314,
+          "composer": ["山田高弘"]
         }
       },
       {
         "title": "ENDLESS PARADE",
         "artist": 0,
         "metadata": {
-          "released": 1390921200
+          "released": 1390921200,
+          "album": "ENDLESS PARADE",
+          "length": 263,
+          "composer": ["矢吹 香那"]
         }
       },
       {
@@ -555,14 +742,20 @@
         "title.ko": "보물들",
         "artist": 0,
         "metadata": {
-          "released": 1390921200
+          "released": 1390921200,
+          "album": "タカラモノズ/Paradise Live",
+          "length": 226,
+          "composer": ["高田暁"]
         }
       },
       {
         "title": "Paradise Live",
         "artist": 0,
         "metadata": {
-          "released": 1390921200
+          "released": 1390921200,
+          "album": "タカラモノズ/Paradise Live",
+          "length": 309,
+          "composer": ["倉内達矢"]
         }
       },
       {
@@ -570,7 +763,10 @@
         "title.ko": "그것은 우리들의 기적",
         "artist": 0,
         "metadata": {
-          "released": 1398178800
+          "released": 1398178800,
+          "album": "それは僕たちの奇跡",
+          "length": 254,
+          "composer": ["黒須克彦"]
         }
       },
       {
@@ -578,7 +774,10 @@
         "title.ko": "그치만 그치만 아아 무정",
         "artist": 0,
         "metadata": {
-          "released": 1398178800
+          "released": 1398178800,
+          "album": "それは僕たちの奇跡",
+          "length": 333,
+          "composer": ["江並哲志"]
         }
       },
       {
@@ -586,14 +785,20 @@
         "title.ko": "어떤 때라도 계속",
         "artist": 0,
         "metadata": {
-          "released": 1399474800
+          "released": 1399474800,
+          "album": "どんなときもずっと",
+          "length": 277,
+          "composer": ["佐々木 裕"]
         }
       },
       {
         "title": "COLORFUL VOICE",
         "artist": 0,
         "metadata": {
-          "released": 1399474800
+          "released": 1399474800,
+          "album": "どんなときもずっと",
+          "length": 220,
+          "composer": ["渡辺和紀"]
         }
       },
       {
@@ -601,28 +806,40 @@
         "title.ko": "꿈의 문",
         "artist": 0,
         "metadata": {
-          "released": 1401202800
+          "released": 1401202800,
+          "album": "ユメノトビラ",
+          "length": 289,
+          "composer": ["佐伯高志"]
         }
       },
       {
         "title": "SENTIMENTAL StepS",
         "artist": 0,
         "metadata": {
-          "released": 1401202800
+          "released": 1401202800,
+          "album": "ユメノトビラ",
+          "length": 239,
+          "composer": ["高阪昌至"]
         }
       },
       {
         "title": "Love wing bell",
         "artist": [6, 9, 10, 11, 12, 13],
         "metadata": {
-          "released": 1402412400
+          "released": 1402412400,
+          "album": "Love wing bell/Dancing stars on me！",
+          "length": 287,
+          "composer": ["森 慎太郎"]
         }
       },
       {
         "title": "Dancing stars on me!",
         "artist": 0,
         "metadata": {
-          "released": 1402412400
+          "released": 1402412400,
+          "album": "Love wing bell/Dancing stars on me！",
+          "length": 273,
+          "composer": ["佐伯高志"]
         }
       },
       {
@@ -630,21 +847,31 @@
         "title.ko": "행복을 향한 SMILING!",
         "artist": 5,
         "metadata": {
-          "released": 1403190000
+          "released": 1403190000,
+          "album": "ラブライブ！TVA 2期 ブルーレイ 1冊 収録曲",
+          "length": 229,
+          "bpm": 106,
+          "composer": ["渡辺未来"]
         }
       },
       {
         "title": "KiRa-KiRa Sensation!",
         "artist": 0,
         "metadata": {
-          "released": 1404831600
+          "released": 1404831600,
+          "album": "KiRa-KiRa Sensation！/Happy maker！",
+          "length": 297,
+          "composer": ["本田光史郎"]
         }
       },
       {
         "title": "Happy maker!",
         "artist": 0,
         "metadata": {
-          "released": 1404831600
+          "released": 1404831600,
+          "album": "KiRa-KiRa Sensation！/Happy maker！",
+          "length": 296,
+          "composer": ["前口 渉"]
         }
       },
       {
@@ -652,7 +879,11 @@
         "title.ko": "치사해 Magnetic today",
         "artist": [10, 13],
         "metadata": {
-          "released": 1406214000
+          "released": 1406214000,
+          "album": "ラブライブ！TVA 2期 ブルーレイ 2冊 収録曲",
+          "length": 258,
+          "bpm": 90,
+          "composer": ["岡本健介"]
         }
       },
       {
@@ -660,35 +891,53 @@
         "title.ko": "빙그르르 MIRACLE",
         "artist": 9,
         "metadata": {
-          "released": 1409065200
+          "released": 1409065200,
+          "album": "ラブライブ！TVA 2期 ブルーレイ 3冊 収録曲",
+          "length": 294,
+          "bpm": 103,
+          "composer": ["森慎太郎"]
         }
       },
       {
         "title": "Shocking Party",
         "artist": 1,
         "metadata": {
-          "released": 1409065200
+          "released": 1409065200,
+          "album": "Notes of School idol days ~Glory~",
+          "length": 208,
+          "bpm": 134,
+          "composer": ["板垣祐介"]
         }
       },
       {
         "title": "Storm in Lover",
         "artist": [6, 8],
         "metadata": {
-          "released": 1411484400
+          "released": 1411484400,
+          "album": "ラブライブ！TVA 2期 ブルーレイ 4冊 収録曲",
+          "length": 271,
+          "bpm": 120,
+          "composer": ["増田 武史"]
         }
       },
       {
         "title": "Shangri-La Shower",
         "artist": 0,
         "metadata": {
-          "released": 1412089200
+          "released": 1412089200,
+          "album": "Shangri-La Shower",
+          "length": 311,
+          "composer": ["倉内達矢"]
         }
       },
       {
         "title": "るてしキスキしてる",
         "artist": 0,
         "metadata": {
-          "released": 1412089200
+          "released": 1412089200,
+          "album": "Shangri-La Shower",
+          "length": 333,
+          "composer": ["佐伯高志"]
         }
       },
       {
@@ -696,7 +945,11 @@
         "title.ko": "만약으로부터 분명",
         "artist": 11,
         "metadata": {
-          "released": 1414508400
+          "released": 1414508400,
+          "album": "ラブライブ！TVA 2期 ブルーレイ 5冊 収録曲",
+          "length": 319,
+          "bpm": 56,
+          "composer": ["川崎里実"]
         }
       },
       {
@@ -704,7 +957,10 @@
         "title.ko": "영원 프렌즈",
         "artist": 2,
         "metadata": {
-          "released": 1415718000
+          "released": 1415718000,
+          "album": "永遠フレンズ",
+          "length": 316,
+          "composer": ["中土智博"]
         }
       },
       {
@@ -712,7 +968,10 @@
         "title.ko": "나이팅게일 러브 송",
         "artist": 2,
         "metadata": {
-          "released": 1415718000
+          "released": 1415718000,
+          "album": "永遠フレンズ",
+          "length": 320,
+          "composer": ["渡辺和紀"]
         }
       },
       {
@@ -720,7 +979,11 @@
         "title.ko": "좋아하는데 좋아하나요?",
         "artist": [7, 12],
         "metadata": {
-          "released": 1416495600
+          "released": 1416495600,
+          "album": "ラブライブ！TVA 2期 ブルーレイ 6冊 収録曲",
+          "length": 293,
+          "bpm": 134,
+          "composer": ["渡辺 和紀"]
         }
       },
       {
@@ -728,7 +991,10 @@
         "title.ko": "가을의 당신의 하늘 저 멀리",
         "artist": 4,
         "metadata": {
-          "released": 1416927600
+          "released": 1416927600,
+          "album": "秋のあなたの空遠く",
+          "length": 220,
+          "composer": ["増田武史"]
         }
       },
       {
@@ -736,7 +1002,10 @@
         "title.ko": "두 사람 해피니스",
         "artist": 4,
         "metadata": {
-          "released": 1416927600
+          "released": 1416927600,
+          "album": "秋のあなたの空遠く",
+          "length": 370,
+          "composer": ["佐々木裕"]
         }
       },
       {
@@ -744,21 +1013,31 @@
         "title.ko": "겨울이 준 예감",
         "artist": 3,
         "metadata": {
-          "released": 1419346800
+          "released": 1419346800,
+          "album": "冬がくれた予感",
+          "length": 332,
+          "composer": ["佐伯高志"]
         }
       },
       {
         "title": "Trouble Busters",
         "artist": 3,
         "metadata": {
-          "released": 1419346800
+          "released": 1419346800,
+          "album": "冬がくれた予感",
+          "length": 285,
+          "composer": ["佐々倉有吾"]
         }
       },
       {
         "title": "CheerDay CheerGirl!",
         "artist": 2,
         "metadata": {
-          "released": 1419433200
+          "released": 1419433200,
+          "album": "CheerDay CheerGirl！",
+          "length": 241,
+          "bpm": 150,
+          "composer": ["佐々木裕"]
         }
       },
       {
@@ -766,14 +1045,22 @@
         "title.ko": "같은 별이 보고 싶어",
         "artist": 4,
         "metadata": {
-          "released": 1419433200
+          "released": 1419433200,
+          "album": "同じ星が見たい",
+          "length": 270,
+          "bpm": 162,
+          "composer": ["佐々木裕"]
         }
       },
       {
         "title": "Silent Tonight",
         "artist": 3,
         "metadata": {
-          "released": 1419433200
+          "released": 1419433200,
+          "album": "Silent tonight",
+          "length": 320,
+          "bpm": 82,
+          "composer": ["渡辺 和紀"]
         }
       },
       {
@@ -781,14 +1068,21 @@
         "title.ko": "그리고 마지막 페이지에는",
         "artist": 0,
         "metadata": {
-          "released": 1419433200
+          "released": 1419433200,
+          "album": "ラブライブ！TVA 2期 ブルーレイ 7冊 収録曲",
+          "length": 274,
+          "bpm": 134,
+          "composer": ["渡辺 和紀"]
         }
       },
       {
         "title": "Dreamin' Go! Go!!",
         "artist": 0,
         "metadata": {
-          "released": 1422630000
+          "released": 1422630000,
+          "album": "Dreamin' Go! Go!!",
+          "length": 303,
+          "composer": ["TSUKASA"]
         }
       },
       {
@@ -796,14 +1090,20 @@
         "title.ko": "미는 μ’sic의 미",
         "artist": 0,
         "metadata": {
-          "released": 1429628400
+          "released": 1429628400,
+          "album": "ミはμ'sicのミ",
+          "length": 277,
+          "composer": ["高田 暁"]
         }
       },
       {
         "title": "Super LOVE＝Super LIVE!",
         "artist": 0,
         "metadata": {
-          "released": 1429628400
+          "released": 1429628400,
+          "album": "ミはμ'sicのミ",
+          "length": 339,
+          "composer": ["河田貴央"]
         }
       },
       {
@@ -811,7 +1111,10 @@
         "title.ko": "최저이자 최고의 Paradiso",
         "artist": 3,
         "metadata": {
-          "released": 1432306800
+          "released": 1432306800,
+          "album": "最低で最高のParadiso",
+          "length": 266,
+          "composer": ["三浦 誠司"]
         }
       },
       {
@@ -819,7 +1122,10 @@
         "title.ko": "용녀 마음으로 사랑 궁전",
         "artist": 4,
         "metadata": {
-          "released": 1432306800
+          "released": 1432306800,
+          "album": "乙姫心で恋宮殿",
+          "length": 295,
+          "composer": ["木村 有希"]
         }
       },
       {
@@ -827,14 +1133,20 @@
         "title.ko": "MUSEUM에서 뭘하고 싶어?",
         "artist": 2,
         "metadata": {
-          "released": 1432306800
+          "released": 1432306800,
+          "album": "MUSEUMでどうしたい？",
+          "length": 256,
+          "composer": ["増田 武史"]
         }
       },
       {
         "title": "Angelic Angel",
         "artist": 0,
         "metadata": {
-          "released": 1435676400
+          "released": 1435676400,
+          "album": "Angelic Angel/Hello，星を数えて",
+          "length": 297,
+          "composer": ["森慎太郎"]
         }
       },
       {
@@ -842,21 +1154,30 @@
         "title.ko": "Hello, 별을 세며",
         "artist": [9, 10, 12],
         "metadata": {
-          "released": 1435676400
+          "released": 1435676400,
+          "album": "Angelic Angel/Hello，星を数えて",
+          "length": 274,
+          "composer": ["山口朗彦"]
         }
       },
       {
         "title": "SUNNY DAY SONG",
         "artist": 0,
         "metadata": {
-          "released": 1436281200
+          "released": 1436281200,
+          "album": "SUNNY DAY SONG/？←HEARTBEAT",
+          "length": 286,
+          "composer": ["倉内達矢"]
         }
       },
       {
         "title": "？←HEARTBEAT",
         "artist": [6, 11, 13],
         "metadata": {
-          "released": 1436281200
+          "released": 1436281200,
+          "album": "SUNNY DAY SONG/？←HEARTBEAT",
+          "length": 209,
+          "composer": ["本田光史郎"]
         }
       },
       {
@@ -864,28 +1185,40 @@
         "title.ko": "우리는 하나의 빛",
         "artist": 0,
         "metadata": {
-          "released": 1436886000
+          "released": 1436886000,
+          "album": "僕たちはひとつの光/Future style",
+          "length": 293,
+          "composer": ["ZAQ"]
         }
       },
       {
         "title": "Future style",
         "artist": [5, 7, 8],
         "metadata": {
-          "released": 1436886000
+          "released": 1436886000,
+          "album": "僕たちはひとつの光/Future style",
+          "length": 285,
+          "composer": ["本田光史郎"]
         }
       },
       {
         "title": "As Time Goes By",
         "artist": 0,
         "metadata": {
-          "released": 1438700400
+          "released": 1438700400,
+          "album": "Notes of School Idol Days ~Curtain Call~",
+          "length": 119,
+          "composer": ["Herman Hupfeld"]
         }
       },
       {
         "title": "HEART to HEART!",
         "artist": 0,
         "metadata": {
-          "released": 1445958000
+          "released": 1445958000,
+          "album": "HEART to HEART!",
+          "length": 283,
+          "composer": ["西岡和哉"]
         }
       },
       {
@@ -893,21 +1226,32 @@
         "title.ko": "폭풍 속의 사랑이니까",
         "artist": 0,
         "metadata": {
-          "released": 1445958000
+          "released": 1445958000,
+          "album": "HEART to HEART!",
+          "length": 318,
+          "composer": ["酒井陽一"]
         }
       },
       {
         "title": "WAO-WAO Powerful day!",
         "artist": 2,
         "metadata": {
-          "released": 1448377200
+          "released": 1448377200,
+          "album": "WAO-WAO Powerful day!",
+          "length": 193,
+          "bpm": 86,
+          "composer": ["佐々木裕"]
         }
       },
       {
         "title": "NO EXIT ORION",
         "artist": 2,
         "metadata": {
-          "released": 1448377200
+          "released": 1448377200,
+          "album": "WAO-WAO Powerful day!",
+          "length": 254,
+          "bpm": 162,
+          "composer": ["山田竜平"]
         }
       },
       {
@@ -915,7 +1259,11 @@
         "title.ko": "지금부터",
         "artist": 0,
         "metadata": {
-          "released": 1450105200
+          "released": 1450105200,
+          "album": "これから",
+          "length": 347,
+          "bpm": 85,
+          "composer": ["伊藤真澄", " ミト"]
         }
       },
       {
@@ -923,7 +1271,10 @@
         "title.ko": "추억 이상이 되고 싶어서",
         "artist": 4,
         "metadata": {
-          "released": 1450796400
+          "released": 1450796400,
+          "album": "思い出以上になりたくて",
+          "length": 242,
+          "composer": ["rino"]
         }
       },
       {
@@ -931,7 +1282,10 @@
         "title.ko": "춘정 로맨틱",
         "artist": 4,
         "metadata": {
-          "released": 1450796400
+          "released": 1450796400,
+          "album": "思い出以上になりたくて",
+          "length": 274,
+          "composer": ["佐々木裕"]
         }
       },
       {
@@ -939,21 +1293,30 @@
         "title.ko": "착각 CROSSROADS",
         "artist": 3,
         "metadata": {
-          "released": 1453215600
+          "released": 1453215600,
+          "album": "錯覚CROSSROADS",
+          "length": 299,
+          "composer": ["川崎里実"]
         }
       },
       {
         "title": "PSYCHIC FIRE",
         "artist": 3,
         "metadata": {
-          "released": 1453215600
+          "released": 1453215600,
+          "album": "錯覚CROSSROADS",
+          "length": 238,
+          "composer": ["森慎太郎"]
         }
       },
       {
         "title": "MOMENT RING",
         "artist": 0,
         "metadata": {
-          "released": 1456844400
+          "released": 1456844400,
+          "album": "MOMENT RING",
+          "length": 370,
+          "composer": ["高田暁"]
         }
       },
       {
@@ -961,14 +1324,20 @@
         "title.ko": "안녕이란 말에 안녕!",
         "artist": 0,
         "metadata": {
-          "released": 1456844400
+          "released": 1456844400,
+          "album": "MOMENT RING",
+          "length": 309,
+          "composer": ["増谷賢"]
         }
       },
       {
         "title": "A Song for You! You? You!!",
         "artist": 0,
         "metadata": {
-          "released": 1585062000
+          "released": 1585062000,
+          "album": "A song for You! You? You!!",
+          "length": 351,
+          "composer": ["高田 暁"]
         }
       },
       {
@@ -976,7 +1345,10 @@
         "title.ko": "되어버렸다!",
         "artist": 0,
         "metadata": {
-          "released": 1585062000
+          "released": 1585062000,
+          "album": "A song for You! You? You!!",
+          "length": 277,
+          "composer": ["山田高弘"]
         }
       }
     ],
@@ -986,21 +1358,30 @@
         "title.ko": "너의 마음은 빛나고 있니?",
         "artist": 0,
         "metadata": {
-          "released": 1444176000
+          "released": 1444176000,
+          "album": "君のこころは輝いてるかい？",
+          "length": 285,
+          "composer": ["光増ハジメ"]
         }
       },
       {
         "title": "Step! ZERO to ONE",
         "artist": 0,
         "metadata": {
-          "released": 1444176000
+          "released": 1444176000,
+          "album": "君のこころは輝いてるかい？",
+          "length": 284,
+          "composer": ["高田 暁"]
         }
       },
       {
         "title": "Aqours☆HEROES",
         "artist": 0,
         "metadata": {
-          "released": 1444176000
+          "released": 1444176000,
+          "album": "君のこころは輝いてるかい？",
+          "length": 256,
+          "composer": ["渡辺和紀"]
         }
       },
       {
@@ -1008,7 +1389,10 @@
         "title.ko": "사랑이 되고 싶은 AQUARIUM",
         "artist": 0,
         "metadata": {
-          "released": 1461715200
+          "released": 1461715200,
+          "album": "恋になりたいAQUARIUM",
+          "length": 309,
+          "composer": ["佐々倉有吾"]
         }
       },
       {
@@ -1016,7 +1400,10 @@
         "title.ko": "기다려줘 사랑의 노래",
         "artist": 0,
         "metadata": {
-          "released": 1461715200
+          "released": 1461715200,
+          "album": "恋になりたいAQUARIUM",
+          "length": 361,
+          "composer": ["山口朗彦"]
         }
       },
       {
@@ -1024,7 +1411,10 @@
         "title.ko": "닿을 수 없는 별이라 해도",
         "artist": 0,
         "metadata": {
-          "released": 1461715200
+          "released": 1461715200,
+          "album": "恋になりたいAQUARIUM",
+          "length": 288,
+          "composer": ["宮崎 誠"]
         }
       },
       {
@@ -1032,7 +1422,10 @@
         "title.ko": "원기전개 DAY! DAY! DAY!",
         "artist": 3,
         "metadata": {
-          "released": 1462924800
+          "released": 1462924800,
+          "album": "元気全開DAY! DAY! DAY!",
+          "length": 240,
+          "composer": ["高田 暁"]
         }
       },
       {
@@ -1040,7 +1433,10 @@
         "title.ko": "밤하는을 뭐든지 알고 있는 거야?",
         "artist": 3,
         "metadata": {
-          "released": 1462924800
+          "released": 1462924800,
+          "album": "元気全開DAY! DAY! DAY!",
+          "length": 278,
+          "composer": ["Kon-K"]
         }
       },
       {
@@ -1048,7 +1444,10 @@
         "title.ko": "토리코리코 PLEASE!!",
         "artist": 4,
         "metadata": {
-          "released": 1464134400
+          "released": 1464134400,
+          "album": "トリコリコPLEASE!!",
+          "length": 227,
+          "composer": ["宮崎 誠"]
         }
       },
       {
@@ -1056,21 +1455,30 @@
         "title.ko": "두근거림 분류학",
         "artist": 4,
         "metadata": {
-          "released": 1464134400
+          "released": 1464134400,
+          "album": "トリコリコPLEASE!!",
+          "length": 291,
+          "composer": ["金崎真士"]
         }
       },
       {
         "title": "Strawberry Trapper",
         "artist": 5,
         "metadata": {
-          "released": 1465344000
+          "released": 1465344000,
+          "album": "Strawberry Trapper",
+          "length": 236,
+          "composer": ["金崎真士"]
         }
       },
       {
         "title": "Guilty Night, Guilty Kiss!",
         "artist": 5,
         "metadata": {
-          "released": 1465344000
+          "released": 1465344000,
+          "album": "Strawberry Trapper",
+          "length": 247,
+          "composer": ["R・O・N"]
         }
       },
       {
@@ -1078,7 +1486,10 @@
         "title.ko": "푸른 하늘 Jumping Heart",
         "artist": 0,
         "metadata": {
-          "released": 1468972800
+          "released": 1468972800,
+          "album": "青空Jumping Heart",
+          "length": 284,
+          "composer": ["伊藤 賢", "光増ハジメ"]
         }
       },
       {
@@ -1086,7 +1497,10 @@
         "title.ko": "허밍 프렌드",
         "artist": 0,
         "metadata": {
-          "released": 1468972800
+          "released": 1468972800,
+          "album": "青空Jumping Heart",
+          "length": 310,
+          "composer": ["桑原 聖 (Arte Refact)"]
         }
       },
       {
@@ -1094,7 +1508,10 @@
         "title.ko": "결정했어 Hand in Hand",
         "artist": [6, 7, 10],
         "metadata": {
-          "released": 1470182400
+          "released": 1470182400,
+          "album": "決めたよHand in Hand/ダイスキだったらダイジョウブ！",
+          "length": 267,
+          "composer": ["渡辺拓也"]
         }
       },
       {
@@ -1102,7 +1519,10 @@
         "title.ko": "정말로 좋아한다면 괜찮아!",
         "artist": [6, 7, 10],
         "metadata": {
-          "released": 1470182400
+          "released": 1470182400,
+          "album": "決めたよHand in Hand/ダイスキだったらダイジョウブ！",
+          "length": 272,
+          "composer": ["高田 暁"]
         }
       },
       {
@@ -1110,7 +1530,10 @@
         "title.ko": "꿈을 말하기보다는 꿈을 노래하자",
         "artist": 0,
         "metadata": {
-          "released": 1471996800
+          "released": 1471996800,
+          "album": "ユメ語るよりユメ歌おう",
+          "length": 279,
+          "composer": ["山口朗彦"]
         }
       },
       {
@@ -1118,7 +1541,10 @@
         "title.ko": "선샤인 반짝반짝 선창",
         "artist": 0,
         "metadata": {
-          "released": 1471996800
+          "released": 1471996800,
+          "album": "ユメ語るよりユメ歌おう",
+          "length": 322,
+          "composer": ["伊藤真澄"]
         }
       },
       {
@@ -1126,7 +1552,10 @@
         "title.ko": "꿈으로 밤하늘을 비추고 싶어",
         "artist": [6, 7, 10, 11, 12, 14],
         "metadata": {
-          "released": 1473811200
+          "released": 1473811200,
+          "album": "夢で夜空を照らしたい/未熟DREAMER",
+          "length": 334,
+          "composer": ["光増ハジメ"]
         }
       },
       {
@@ -1134,7 +1563,10 @@
         "title.ko": "미숙 DREAMER",
         "artist": 0,
         "metadata": {
-          "released": 1473811200
+          "released": 1473811200,
+          "album": "夢で夜空を照らしたい/未熟DREAMER",
+          "length": 351,
+          "composer": ["渡辺和紀"]
         }
       },
       {
@@ -1142,7 +1574,9 @@
         "title.ko": "Pops heart로 춤추는걸!",
         "artist": 0,
         "metadata": {
-          "released": 1474934400
+          "released": 1474934400,
+          "album": "Pops heartで踊るんだもん！",
+          "length": 322
         }
       },
       {
@@ -1150,7 +1584,9 @@
         "title.ko": "하늘도 마음도 맑을 테니까",
         "artist": [6, 7, 10],
         "metadata": {
-          "released": 1477440000
+          "released": 1477440000,
+          "album": "空も心も晴れるから",
+          "length": 304
         }
       },
       {
@@ -1158,14 +1594,20 @@
         "title.ko": "마음이여 하나가 되어라",
         "artist": [6, 8, 9, 10, 11, 12, 13, 14],
         "metadata": {
-          "released": 1478649600
+          "released": 1478649600,
+          "album": "想いよひとつになれ/MIRAI TICKET",
+          "length": 294,
+          "composer": ["佐伯高志"]
         }
       },
       {
         "title": "MIRAI TICKET",
         "artist": 0,
         "metadata": {
-          "released": 1478649600
+          "released": 1478649600,
+          "album": "想いよひとつになれ/MIRAI TICKET",
+          "length": 245,
+          "composer": ["EFFY"]
         }
       },
       {
@@ -1173,7 +1615,10 @@
         "title.ko": "징글벨이 멈추지 않아",
         "artist": 0,
         "metadata": {
-          "released": 1479859200
+          "released": 1479859200,
+          "album": "ジングルベルがとまらない",
+          "length": 289,
+          "composer": ["光増ハジメ"]
         }
       },
       {
@@ -1181,28 +1626,38 @@
         "title.ko": "성스러운 날의 기도",
         "artist": 0,
         "metadata": {
-          "released": 1479859200
+          "released": 1479859200,
+          "album": "ジングルベルがとまらない",
+          "length": 278,
+          "composer": ["田中俊亮"]
         }
       },
       {
         "title": "SELF CONTROL!!",
         "artist": 1,
         "metadata": {
-          "released": 1479859200
+          "released": 1479859200,
+          "album": "TVアニメ『ラブライブ！サンシャイン!!』オリジナルサウンドトラック「Sailing to the Sunshine」",
+          "length": 238,
+          "composer": ["河田貴央"]
         }
       },
       {
         "title": "Waku-Waku-Week!",
         "artist": [11, 12, 14],
         "metadata": {
-          "released": 1480032000
+          "released": 1480032000,
+          "album": "Waku-Waku-Week!",
+          "length": 256
         }
       },
       {
         "title": "Daydream Warrior",
         "artist": 0,
         "metadata": {
-          "released": 1482364800
+          "released": 1482364800,
+          "album": "Daydream Warrior",
+          "length": 275
         }
       },
       {
@@ -1210,7 +1665,9 @@
         "title.ko": "G선상의 신데렐라",
         "artist": [8, 9, 13],
         "metadata": {
-          "released": 1485475200
+          "released": 1485475200,
+          "album": "G線上のシンデレラ",
+          "length": 258
         }
       },
       {
@@ -1218,7 +1675,9 @@
         "title.ko": "스릴링・원 웨이",
         "artist": 0,
         "metadata": {
-          "released": 1487894400
+          "released": 1487894400,
+          "album": "スリリング・ワンウェイ",
+          "length": 272
         }
       },
       {
@@ -1226,21 +1685,27 @@
         "title.ko": "P.S.의 건너편",
         "artist": 3,
         "metadata": {
-          "released": 1490313600
+          "released": 1490313600,
+          "album": "P.S.の向こう側",
+          "length": 270
         }
       },
       {
         "title": "LONELY TUNING",
         "artist": 4,
         "metadata": {
-          "released": 1490313600
+          "released": 1490313600,
+          "album": "LONELY TUNING",
+          "length": 261
         }
       },
       {
         "title": "Guilty Eyes Fever",
         "artist": 5,
         "metadata": {
-          "released": 1490313600
+          "released": 1490313600,
+          "album": "Guilty Eyes Fever",
+          "length": 253
         }
       },
       {
@@ -1248,21 +1713,28 @@
         "title.ko": "태양을 쫓아가자!",
         "artist": 0,
         "metadata": {
-          "released": 1490313600
+          "released": 1490313600,
+          "length": 303
         }
       },
       {
         "title": "HAPPY PARTY TRAIN",
         "artist": 0,
         "metadata": {
-          "released": 1491350400
+          "released": 1491350400,
+          "album": "HAPPY PARTY TRAIN",
+          "length": 277,
+          "composer": ["渡辺拓也"]
         }
       },
       {
         "title": "SKY JOURNEY",
         "artist": 0,
         "metadata": {
-          "released": 1491350400
+          "released": 1491350400,
+          "album": "HAPPY PARTY TRAIN",
+          "length": 245,
+          "composer": ["早川博隆"]
         }
       },
       {
@@ -1270,7 +1742,10 @@
         "title.ko": "소녀 이상의 사랑이 하고 싶어",
         "artist": 0,
         "metadata": {
-          "released": 1491350400
+          "released": 1491350400,
+          "album": "HAPPY PARTY TRAIN",
+          "length": 292,
+          "composer": ["TAKAROT", "KOUDAI IWATSUBO"]
         }
       },
       {
@@ -1278,7 +1753,10 @@
         "title.ko": "근미래 해피엔드",
         "artist": 3,
         "metadata": {
-          "released": 1494374400
+          "released": 1494374400,
+          "album": "近未来ハッピーエンド",
+          "length": 310,
+          "composer": ["藤井亮太"]
         }
       },
       {
@@ -1286,21 +1764,30 @@
         "title.ko": "해안 도로에서 기다릴게",
         "artist": 3,
         "metadata": {
-          "released": 1494374400
+          "released": 1494374400,
+          "album": "近未来ハッピーエンド",
+          "length": 260,
+          "composer": ["渡辺未来"]
         }
       },
       {
         "title": "GALAXY HidE and SeeK",
         "artist": 4,
         "metadata": {
-          "released": 1496188800
+          "released": 1496188800,
+          "album": "GALAXY HidE and SeeK",
+          "length": 261,
+          "composer": ["竹市佳伸"]
         }
       },
       {
         "title": "INNOCENT BIRD",
         "artist": 4,
         "metadata": {
-          "released": 1496188800
+          "released": 1496188800,
+          "album": "GALAXY HidE and SeeK",
+          "length": 225,
+          "composer": ["江並哲志"]
         }
       },
       {
@@ -1308,21 +1795,30 @@
         "title.ko": "부서지기 쉬운 사랑",
         "artist": 5,
         "metadata": {
-          "released": 1498003200
+          "released": 1498003200,
+          "album": "コワレヤスキ",
+          "length": 302,
+          "composer": ["佐伯高志"]
         }
       },
       {
         "title": "Shadow gate to love",
         "artist": 5,
         "metadata": {
-          "released": 1498003200
+          "released": 1498003200,
+          "album": "コワレヤスキ",
+          "length": 246,
+          "composer": ["渡辺和紀"]
         }
       },
       {
         "title": "Landing action Yeah!!",
         "artist": 0,
         "metadata": {
-          "released": 1498780800
+          "released": 1498780800,
+          "album": "Landing action Yeah!!",
+          "length": 267,
+          "composer": ["光増ハジメ"]
         }
       },
       {
@@ -1330,7 +1826,10 @@
         "title.ko": "여름 끝의 빗소리가",
         "artist": [6, 8],
         "metadata": {
-          "released": 1501632000
+          "released": 1501632000,
+          "album": "SUMMER VACATION",
+          "length": 321,
+          "composer": ["片桐周太郎"]
         }
       },
       {
@@ -1338,7 +1837,10 @@
         "title.ko": "한 여름은 누구의 것?",
         "artist": [9, 14],
         "metadata": {
-          "released": 1501632000
+          "released": 1501632000,
+          "album": "SUMMER VACATION",
+          "length": 277,
+          "composer": ["原田 篤 (Arte Refact)"]
         }
       },
       {
@@ -1346,7 +1848,10 @@
         "title.ko": "고향 사랑♡가득 담은☆서머 라이프",
         "artist": [10, 11],
         "metadata": {
-          "released": 1501632000
+          "released": 1501632000,
+          "album": "SUMMER VACATION",
+          "length": 286,
+          "composer": ["石倉誉之"]
         }
       },
       {
@@ -1354,7 +1859,10 @@
         "title.ko": "여름으로의 문 Never end ver.",
         "artist": [7, 12, 13],
         "metadata": {
-          "released": 1501632000
+          "released": 1501632000,
+          "album": "SUMMER VACATION",
+          "length": 256,
+          "composer": ["金崎真士"]
         }
       },
       {
@@ -1362,7 +1870,10 @@
         "title.ko": "미래의 우리는 알고 있어",
         "artist": 0,
         "metadata": {
-          "released": 1508889600
+          "released": 1508889600,
+          "album": "未来の僕らは知ってるよ",
+          "length": 250,
+          "composer": ["光増ハジメ"]
         }
       },
       {
@@ -1370,7 +1881,10 @@
         "title.ko": "너의 눈동자를 둘러싼 모험",
         "artist": 0,
         "metadata": {
-          "released": 1508889600
+          "released": 1508889600,
+          "album": "未来の僕らは知ってるよ",
+          "length": 322,
+          "composer": ["渡辺和紀"]
         }
       },
       {
@@ -1378,14 +1892,20 @@
         "title.ko": "용기는 어디에? 너의 가슴에!",
         "artist": 0,
         "metadata": {
-          "released": 1510704000
+          "released": 1510704000,
+          "album": "勇気はどこに？君の胸に！",
+          "length": 284,
+          "composer": ["小高光太郎", "UiNA"]
         }
       },
       {
         "title": "“MY LIST” to you!",
         "artist": 0,
         "metadata": {
-          "released": 1510704000
+          "released": 1510704000,
+          "album": "勇気はどこに？君の胸に！",
+          "length": 243,
+          "composer": ["原 知也"]
         }
       },
       {
@@ -1393,56 +1913,79 @@
         "title.ko": "MY무희☆TONIGHT",
         "artist": 0,
         "metadata": {
-          "released": 1511913600
+          "released": 1511913600,
+          "album": "MY舞☆TONIGHT/MIRACLE WAVE",
+          "length": 265,
+          "composer": ["EFFY (FirstCall)"]
         }
       },
       {
         "title": "MIRACLE WAVE",
         "artist": 0,
         "metadata": {
-          "released": 1511913600
+          "released": 1511913600,
+          "album": "MY舞☆TONIGHT/MIRACLE WAVE",
+          "length": 252,
+          "composer": ["酒井拓也 (Arte Refact)"]
         }
       },
       {
         "title": "Awaken the Power",
         "artist": 2,
         "metadata": {
-          "released": 1513728000
+          "released": 1513728000,
+          "album": "Awaken the power",
+          "length": 297,
+          "composer": ["河田貴央"]
         }
       },
       {
         "title": "CRASH MIND",
         "artist": 1,
         "metadata": {
-          "released": 1513728000
+          "released": 1513728000,
+          "album": "Awaken the power",
+          "length": 260,
+          "composer": ["宮崎 誠"]
         }
       },
       {
         "title": "DROPOUT!",
         "artist": 1,
         "metadata": {
-          "released": 1513728000
+          "released": 1513728000,
+          "album": "Awaken the power",
+          "length": 237,
+          "composer": ["馬渕直純"]
         }
       },
       {
         "title": "One More Sunshine Story",
         "artist": 6,
         "metadata": {
-          "released": 1513900800
+          "released": 1513900800,
+          "album": "One More Sunshine Story",
+          "length": 272
         }
       },
       {
         "title": "WATER BLUE NEW WORLD",
         "artist": 0,
         "metadata": {
-          "released": 1516233600
+          "released": 1516233600,
+          "album": "WATER BLUE NEW WORLD/WONDERFUL STORIES",
+          "length": 343,
+          "composer": ["佐伯高志"]
         }
       },
       {
         "title": "WONDERFUL STORIES",
         "artist": 0,
         "metadata": {
-          "released": 1516233600
+          "released": 1516233600,
+          "album": "WATER BLUE NEW WORLD/WONDERFUL STORIES",
+          "length": 279,
+          "composer": ["Carlos K."]
         }
       },
       {
@@ -1450,49 +1993,63 @@
         "title.ko": "안녕히 주무세여러분!",
         "artist": 12,
         "metadata": {
-          "released": 1516924800
+          "released": 1516924800,
+          "album": "おやすみなさん！",
+          "length": 249
         }
       },
       {
         "title": "in this unstable world",
         "artist": 11,
         "metadata": {
-          "released": 1519344000
+          "released": 1519344000,
+          "album": "in this unstable world/Pianoforte Monologue",
+          "length": 245
         }
       },
       {
         "title": "Pianoforte Monologue",
         "artist": 7,
         "metadata": {
-          "released": 1519344000
+          "released": 1519344000,
+          "album": "in this unstable world/Pianoforte Monologue",
+          "length": 307
         }
       },
       {
         "title": "Beginner's Sailing",
         "artist": 10,
         "metadata": {
-          "released": 1521763200
+          "released": 1521763200,
+          "album": "Beginner's Sailing",
+          "length": 291
         }
       },
       {
         "title": "RED GEM WINK",
         "artist": 14,
         "metadata": {
-          "released": 1524528000
+          "released": 1524528000,
+          "album": "RED GEM WINK/WHITE FIRST LOVE",
+          "length": 296
         }
       },
       {
         "title": "WHITE FIRST LOVE",
         "artist": 9,
         "metadata": {
-          "released": 1524528000
+          "released": 1524528000,
+          "album": "RED GEM WINK/WHITE FIRST LOVE",
+          "length": 271
         }
       },
       {
         "title": "New winding road",
         "artist": 13,
         "metadata": {
-          "released": 1527206400
+          "released": 1527206400,
+          "album": "New winding road/さかなかなんだか？",
+          "length": 293
         }
       },
       {
@@ -1500,7 +2057,9 @@
         "title.ko": "물고기 카난일카?",
         "artist": 8,
         "metadata": {
-          "released": 1527206400
+          "released": 1527206400,
+          "album": "New winding road/さかなかなんだか？",
+          "length": 289
         }
       },
       {
@@ -1508,7 +2067,9 @@
         "title.ko": "벛꽃 바이바이",
         "artist": 3,
         "metadata": {
-          "released": 1529625600
+          "released": 1529625600,
+          "album": "サクラバイバイ",
+          "length": 280
         }
       },
       {
@@ -1523,7 +2084,9 @@
         "title": "Guilty!? Farewell Party",
         "artist": 5,
         "metadata": {
-          "released": 1529625600
+          "released": 1529625600,
+          "album": "Guilty!? Farewell party",
+          "length": 241
         }
       },
       {
@@ -1531,7 +2094,9 @@
         "title.ko": "기적, 빛나다",
         "artist": 0,
         "metadata": {
-          "released": 1529625600
+          "released": 1529625600,
+          "album": "キセキヒカル",
+          "length": 287
         }
       },
       {
@@ -1539,7 +2104,9 @@
         "title.ko": "Hop・Step・와이!",
         "artist": 0,
         "metadata": {
-          "released": 1530316800
+          "released": 1530316800,
+          "album": "ホップ・ステップ・ワーイ！",
+          "length": 291
         }
       },
       {
@@ -1547,7 +2114,9 @@
         "title.ko": "Hop・Step・와이! [CYaRon! Ver.]",
         "artist": 3,
         "metadata": {
-          "released": 1530316800
+          "released": 1530316800,
+          "album": "ホップ・ステップ・ワーイ！",
+          "length": 291
         }
       },
       {
@@ -1555,7 +2124,9 @@
         "title.ko": "Hop・Step・와이! [AZALEA Ver.]",
         "artist": 4,
         "metadata": {
-          "released": 1530316800
+          "released": 1530316800,
+          "album": "ホップ・ステップ・ワーイ！",
+          "length": 291
         }
       },
       {
@@ -1563,21 +2134,29 @@
         "title.ko": "Hop・Step・와이! [Guilty Kiss Ver.]",
         "artist": 5,
         "metadata": {
-          "released": 1530316800
+          "released": 1530316800,
+          "album": "ホップ・ステップ・ワーイ！",
+          "length": 291
         }
       },
       {
         "title": "Thank you, FRIENDS!!",
         "artist": 0,
         "metadata": {
-          "released": 1533081600
+          "released": 1533081600,
+          "album": "Thank you, FRIENDS!!",
+          "length": 384,
+          "composer": ["イワツボコーダイ", "TAKAROT"]
         }
       },
       {
         "title": "No.10",
         "artist": 0,
         "metadata": {
-          "released": 1533081600
+          "released": 1533081600,
+          "album": "Thank you, FRIENDS!!",
+          "length": 331,
+          "composer": ["Akira Sunset"]
         }
       },
       {
@@ -1585,14 +2164,18 @@
         "title.ko": "시작의 길",
         "artist": [11, 12, 14],
         "metadata": {
-          "released": 1543017600
+          "released": 1543017600,
+          "album": "ハジマリロード",
+          "length": 265
         }
       },
       {
         "title": "Marine Border Parasol",
         "artist": [6, 7, 10],
         "metadata": {
-          "released": 1543017600
+          "released": 1543017600,
+          "album": "Marine Border Parasol",
+          "length": 295
         }
       },
       {
@@ -1600,7 +2183,9 @@
         "title.ko": "예측 불가능 Driving!",
         "artist": [8, 9, 13],
         "metadata": {
-          "released": 1543017600
+          "released": 1543017600,
+          "album": "予測不可能Driving!",
+          "length": 228
         }
       },
       {
@@ -1608,14 +2193,20 @@
         "title.ko": "우리가 달려온 길은…",
         "artist": 0,
         "metadata": {
-          "released": 1548201600
+          "released": 1548201600,
+          "album": "僕らの走ってきた道は…/Next SPARKLING!!",
+          "length": 329,
+          "composer": ["EFFY (FirstCall)"]
         }
       },
       {
         "title": "Next SPARKLING!!",
         "artist": 0,
         "metadata": {
-          "released": 1548201600
+          "released": 1548201600,
+          "album": "僕らの走ってきた道は…/Next SPARKLING!!",
+          "length": 389,
+          "composer": ["Carlos K."]
         }
       },
       {
@@ -1623,70 +2214,99 @@
         "title.ko": "도망 황망 뫼비우스의 띠",
         "artist": [8, 9, 13],
         "metadata": {
-          "released": 1548806400
+          "released": 1548806400,
+          "album": "逃走迷走メビウスループ/Hop? Stop? Nonstop!",
+          "length": 329,
+          "composer": ["山口朗彦"]
         }
       },
       {
         "title": "Hop? Stop? Nonstop!",
         "artist": 0,
         "metadata": {
-          "released": 1548806400
+          "released": 1548806400,
+          "album": "逃走迷走メビウスループ/Hop? Stop? Nonstop!",
+          "length": 224,
+          "composer": ["Keisuke Koyama", "Kanata Okajima"]
         }
       },
       {
         "title": "Believe Again",
         "artist": 1,
         "metadata": {
-          "released": 1549411200
+          "released": 1549411200,
+          "album": "Believe again/Brightest Melody/Over The Next Rainbow",
+          "length": 282,
+          "composer": ["河田貴央"]
         }
       },
       {
         "title": "Brightest Melody",
         "artist": 0,
         "metadata": {
-          "released": 1549411200
+          "released": 1549411200,
+          "album": "Believe again/Brightest Melody/Over The Next Rainbow",
+          "length": 261,
+          "composer": ["光増ハジメ (FirstCall)"]
         }
       },
       {
         "title": "Over The Next Rainbow",
         "artist": 2,
         "metadata": {
-          "released": 1549411200
+          "released": 1549411200,
+          "album": "Believe again/Brightest Melody/Over The Next Rainbow",
+          "length": 299,
+          "composer": ["Kanata Okajima", "TAKAROT"]
         }
       },
       {
         "title": "Jump up HIGH!!",
         "artist": 0,
         "metadata": {
-          "released": 1561852800
+          "released": 1561852800,
+          "album": "Jump up HIGH!!",
+          "length": 280,
+          "composer": ["Kanata Okajima", "KOUDAI IWATSUBO", "TAKAROT"]
         }
       },
       {
         "title": "Jump up HIGH!! (CYaRon! Ver.)",
         "artist": 0,
         "metadata": {
-          "released": 1561852800
+          "released": 1561852800,
+          "album": "Jump up HIGH!!",
+          "length": 280,
+          "composer": ["TAKAROT", "KOUDAI IWATSUBO", "Kanata Okajima"]
         }
       },
       {
         "title": "Jump up HIGH!! (AZALEA Ver.)",
         "artist": 0,
         "metadata": {
-          "released": 1561852800
+          "released": 1561852800,
+          "album": "Jump up HIGH!!",
+          "length": 280,
+          "composer": ["TAKAROT", "KOUDAI IWATSUBO", "Kanata Okajima"]
         }
       },
       {
         "title": "Jump up HIGH!! (Guilty Kiss Ver.)",
         "artist": 0,
         "metadata": {
-          "released": 1561852800
+          "released": 1561852800,
+          "album": "Jump up HIGH!!",
+          "length": 280,
+          "composer": ["KOUDAI IWATSUBO", "TAKAROT", "Kanata Okajima"]
         }
       },
       {
         "title": "\"I-n-g, I Try!!\"",
         "artist": 0,
         "metadata": {
-          "released": 1564099200
+          "released": 1564099200,
+          "album": "i-n-g, I TRY!!",
+          "length": 272
         }
       },
       {
@@ -1694,7 +2314,9 @@
         "title.ko": "모험 타입 A, B, C!!",
         "artist": 0,
         "metadata": {
-          "released": 1564099200
+          "released": 1564099200,
+          "album": "冒険Type A, B, C!!",
+          "length": 279
         }
       },
       {
@@ -1702,70 +2324,97 @@
         "title.ko": "미체험 HORIZON",
         "artist": 0,
         "metadata": {
-          "released": 1569369600
+          "released": 1569369600,
+          "album": "未体験HORIZON",
+          "length": 320
         }
       },
       {
         "title": "Deep Resonance",
         "artist": 0,
         "metadata": {
-          "released": 1569369600
+          "released": 1569369600,
+          "album": "未体験HORIZON",
+          "length": 313
         }
       },
       {
         "title": "Dance with Minotaurus",
         "artist": 0,
         "metadata": {
-          "released": 1569369600
+          "released": 1569369600,
+          "album": "未体験HORIZON",
+          "length": 300
         }
       },
       {
         "title": "KOKORO Magic “A to Z”",
         "artist": 0,
         "metadata": {
-          "released": 1572393600
+          "released": 1572393600,
+          "album": "KOKORO Magic \"A to Z\"",
+          "length": 276,
+          "composer": ["EFFY (FirstCall)"]
         }
       },
       {
         "title": "Wake up, Challenger!!",
         "artist": 0,
         "metadata": {
-          "released": 1572393600
+          "released": 1572393600,
+          "album": "KOKORO Magic \"A to Z\"",
+          "length": 330,
+          "composer": ["河田貴央"]
         }
       },
       {
         "title": "New Romantic Sailors",
         "artist": 5,
         "metadata": {
-          "released": 1574812800
+          "released": 1574812800,
+          "album": "New Romantic Sailors",
+          "length": 283,
+          "composer": ["杉山勝彦", "ulala"]
         }
       },
       {
         "title": "Love Pulsar",
         "artist": 5,
         "metadata": {
-          "released": 1574812800
+          "released": 1574812800,
+          "album": "New Romantic Sailors",
+          "length": 270,
+          "composer": ["渡辺未来"]
         }
       },
       {
         "title": "Phantom Rocket Adventure",
         "artist": 5,
         "metadata": {
-          "released": 1574812800
+          "released": 1574812800,
+          "album": "New Romantic Sailors",
+          "length": 217,
+          "composer": ["本多友紀 (Arte Refact)"]
         }
       },
       {
         "title": "Braveheart Coaster",
         "artist": 3,
         "metadata": {
-          "released": 1575417600
+          "released": 1575417600,
+          "album": "Braveheart Coaster",
+          "length": 266,
+          "composer": ["高田 暁"]
         }
       },
       {
         "title": "CHANGELESS",
         "artist": 3,
         "metadata": {
-          "released": 1575417600
+          "released": 1575417600,
+          "album": "Braveheart Coaster",
+          "length": 310,
+          "composer": ["前口 渉"]
         }
       },
       {
@@ -1773,14 +2422,20 @@
         "title.ko": "고독・텔레포트",
         "artist": 3,
         "metadata": {
-          "released": 1575417600
+          "released": 1575417600,
+          "album": "Braveheart Coaster",
+          "length": 252,
+          "composer": ["原田 篤 (Arte Refact)"]
         }
       },
       {
         "title": "Amazing Travel DNA",
         "artist": 4,
         "metadata": {
-          "released": 1576022400
+          "released": 1576022400,
+          "album": "Amazing Travel DNA",
+          "length": 256,
+          "composer": ["山田竜平"]
         }
       },
       {
@@ -1788,7 +2443,10 @@
         "title.ko": "공중연애론",
         "artist": 4,
         "metadata": {
-          "released": 1576022400
+          "released": 1576022400,
+          "album": "Amazing Travel DNA",
+          "length": 223,
+          "composer": ["Kohei by SIMONSAYZ"]
         }
       },
       {
@@ -1796,7 +2454,10 @@
         "title.ko": "미로 세계",
         "artist": 4,
         "metadata": {
-          "released": 1576022400
+          "released": 1576022400,
+          "album": "Amazing Travel DNA",
+          "length": 272,
+          "composer": ["黒川陽介"]
         }
       },
       {
@@ -1804,63 +2465,89 @@
         "title.ko": "샤젤리아☆키스☆다당당",
         "artist": 4,
         "metadata": {
-          "released": 1588896000
+          "released": 1588896000,
+          "album": "シャゼリア☆キッス☆ダダンダーン",
+          "length": 306,
+          "composer": ["河田貴央"]
         }
       },
       {
         "title": "Fantastic Departure!",
         "artist": 0,
         "metadata": {
-          "released": 1595376000
+          "released": 1595376000,
+          "album": "Fantastic Departure!",
+          "length": 328,
+          "composer": ["Kanata Okajima", "MEG"]
         }
       },
       {
         "title": "Aqours Pirates Desire",
         "artist": 0,
         "metadata": {
-          "released": 1595376000
+          "released": 1595376000,
+          "album": "Fantastic Departure!",
+          "length": 257,
+          "composer": ["TAKAROT", "イワツボコーダイ"]
         }
       },
       {
         "title": "Never giving up!",
         "artist": 6,
         "metadata": {
-          "released": 1596240000
+          "released": 1596240000,
+          "album": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album ～One More Sunshine Story～",
+          "length": 235,
+          "composer": ["EFFY (FirstCall)"]
         }
       },
       {
         "title": "Dazzling White Town",
         "artist": 1,
         "metadata": {
-          "released": 1597795200
+          "released": 1597795200,
+          "album": "Dazzling White Town",
+          "length": 263,
+          "composer": ["渡辺和紀"]
         }
       },
       {
         "title": "Lonely Snow Planet",
         "artist": 1,
         "metadata": {
-          "released": 1597795200
+          "released": 1597795200,
+          "album": "Dazzling White Town",
+          "length": 256,
+          "composer": ["馬渕直純"]
         }
       },
       {
         "title": "After The Rain",
         "artist": 1,
         "metadata": {
-          "released": 1597795200
+          "released": 1597795200,
+          "album": "Dazzling White Town",
+          "length": 272,
+          "composer": ["R・O・N"]
         }
       },
       {
         "title": "JIMO-AI Dash!",
         "artist": 0,
         "metadata": {
-          "released": 1598400000
+          "released": 1598400000,
+          "album": "Aqours 5th Anniversary 地元愛！Take Me Higher Project Theme Song",
+          "length": 276
         }
       },
       {
         "title": "PURE PHRASE",
         "artist": 7,
         "metadata": {
-          "released": 1600473600
+          "released": 1600473600,
+          "album": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album ～Pianoforte Monologue～",
+          "length": 310,
+          "composer": ["山口雄太"]
         }
       },
       {
@@ -1868,21 +2555,28 @@
         "title.ko": "코튼 캔디 에이 에이 오!",
         "artist": 14,
         "metadata": {
-          "released": 1600646400
+          "released": 1600646400,
+          "album": "LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album ～RED GEM WINK～",
+          "length": 258,
+          "composer": ["TAKAROT"]
         }
       },
       {
         "title": "Future flight",
         "artist": 0,
         "metadata": {
-          "released": 1600646400
+          "released": 1600646400,
+          "album": "ラブライブ!サンシャイン!! Aqours CHRONICLE (2015～2017)",
+          "length": 258
         }
       },
       {
         "title": "Misty Frosty Love",
         "artist": [7, 10],
         "metadata": {
-          "released": 1607472000
+          "released": 1607472000,
+          "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
+          "length": 297
         }
       },
       {
@@ -1890,7 +2584,9 @@
         "title.ko": "눈물이 눈이 되기 전에",
         "artist": [8, 13],
         "metadata": {
-          "released": 1607472000
+          "released": 1607472000,
+          "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
+          "length": 263
         }
       },
       {
@@ -1898,21 +2594,27 @@
         "title.ko": "마음도 꿈도 함께네!",
         "artist": [12, 14],
         "metadata": {
-          "released": 1607472000
+          "released": 1607472000,
+          "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
+          "length": 284
         }
       },
       {
         "title": "Party! Party! PaPaPaParty!",
         "artist": [6, 9, 11],
         "metadata": {
-          "released": 1607472000
+          "released": 1607472000,
+          "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
+          "length": 269
         }
       },
       {
         "title": "Perfect SEKAI",
         "artist": 9,
         "metadata": {
-          "released": 1609459200
+          "released": 1609459200,
+          "album": "WHITE FIRST LOVE [Disc 2]",
+          "length": 266
         }
       },
       {
@@ -1920,7 +2622,9 @@
         "title.ko": "조금 더!",
         "artist": 8,
         "metadata": {
-          "released": 1612915200
+          "released": 1612915200,
+          "album": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album: SAKANAKANANDAKA?",
+          "length": 229
         }
       },
       {
@@ -1935,7 +2639,9 @@
         "title": "smile smile ship Start!",
         "artist": 0,
         "metadata": {
-          "released": 1617148800
+          "released": 1617148800,
+          "album": "smile smile ship Start!",
+          "length": 279
         }
       },
       {
@@ -1943,7 +2649,9 @@
         "title.ko": "마음의 날개여 너에게 날아가라!",
         "artist": 0,
         "metadata": {
-          "released": 1617148800
+          "released": 1617148800,
+          "album": "smile smile ship Start!",
+          "length": 286
         }
       },
       {
@@ -1951,14 +2659,22 @@
         "title.ko": "돌연 GIRL",
         "artist": 10,
         "metadata": {
-          "released": 1618617600
+          "released": 1618617600,
+          "album": "LoveLive! Sunshine!! Watanabe You First Solo Concert Album 〜Beginner's Sailing〜",
+          "length": 295,
+          "bpm": 162,
+          "composer": ["渡辺泰司"]
         }
       },
       {
         "title": "Shiny Racers",
         "artist": 13,
         "metadata": {
-          "released": 1623542400
+          "released": 1623542400,
+          "album": "LoveLive! Sunshine!! Ohara Mari First Solo Concert Album 〜New winding road〜",
+          "length": 218,
+          "bpm": 180,
+          "composer": ["川島弘光"]
         }
       },
       {
@@ -1966,310 +2682,597 @@
         "title.ko": "모순의 날개",
         "artist": 11,
         "metadata": {
-          "released": 1626134400
+          "released": 1626134400,
+          "album": "LoveLive! Sunshine!! Tsushima Yoshiko First Solo Concert Album 〜in this unstable world〜",
+          "length": 253,
+          "bpm": 179,
+          "composer": ["渡辺和紀"]
         }
       }
     ],
     [
       {
         "title": "TOKIMEKI Runners",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 276
+        }
       },
       {
         "title": "夢への一歩",
         "title.ko": "꿈으로의 한 걸음",
-        "artist": 4
+        "artist": 4,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 288
+        }
       },
       {
         "title": "ダイアモンド",
         "title.ko": "다이아몬드",
-        "artist": 5
+        "artist": 5,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 234
+        }
       },
       {
         "title": "あなたの理想のヒロイン",
         "title.ko": "당신의 이상적인 히로인",
-        "artist": 6
+        "artist": 6,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 326
+        }
       },
       {
         "title": "Starlight",
-        "artist": 7
+        "artist": 7,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 225
+        }
       },
       {
         "title": "めっちゃGoing!!",
         "title.ko": "엄청 Going!!",
-        "artist": 8
+        "artist": 8,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 289
+        }
       },
       {
         "title": "眠れる森に行きたいな",
         "title.ko": "잠자는 숲 속으로 가고 싶어",
-        "artist": 9
+        "artist": 9,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 204
+        }
       },
       {
         "title": "CHASE!",
-        "artist": 10
+        "artist": 10,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 259
+        }
       },
       {
         "title": "Evergreen",
-        "artist": 11
+        "artist": 11,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 296
+        }
       },
       {
         "title": "ドキピポ☆エモーション",
         "title.ko": "도키피포☆이모션",
-        "artist": 12
+        "artist": 12,
+        "metadata": {
+          "album": "TOKIMEKI Runners",
+          "length": 270
+        }
       },
       {
         "title": "Love U my friends",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 240
+        }
       },
       {
         "title": "開花宣言",
         "title.ko": "개화선언",
-        "artist": 4
+        "artist": 4,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 259
+        }
       },
       {
         "title": "☆ワンダーランド☆",
         "title.ko": "☆원더랜드☆",
-        "artist": 5
+        "artist": 5,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 185
+        }
       },
       {
         "title": "オードリ",
         "title.ko": "오드리",
-        "artist": 6
+        "artist": 6,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 235
+        }
       },
       {
         "title": "Wish",
-        "artist": 7
+        "artist": 7,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 310
+        }
       },
       {
         "title": "友 & 愛",
         "title.ko": "친구 & 사랑",
-        "artist": 8
+        "artist": 8,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 253
+        }
       },
       {
         "title": "My Own Fairy-Tale",
-        "artist": 9
+        "artist": 9,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 281
+        }
       },
       {
         "title": "MELODY",
-        "artist": 10
+        "artist": 10,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 270
+        }
       },
       {
         "title": "声繋ごうよ",
         "title.ko": "목소리를 잇자",
-        "artist": 11
+        "artist": 11,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 261
+        }
       },
       {
         "title": "テレテレパシー",
         "title.ko": "텔레텔레파시",
-        "artist": 12
+        "artist": 12,
+        "metadata": {
+          "album": "Love U my friends",
+          "length": 253
+        }
       },
       {
         "title": "SUPER NOVA",
-        "artist": 1
+        "artist": 1,
+        "metadata": {
+          "album": "SUPER NOVA",
+          "length": 254
+        }
       },
       {
         "title": "Love Triangle",
-        "artist": 1
+        "artist": 1,
+        "metadata": {
+          "album": "SUPER NOVA",
+          "length": 253
+        }
       },
       {
         "title": "Dream Land!Dream World!",
-        "artist": 2
+        "artist": 2,
+        "metadata": {
+          "album": "Dream Land!Dream World!",
+          "length": 232
+        }
       },
       {
         "title": "Cheer for you!!",
-        "artist": 2
+        "artist": 2,
+        "metadata": {
+          "album": "Dream Land!Dream World!",
+          "length": 219
+        }
       },
       {
         "title": "Sing & Smile!!",
-        "artist": 3
+        "artist": 3,
+        "metadata": {
+          "album": "Sing & Smile!!",
+          "length": 282
+        }
       },
       {
         "title": "Beautiful Moonlight",
-        "artist": 3
+        "artist": 3,
+        "metadata": {
+          "album": "Sing & Smile!!",
+          "length": 239
+        }
       },
       {
         "title": "無敵級*ビリーバー",
         "title.ko": "무적급*빌리버",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "無敵級*ビリーバー",
+          "length": 245
+        }
       },
       {
         "title": "未来ハーモニー",
         "title.ko": "미래 하모니",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "無敵級*ビリーバー",
+          "length": 249
+        }
       },
       {
         "title": "Say Good-Bye 涙",
         "title.ko": "Say Good-Bye 눈물",
-        "artist": 4
+        "artist": 4,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 241,
+          "composer": ["Akira Sunset"]
+        }
       },
       {
         "title": "Margaret",
-        "artist": 5
+        "artist": 5,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 258,
+          "composer": ["Carlos K"]
+        }
       },
       {
         "title": "やがてひとつの物語",
         "title.ko": "이윽고 하나의 이야기",
-        "artist": 6
+        "artist": 6,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 260,
+          "composer": ["月見草"]
+        }
       },
       {
         "title": "Fire Bird",
-        "artist": 7
+        "artist": 7,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 237,
+          "composer": ["Carlos K"]
+        }
       },
       {
         "title": "楽しいの天才",
         "title.ko": "즐거움의 천재",
-        "artist": 8
+        "artist": 8,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 241,
+          "composer": ["Carlos K", " Akira Sunset"]
+        }
       },
       {
         "title": "Märchen Star",
-        "artist": 9
+        "artist": 9,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 288,
+          "composer": ["Ryota Saito", " Diz"]
+        }
       },
       {
         "title": "LIKE IT! LOVE IT!",
-        "artist": 10
+        "artist": 10,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 261,
+          "composer": ["Hiroki Sagawa", "鈴木まなか", "要田健"]
+        }
       },
       {
         "title": "哀温ノ詩",
         "title.ko": "애온의 시",
-        "artist": 11
+        "artist": 11,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 258,
+          "composer": ["浦島健太", "山本匠"]
+        }
       },
       {
         "title": "アナログハート",
         "title.ko": "아날로그 하트",
-        "artist": 12
+        "artist": 12,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 280,
+          "composer": ["米澤森人", "藤原彩豊"]
+        }
       },
       {
         "title": "決意の光",
         "title.ko": "결의의 빛",
-        "artist": 13
+        "artist": 13,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 234,
+          "composer": ["中村歩", "菊池博人"]
+        }
       },
       {
         "title": "TOKIMEKI Runners (10인 버전)",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 289,
+          "composer": ["矢鴇つかさ (Arte Refact)"]
+        }
       },
       {
         "title": "Just Believe!!!",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "Just Believe!!!",
+          "length": 246,
+          "composer": ["PASSiON KiNG", "ygarshy"]
+        }
       },
       {
         "title": "虹色Passions!",
         "title.ko": "무지개 빛 Passions!",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "虹色Passions!",
+          "length": 255
+        }
       },
       {
         "title": "Sweet Eyes",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "虹色Passions!",
+          "length": 292
+        }
       },
       {
         "title": "NEO SKY, NEO MAP!",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "NEO SKY, NEO MAP!",
+          "length": 278
+        }
       },
       {
         "title": "全速ドリーマー",
         "title.ko": "전속 드리머",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "NEO SKY, NEO MAP!",
+          "length": 259
+        }
       },
       {
         "title": "Dream with You",
-        "artist": 4
+        "artist": 4,
+        "metadata": {
+          "album": "Dream with You / Poppin' Up! / DIVE!",
+          "length": 258
+        }
       },
       {
         "title": "Poppin' Up!",
-        "artist": 5
+        "artist": 5,
+        "metadata": {
+          "album": "Dream with You / Poppin' Up! / DIVE!",
+          "length": 258
+        }
       },
       {
         "title": "DIVE!",
-        "artist": 10
+        "artist": 10,
+        "metadata": {
+          "album": "Dream with You / Poppin' Up! / DIVE!",
+          "length": 244
+        }
       },
       {
         "title": "サイコーハート",
         "title.ko": "사이코 하트",
-        "artist": 8
+        "artist": 8,
+        "metadata": {
+          "album": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』挿入歌シングル第二弾 サイコーハート / La Bella Patria / ツナガルコネクト",
+          "length": 252
+        }
       },
       {
         "title": "La Bella Patria",
-        "artist": 11
+        "artist": 11,
+        "metadata": {
+          "album": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』挿入歌シングル第二弾 サイコーハート / La Bella Patria / ツナガルコネクト",
+          "length": 286
+        }
       },
       {
         "title": "ツナガルコネクト",
         "title.ko": "이어지는 커넥트",
-        "artist": 12
+        "artist": 12,
+        "metadata": {
+          "album": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』挿入歌シングル第二弾 サイコーハート / La Bella Patria / ツナガルコネクト",
+          "length": 238
+        }
       },
       {
         "title": "Butterfly",
-        "artist": 9
+        "artist": 9,
+        "metadata": {
+          "album": "Butterfly / Solitude Rain / VIVID WORLD",
+          "length": 216
+        }
       },
       {
         "title": "Solitude Rain",
-        "artist": 6
+        "artist": 6,
+        "metadata": {
+          "album": "Butterfly / Solitude Rain / VIVID WORLD",
+          "length": 247
+        }
       },
       {
         "title": "VIVID WORLD",
-        "artist": 7
+        "artist": 7,
+        "metadata": {
+          "album": "Butterfly / Solitude Rain / VIVID WORLD",
+          "length": 276
+        }
       },
       {
         "title": "Awakening Promise",
-        "artist": 4
+        "artist": 4,
+        "metadata": {
+          "album": "Awakening Promise/夢がここからはじまるよ",
+          "length": 254
+        }
       },
       {
         "title": "夢がここからはじまるよ",
         "title.ko": "꿈이 여기서부터 시작돼",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "Awakening Promise/夢がここからはじまるよ",
+          "length": 284
+        }
       },
       {
         "title": "POWER SPOT!!",
-        "artist": 1
+        "artist": 1,
+        "metadata": {
+          "album": "POWER SPOT!!",
+          "length": 239,
+          "composer": ["Carlos K."]
+        }
       },
       {
         "title": "Kakushiaji!",
         "title.ko": "숨겨진 맛!",
-        "artist": 2
+        "artist": 2,
+        "metadata": {
+          "album": "Kakushiaji!",
+          "length": 240
+        }
       },
       {
         "title": "Make-up session ABC",
-        "artist": 3
+        "artist": 3,
+        "metadata": {
+          "album": "ラブライブ! 虹ヶ咲学園スクールアイドル同好会 オリジナルソングCD vol.03",
+          "length": 253
+        }
       },
       {
         "title": "祭花 -saika-",
         "title.ko": "제화 -saika-",
-        "artist": 1
+        "artist": 1,
+        "metadata": {
+          "album": "祭花 -saika-",
+          "length": 257
+        }
       },
       {
         "title": "Happy Nyan! Days",
-        "artist": 2
+        "artist": 2,
+        "metadata": {
+          "album": "Happy Nyan! Days",
+          "length": 233
+        }
       },
       {
         "title": "Twinkle Town",
-        "artist": 3
+        "artist": 3,
+        "metadata": {
+          "album": "Twinkle Town",
+          "length": 255
+        }
       }
     ],
     [
       {
         "title": "始まりは君の空",
         "title.ko": "시작은 너의 하늘",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "始まりは君の空",
+          "length": 302
+        }
       },
       {
         "title": "Dancing Heart La-Pa-Pa-Pa!",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "始まりは君の空",
+          "length": 199
+        }
       },
       {
         "title": "Dreaming Energy",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "始まりは君の空",
+          "length": 295
+        }
       },
       {
         "title": "私のSymphony",
         "title.ko": "나의 Symphony",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "始まりは君の空",
+          "length": 238
+        }
       },
       {
         "title": "START!! True dreams",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "START!! True dreams",
+          "length": 241,
+          "composer": ["畑亜貴", " 小幡康裕", " 山下洋介"]
+        }
       },
       {
         "title": "だから僕らは鳴らすんだ！",
         "title.ko": "그래서 우리는 소리를 울리는 거야!",
-        "artist": 0
+        "artist": 0,
+        "metadata": {
+          "album": "START!! True dreams",
+          "length": 246,
+          "composer": ["宮嶋淳子", " 藤井万利子", " 久保田真悟（Jazzin’park）"]
+        }
       },
       {
         "title": "未来は風のように",

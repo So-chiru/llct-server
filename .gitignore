@@ -9,3 +9,6 @@ __debug_bin
 datas/*/*/*.mp3
 datas/*/*/*.jpg
 _cache
+
+datas/lengthGenerator
+datas/local-lists.json
