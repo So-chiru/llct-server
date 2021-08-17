@@ -1,6 +1,7 @@
 # Binary files
 llct-server
 __debug_bin
+main
 
 # OS
 .DS_Store
