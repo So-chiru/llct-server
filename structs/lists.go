@@ -8,18 +8,18 @@ type LLCTGroup struct {
 }
 
 type LLCTSongMetadata struct {
-	Album    string   `json:"album"`
-	Length   int64    `json:"length"`
-	BPM      int64    `json:"bpm"`
-	Released int64    `json:"released"`
-	Composer []string `json:"composer"`
+	Album    string   `json:"album,omitempty"`
+	Length   int64    `json:"length,omitempty"`
+	BPM      int64    `json:"bpm,omitempty"`
+	Released int64    `json:"released,omitempty"`
+	Composer []string `json:"composer,omitempty"`
 }
 
 type LLCTSongs struct {
-	Title    string           `json:"title"`
-	TitleKo  string           `json:"title.ko"`
-	Artist   interface{}      `json:"artist"`
-	Metadata LLCTSongMetadata `json:"metadata"`
+	Title    string            `json:"title"`
+	TitleKo  *string           `json:"title.ko,omitempty"`
+	Artist   interface{}       `json:"artist"`
+	Metadata *LLCTSongMetadata `json:"metadata,omitempty"`
 }
 
 type LLCTLists struct {
