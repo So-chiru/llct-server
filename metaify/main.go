@@ -372,7 +372,7 @@ func normalizeAudio() {
 
 	writeLog("[+] Normalizing " + id + " (" + song.Title + ")")
 
-	cmd := exec.Command("ffmpeg-normalize", audioPath, "-c:a", "mp3", "-o", audioPath, "-ar 44100", "-b:a 192k", "-f", "-nt", "rms", "-t", "-14")
+	cmd := exec.Command("ffmpeg-normalize", audioPath, "-c:a", "mp3", "-o", audioPath, "-ar 44100", "-b:a 192k", "-f", "-nt", "rms", "-t", "-15")
 	so, err := cmd.StdoutPipe()
 	if err != nil {
 		panic(err)
