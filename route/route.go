@@ -59,6 +59,7 @@ func Router() *mux.Router {
 	r.HandleFunc("/color/{id:[0-9]+}", colorHandler)
 	r.HandleFunc("/audio/{id:[0-9]+}", audioHandler)
 	r.HandleFunc("/call/{id:[0-9]+}", callHandler)
+	r.HandleFunc("/admin", adminHandler)
 
 	return r
 }
