@@ -3848,6 +3848,74 @@
           "album": "Twinkle Town",
           "length": 255
         }
+      },
+      {
+        "title": "THE SECRET NiGHT",
+        "artist": 1,
+        "metadata": {
+          "album": "THE SECRET NiGHT",
+          "length": 233,
+          "released": 1621987200
+        }
+      },
+      {
+        "title": "Fly into the sky",
+        "artist": 1,
+        "metadata": {
+          "album": "THE SECRET NiGHT",
+          "length": 249,
+          "released": 1621987200
+        }
+      },
+      {
+        "title": "Maze Town",
+        "artist": 2,
+        "metadata": {
+          "album": "Maze Town",
+          "length": 263,
+          "released": 1623801600
+        }
+      },
+      {
+        "title": "フォルクロア ～歓喜の歌～",
+        "title.ko": "포크로어 ~환희의 노래~",
+        "artist": 2,
+        "metadata": {
+          "album": "Maze Town",
+          "length": 204,
+          "released": 1623801600
+        }
+      },
+      {
+        "title": "Hurray Hurray",
+        "artist": 0,
+        "metadata": {
+          "album": "Hurray Hurray",
+          "length": 273,
+          "released": 1624579200,
+          "composer": [
+            "Ryota Saito",
+            "Diz"
+          ]
+        }
+      },
+      {
+        "title": "Swinging!",
+        "artist": 3,
+        "metadata": {
+          "album": "Swinging!",
+          "length": 243,
+          "released": 1626220800
+        }
+      },
+      {
+        "title": "Not Sad",
+        "artist": 3,
+        "metadata": {
+          "album": "Swinging!",
+          "length": 257,
+          "released": 1626220800
+        }
       }
     ],
     [
