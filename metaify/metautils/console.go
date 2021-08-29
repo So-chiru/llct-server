@@ -1,21 +1,27 @@
 package metautils
 
 import (
+	"bufio"
 	"fmt"
-	"log"
+	"os"
 )
 
 func AskNewInput(name string) string {
 	var data string = ""
 
 	fmt.Print("[+] Type " + name + ": ")
-	_, err := fmt.Scanln(&data)
-	if err != nil {
-		if err.Error() == "unexpected newline" {
+
+	scanner := bufio.NewScanner(os.Stdin)
+
+	for scanner.Scan() {
+		text := scanner.Text()
+
+		if text == "" {
 			fmt.Println("--Skipped--")
-		} else {
-			log.Fatalln(err)
 		}
+
+		data = text
+		break
 	}
 
 	return data
