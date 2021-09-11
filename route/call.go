@@ -52,6 +52,4 @@ func callHandler(w http.ResponseWriter, r *http.Request) {
 	var path = "./datas/" + group_name + "/" + fmt.Sprint(song_number) + "/call.json"
 
 	http.ServeFile(w, r, path)
-
-	return
 }

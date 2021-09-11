@@ -4,25 +4,26 @@ import (
 	"encoding/json"
 	"fmt"
 	"image"
+	"io/ioutil"
+	"log"
 	"net/http"
 	"os"
-	"sort"
 	"strconv"
 
-	"github.com/cenkalti/dominantcolor"
 	"github.com/gorilla/mux"
+	"github.com/so-chiru/llct-server/pastelize"
 	"github.com/so-chiru/llct-server/utils"
-	"github.com/teacat/noire"
 )
 
-type SaturateOrder []noire.Color
-
-func (a SaturateOrder) Len() int           { return len(a) }
-func (a SaturateOrder) Less(i, j int) bool { return a[i].Saturation() < a[j].Saturation() }
-func (a SaturateOrder) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
+func checkColorFileExists(group_name string, id string) (bool, string) {
+	var path = "./datas/" + group_name + "/" + id + "/" + "_cache/color.json"
+	return isFileExists(path), path
+}
 
 func colorHandler(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
+
+	w.Header().Add("Access-Control-Allow-Headers", "llct-api-version")
 
 	if len(vars["id"]) < 1 {
 		var error_string = []byte("경로에 :id를 포함하세요.")
@@ -84,45 +85,52 @@ func colorHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	var data = dominantcolor.FindN(image, 5)
+	var api_version = r.Header.Get("llct-api-version")
 
-	colors := []noire.Color{
-		noire.NewRGB(float64(data[0].R), float64(data[0].G), float64(data[0].B)),
-		noire.NewRGB(float64(data[1].R), float64(data[1].G), float64(data[1].B)),
-		noire.NewRGB(float64(data[2].R), float64(data[2].G), float64(data[2].B)),
-		noire.NewRGB(float64(data[3].R), float64(data[3].G), float64(data[3].B)),
-		noire.NewRGB(float64(data[4].R), float64(data[4].G), float64(data[4].B)),
+	if len(api_version) < 1 || api_version != "2" {
+		var error_string = []byte("API 버전을 지정하지 않았거나 더 이상 지원하지 않는 API 버전입니다. 페이지를 업데이트 해주세요.")
+		CreateJsonResponse(&w, false, &error_string)
+		return
 	}
 
-	sort.Sort(SaturateOrder(colors))
+	cache_exists, path := checkColorFileExists(group_name, fmt.Sprint(song_number))
+	if cache_exists {
+		file, err := os.Open(path)
+		if err != nil {
+			var error_string = []byte(err.Error())
+			CreateJsonResponse(&w, false, &error_string)
+			return
+		}
 
-	var main = colors[2]
-	var whiteTextColor = colors[2].Foreground()
+		bytes, err := ioutil.ReadAll(file)
+		if err != nil {
+			var error_string = []byte(err.Error())
+			CreateJsonResponse(&w, false, &error_string)
+			return
+		}
 
-	var mainDark = colors[4].Shade(0.4)
-	var darkTextColor = colors[4].Foreground()
+		CreateJsonResponse(&w, true, &bytes)
 
-	if colors[2].IsDark() && colors[4].IsLight() {
-		main = colors[4]
-		whiteTextColor = colors[4].Foreground()
-		mainDark = colors[2].Shade(0.4)
-		darkTextColor = colors[2].Foreground()
+		return
 	}
 
-	var obj = GoColorStruct{
-		Main:     "#" + main.Hex(),
-		Sub:      "#" + main.Darken(0.1).Hex(),
-		Text:     "#" + whiteTextColor.Hex(),
-		MainDark: "#" + mainDark.Brighten(0.1).Hex(),
-		SubDark:  "#" + mainDark.Hex(),
-		TextDark: "#" + darkTextColor.Hex(),
-	}
-
-	bytes, err := json.Marshal(obj)
+	data, err := pastelize.GeneratePalette(image)
 	if err != nil {
 		var error_string = []byte(err.Error())
 		CreateJsonResponse(&w, false, &error_string)
 		return
+	}
+
+	bytes, err := json.Marshal(data)
+	if err != nil {
+		var error_string = []byte(err.Error())
+		CreateJsonResponse(&w, false, &error_string)
+		return
+	}
+
+	err = os.WriteFile(path, bytes, 0644)
+	if err != nil {
+		log.Println("Failed to write color.json cache file. occurred on " + path)
 	}
 
 	CreateJsonResponse(&w, true, &bytes)
