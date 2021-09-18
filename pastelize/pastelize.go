@@ -1,7 +1,6 @@
 package pastelize
 
 import (
-	"fmt"
 	"image"
 
 	"github.com/dayvonjersen/vibrant"
@@ -92,11 +91,7 @@ func GeneratePalette(img image.Image) (*GoColorStructV2, error) {
 		return nil, err
 	}
 
-	fmt.Println(palette)
-
 	var pal = palette.ExtractAwesome()
-
-	fmt.Println(pal)
 
 	var str = GoColorStructV2{
 		Primary:        pal["Vibrant"].Color.String(),
