@@ -8,6 +8,7 @@ import (
 
 	"github.com/joho/godotenv"
 
+	"github.com/so-chiru/llct-server/dashboard"
 	"github.com/so-chiru/llct-server/route"
 
 	"net/http"
@@ -51,9 +52,12 @@ func main() {
 		}
 	}
 
-	log.Println("# Server is now running.")
+	log.Println("# server is now running.")
 
 	address := os.Getenv("ADDRESS")
+
+	dashboard.SyncBirthdayCalendar()
+	dashboard.SyncLiveCalendar()
 
 	http.ListenAndServe(address, route.Router())
 }

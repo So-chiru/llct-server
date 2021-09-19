@@ -13,5 +13,7 @@ _cache
 
 datas/lengthGenerator
 datas/local-lists.json
+datas/notices.json
 
 .env
+.cache
