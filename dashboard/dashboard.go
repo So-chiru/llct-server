@@ -15,7 +15,7 @@ type Notices struct {
 type BirthdayComponent struct {
 	Name   string   `json:"name"`
 	Color  string   `json:"color"`
-	Date   *string  `json:"date,omitempty"`
+	Date   string   `json:"date"`
 	Musics []string `json:"musics"`
 }
 
@@ -84,7 +84,7 @@ func generateBirthday() *[]Dashboard {
 			var birth = &BirthdayComponent{
 				Name:   v.Character,
 				Color:  c.Color,
-				Date:   &d,
+				Date:   d,
 				Musics: c.Musics,
 			}
 

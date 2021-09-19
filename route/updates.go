@@ -14,9 +14,9 @@ func updatesHandler(w http.ResponseWriter, r *http.Request) {
 	var notices = dashboard.GetNotices()
 
 	var result = structs.LLCTUpdate{
-		UpdateAt:  time.Now().Unix(),
-		Notices:   *notices,
-		Dashboard: *boards,
+		Updates:    time.Now().Unix(),
+		Notices:    *notices,
+		Dashboards: *boards,
 	}
 
 	bytes, err := json.Marshal(result)
