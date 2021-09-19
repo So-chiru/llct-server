@@ -33,8 +33,8 @@ type LinkComponent struct {
 type LiveComponent struct {
 	Title      *string  `json:"title,omitempty"`
 	Image      string   `json:"image"`
-	StartAt    string   `json:"startAt"`
-	EndAt      string   `json:"endAt"`
+	Start      string   `json:"start"`
+	End        string   `json:"end"`
 	URL        *string  `json:"url,omitempty"`
 	Location   *string  `json:"location,omitempty"`
 	Characters []string `json:"characters"`
@@ -130,8 +130,8 @@ func generateLive() *[]Dashboard {
 			var live = &LiveComponent{
 				Title:      &v.Name,
 				Image:      "unsupported",
-				StartAt:    v.Start,
-				EndAt:      v.End,
+				Start:      v.Start,
+				End:        v.End,
 				URL:        v.URL,
 				Location:   v.Location,
 				Characters: v.Characters,
