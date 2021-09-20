@@ -25,9 +25,14 @@ type MusicComponent struct {
 }
 
 type LinkComponent struct {
-	Title       string `json:"title"`
-	Description string `json:"description"`
-	Link        string `json:"link"`
+	Title       string  `json:"title"`
+	Description *string `json:"description,omitempty"`
+	Link        string  `json:"link"`
+}
+
+type LinkData struct {
+	Title string          `json:"title"`
+	Items []LinkComponent `json:"items"`
 }
 
 type LiveComponent struct {
@@ -127,8 +132,10 @@ func generateLive() *[]Dashboard {
 		}
 
 		if time.Now().Before(e) || time.Now().Day() == e.Day() {
-			var live = &LiveComponent{
-				Title:      &v.Name,
+			var title = v.Name
+
+			var live = LiveComponent{
+				Title:      &title,
 				Image:      "unsupported",
 				Start:      v.Start,
 				End:        v.End,
@@ -139,12 +146,36 @@ func generateLive() *[]Dashboard {
 
 			var data = Dashboard{
 				Type:  "live",
-				Title: &v.Name,
-				Live:  live,
+				Title: &title,
+				Live:  &live,
 			}
 			result = append(result, data)
 		}
 
+	}
+
+	return &result
+}
+
+func generateLinks() *[]Dashboard {
+	links, err := GetLinksData()
+	if err != nil {
+		return nil
+	}
+
+	if links == nil {
+		return nil
+	}
+
+	var result []Dashboard
+
+	for _, link := range *links {
+		var data = Dashboard{
+			Type:    "linkset",
+			Title:   &link.Title,
+			LinkSet: &link.Items,
+		}
+		result = append(result, data)
 	}
 
 	return &result
@@ -158,6 +189,16 @@ func GetDashboards() *[]Dashboard {
 		result = append(result, *birthday...)
 	}
 
+	randomSongs := generateRandomSongs(4)
+	if birthday != nil {
+		result = append(result, *randomSongs...)
+	}
+
+	links := generateLinks()
+	if links != nil {
+		result = append(result, *links...)
+	}
+
 	live := generateLive()
 	if live != nil {
 		result = append(result, *live...)
@@ -169,7 +210,10 @@ func GetDashboards() *[]Dashboard {
 func GetNotices() *[]Notices {
 	var result []Notices = make([]Notices, 0)
 
-	// TODO : Notices
+	notices, _ := GetNoticesData()
+	if notices != nil {
+		result = append(result, *notices...)
+	}
 
 	return &result
 }

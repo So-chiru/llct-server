@@ -6,14 +6,13 @@ import (
 	"time"
 
 	"github.com/so-chiru/llct-server/dashboard"
-	"github.com/so-chiru/llct-server/structs"
 )
 
 func updatesHandler(w http.ResponseWriter, r *http.Request) {
 	var boards = dashboard.GetDashboards()
 	var notices = dashboard.GetNotices()
 
-	var result = structs.LLCTUpdate{
+	var result = dashboard.LLCTUpdate{
 		Updates:    time.Now().Unix(),
 		Notices:    *notices,
 		Dashboards: *boards,
@@ -27,5 +26,6 @@ func updatesHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	w.Header().Add("Content-Type", "application/json")
-	w.Write(bytes)
+
+	CreateJsonResponse(&w, true, &bytes)
 }
