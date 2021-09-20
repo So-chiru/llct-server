@@ -22,7 +22,26 @@ type LLCTSongs struct {
 	Metadata *LLCTSongMetadata `json:"metadata,omitempty"`
 }
 
+type LLCTSongsWithID struct {
+	Title    string            `json:"title"`
+	TitleKo  *string           `json:"title.ko,omitempty"`
+	Artist   interface{}       `json:"artist"`
+	Metadata *LLCTSongMetadata `json:"metadata,omitempty"`
+}
+
 type LLCTLists struct {
 	Groups []LLCTGroup   `json:"groups"`
 	Songs  [][]LLCTSongs `json:"songs"`
+}
+
+type LLCTPlaylist struct {
+	Template    string   `json:"template,omitempty"`
+	Title       *string  `json:"title,omitempty"`
+	Description *string  `json:"description,omitempty"`
+	Musics      []string `json:"musics"`
+}
+
+type LLCTLive struct {
+	Title     *string        `json:"title,omitempty"`
+	Playlists []LLCTPlaylist `json:"playlists"`
 }

@@ -1,0 +1,16 @@
+[
+  {
+    "title": "이름",
+    "items": [
+      {
+        "title": "링크",
+        "description": "이 링크는 설명이 있어요",
+        "link": "https://google.com"
+      },
+      {
+        "title": "제목만 있는 링크",
+        "link": "https://google.com"
+      }
+    ]
+  }
+]

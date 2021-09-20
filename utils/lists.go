@@ -3,8 +3,10 @@ package utils
 import (
 	"bytes"
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
+	"math/rand"
 	"os"
 
 	"github.com/so-chiru/llct-server/structs"
@@ -36,6 +38,32 @@ func GetListFile() structs.LLCTLists {
 	}
 
 	return data
+}
+
+func GenerateRandomSongs(size int) []string {
+	lists := GetListFile()
+
+	var songs []string = make([]string, 0)
+
+	for gi, gv := range lists.Songs {
+		for si := range gv {
+			songs = append(songs, fmt.Sprint(gi)+fmt.Sprint(si+1))
+		}
+	}
+
+	var randoms []string = make([]string, 0)
+
+	for i := 0; i < size; i++ {
+		var rs = len(songs)
+		var r = rand.Intn(rs)
+
+		random := songs[r]
+		randoms = append(randoms, random)
+
+		songs = append(songs[:r], songs[r+1:]...)
+	}
+
+	return randoms
 }
 
 func ToListFile(list structs.LLCTLists, noSave bool) bytes.Buffer {
