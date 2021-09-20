@@ -15,6 +15,7 @@ datas/lengthGenerator
 datas/local-lists.json
 datas/notices.json
 datas/links.json
+datas/lives.json
 
 .env
 .cache

@@ -33,3 +33,15 @@ type LLCTLists struct {
 	Groups []LLCTGroup   `json:"groups"`
 	Songs  [][]LLCTSongs `json:"songs"`
 }
+
+type LLCTPlaylist struct {
+	Template    string   `json:"template,omitempty"`
+	Title       *string  `json:"title,omitempty"`
+	Description *string  `json:"description,omitempty"`
+	Musics      []string `json:"musics"`
+}
+
+type LLCTLive struct {
+	Title     *string        `json:"title,omitempty"`
+	Playlists []LLCTPlaylist `json:"playlists"`
+}

@@ -5,6 +5,8 @@ import (
 	"fmt"
 	"log"
 	"time"
+
+	"github.com/so-chiru/llct-server/utils"
 )
 
 func SyncBirthdayCalendar() {
@@ -71,6 +73,10 @@ func SyncLiveCalendar() {
 		if err != nil {
 			fmt.Println("# failed to fetch live calendar data", err)
 			return
+		}
+
+		for _, v := range *data {
+			utils.AddLiveData(v.Name)
 		}
 
 		bytes, err := json.Marshal(data)

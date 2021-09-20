@@ -5,6 +5,8 @@ import (
 	"time"
 
 	"github.com/so-chiru/llct-server/characters"
+	"github.com/so-chiru/llct-server/structs"
+	"github.com/so-chiru/llct-server/utils"
 )
 
 type Notices struct {
@@ -36,13 +38,15 @@ type LinkData struct {
 }
 
 type LiveComponent struct {
-	Title      *string  `json:"title,omitempty"`
-	Image      string   `json:"image"`
-	Start      string   `json:"start"`
-	End        string   `json:"end"`
-	URL        *string  `json:"url,omitempty"`
-	Location   *string  `json:"location,omitempty"`
-	Characters []string `json:"characters"`
+	ID         string                 `json:"id"`
+	Title      *string                `json:"title,omitempty"`
+	Image      string                 `json:"image"`
+	Start      string                 `json:"start"`
+	End        string                 `json:"end"`
+	URL        *string                `json:"url,omitempty"`
+	Location   *string                `json:"location,omitempty"`
+	Characters []string               `json:"characters"`
+	Playlists  []structs.LLCTPlaylist `json:"playlists"`
 }
 
 type Dashboard struct {
@@ -134,6 +138,8 @@ func generateLive() *[]Dashboard {
 		if time.Now().Before(e) || time.Now().Day() == e.Day() {
 			var title = v.Name
 
+			var liveData = utils.GetLiveData(title)
+
 			var live = LiveComponent{
 				Title:      &title,
 				Image:      "unsupported",
@@ -142,6 +148,7 @@ func generateLive() *[]Dashboard {
 				URL:        v.URL,
 				Location:   v.Location,
 				Characters: v.Characters,
+				Playlists:  liveData.Playlists,
 			}
 
 			var data = Dashboard{
