@@ -25,6 +25,14 @@ func getAudioFilePath(group_name string, id string) string {
 
 func audioHandler(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
+	var SERVE_AUDIO = os.Getenv("LLCT_SERVE_AUDIO")
+
+	if SERVE_AUDIO != "1" && SERVE_AUDIO != "true" {
+		var error_string = []byte("더 이상 음원을 제공하지 않습니다.")
+		CreateJsonResponse(&w, false, &error_string)
+
+		return
+	}
 
 	if len(vars["id"]) < 1 {
 		var error_string = []byte("경로에 :id를 포함하세요.")
