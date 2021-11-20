@@ -7,12 +7,16 @@ type LLCTGroup struct {
 	Color   string   `json:"color"`
 }
 
+type LLCTSongStreamProvider struct {
+	Spotify *string `json:"spotify,omitempty"`
+}
 type LLCTSongMetadata struct {
-	Album    string   `json:"album,omitempty"`
-	Length   int64    `json:"length,omitempty"`
-	BPM      int64    `json:"bpm,omitempty"`
-	Released int64    `json:"released,omitempty"`
-	Composer []string `json:"composer,omitempty"`
+	Album     string                  `json:"album,omitempty"`
+	Length    int64                   `json:"length,omitempty"`
+	BPM       int64                   `json:"bpm,omitempty"`
+	Released  int64                   `json:"released,omitempty"`
+	Composer  []string                `json:"composer,omitempty"`
+	Streaming *LLCTSongStreamProvider `json:"streaming,omitempty"`
 }
 
 type LLCTSongs struct {

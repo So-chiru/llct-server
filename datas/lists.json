@@ -85,7 +85,10 @@
           "released": 1282662000,
           "composer": [
             "山田高弘"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3N3jaGb18pYfFzpe1GZgfI"
+          }
         }
       },
       {
@@ -98,7 +101,10 @@
           "released": 1282662000,
           "composer": [
             "Tron-LM"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1FpxpvqMdeXnLGzRwisfpk"
+          }
         }
       },
       {
@@ -110,7 +116,10 @@
           "released": 1292943600,
           "composer": [
             "山田高弘"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7B2YKWz6UoXvOUEX32r3ov"
+          }
         }
       },
       {
@@ -123,7 +132,10 @@
           "released": 1292943600,
           "composer": [
             "山口朗彦"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1xQSoo3pqLCK4YrwVZFL3U"
+          }
         }
       },
       {
@@ -135,7 +147,10 @@
           "released": 1306249200,
           "composer": [
             "藤末樹"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0lZxMTEf7eV50NwPZUr81R"
+          }
         }
       },
       {
@@ -147,7 +162,10 @@
           "released": 1306249200,
           "composer": [
             "山口朗彦"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2BWfehyKdJcDmtWvc5QQuZ"
+          }
         }
       },
       {
@@ -160,7 +178,10 @@
           "released": 1308668400,
           "composer": [
             "吉田勝弥"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:00De4sGIUcg4IXP2NgQZKL"
+          }
         }
       },
       {
@@ -173,7 +194,10 @@
           "released": 1308668400,
           "composer": [
             "佐々倉有吾"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3mmJoXGtdhf5Hpy04ivqXv"
+          }
         }
       },
       {
@@ -186,7 +210,10 @@
           "released": 1311692400,
           "composer": [
             "星和生"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0POYo1TeIcMYxYOPl5838N"
+          }
         }
       },
       {
@@ -199,7 +226,10 @@
           "released": 1311692400,
           "composer": [
             "青木多果"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4o6F205900kTFY8Re0uAOH"
+          }
         }
       },
       {
@@ -212,7 +242,10 @@
           "released": 1314111600,
           "composer": [
             "近藤昭雄"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3BOY5GSuzgkvdV87sK9kQN"
+          }
         }
       },
       {
@@ -224,7 +257,10 @@
           "released": 1314111600,
           "composer": [
             "俊龍"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1BROV2oeTupBcvWGZadmAJ"
+          }
         }
       },
       {
@@ -237,7 +273,10 @@
           "released": 1321974000,
           "composer": [
             "三浦誠司"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4VKR4ctwTshVKIYg8AMtPI"
+          }
         }
       },
       {
@@ -247,7 +286,10 @@
         "metadata": {
           "album": "ラブライブ！　Solo Live! from μ's 南ことり ことりLovin' you",
           "length": 256,
-          "released": 1323788400
+          "released": 1323788400,
+          "streaming": {
+            "spotify": "spotify:track:5a85PtoW6CYzl29zwxkJvl"
+          }
         }
       },
       {
@@ -260,7 +302,10 @@
           "released": 1327417200,
           "composer": [
             "佐々倉有吾"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3Rp1o84SMKnRh28nUOhS5G"
+          }
         }
       },
       {
@@ -273,7 +318,10 @@
           "released": 1327417200,
           "composer": [
             "佐伯高志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5WDgwWeXQLOHgLoEfO147w"
+          }
         }
       },
       {
@@ -286,7 +334,10 @@
           "released": 1329231600,
           "composer": [
             "増田達行"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6VGQKfLJK6diCqJXzU6MqF"
+          }
         }
       },
       {
@@ -299,7 +350,10 @@
           "released": 1329231600,
           "composer": [
             "山田高弘"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5UoHE2zwp6DbC0df7fn2D3"
+          }
         }
       },
       {
@@ -314,7 +368,10 @@
           "released": 1335279600,
           "composer": [
             "山崎真吾"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:06J8shVN94GqBb5GkU83lW"
+          }
         }
       },
       {
@@ -329,7 +386,10 @@
           "released": 1335279600,
           "composer": [
             "八重樫ゆう一"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4jd8aHaI37A8tr3t05yqpm"
+          }
         }
       },
       {
@@ -345,7 +405,10 @@
           "released": 1335279600,
           "composer": [
             "須田真吾"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1ZCI6BRGkvhjejrrgg8PSK"
+          }
         }
       },
       {
@@ -361,7 +424,10 @@
           "released": 1337698800,
           "composer": [
             "佐々木 裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4tvvypcJNtFQz5Hj7FfHoE"
+          }
         }
       },
       {
@@ -377,7 +443,10 @@
           "released": 1337698800,
           "composer": [
             "鈴木裕明"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3fmBmvPcFMW3cW66i8oTyi"
+          }
         }
       },
       {
@@ -393,7 +462,10 @@
           "released": 1337698800,
           "composer": [
             "山元佑介"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0NTXAZn1Jev01NtDN3ur2Z"
+          }
         }
       },
       {
@@ -409,7 +481,10 @@
           "released": 1340722800,
           "composer": [
             "若林充"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0EQ3LxQgs8JycrBpv1WUcS"
+          }
         }
       },
       {
@@ -425,7 +500,10 @@
           "released": 1340722800,
           "composer": [
             "増田達行"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5jYUEjwuNIdHALCkcNaKCT"
+          }
         }
       },
       {
@@ -441,7 +519,10 @@
           "released": 1340722800,
           "composer": [
             "前口渉"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6cIM9nnyKoIpg1H3Ewkv1v"
+          }
         }
       },
       {
@@ -457,7 +538,10 @@
           "released": 1343142000,
           "composer": [
             "若林 充"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0xzwcaP8fD9rWgIBUM3BJ1"
+          }
         }
       },
       {
@@ -473,7 +557,10 @@
           "released": 1343142000,
           "composer": [
             "近藤圭一"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:04WJ0hD52M5nF0xPERk0UC"
+          }
         }
       },
       {
@@ -490,7 +577,10 @@
           "released": 1343142000,
           "composer": [
             "増谷 賢"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4lFrXhNvigz4MjIAQ0FQ4X"
+          }
         }
       },
       {
@@ -507,7 +597,10 @@
           "released": 1343142000,
           "composer": [
             "佐伯高志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2Etuu3vKIDsOuOrRjKMXf4"
+          }
         }
       },
       {
@@ -519,7 +612,10 @@
           "released": 1346770800,
           "composer": [
             "河田貴央"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1svfceEomGTQo147p3VDbA"
+          }
         }
       },
       {
@@ -531,7 +627,10 @@
           "released": 1346770800,
           "composer": [
             "黒須克彦"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6F1WmePsZNDhX6AjMsLlvo"
+          }
         }
       },
       {
@@ -547,7 +646,10 @@
           "released": 1350399600,
           "composer": [
             "河原嶺旭"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2PvJIBrteDJHsUdwz5yOX4"
+          }
         }
       },
       {
@@ -563,7 +665,10 @@
           "released": 1350399600,
           "composer": [
             "河田貴央"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3ST9NT0dvazOoAttqszkvv"
+          }
         }
       },
       {
@@ -573,7 +678,10 @@
         "metadata": {
           "album": "僕らは今のなかで",
           "length": 276,
-          "released": 1358866800
+          "released": 1358866800,
+          "streaming": {
+            "spotify": "spotify:track:3CWqynPQ19CcRK1Tk67pUN"
+          }
         }
       },
       {
@@ -582,7 +690,10 @@
         "metadata": {
           "album": "僕らは今のなかで",
           "length": 258,
-          "released": 1358866800
+          "released": 1358866800,
+          "streaming": {
+            "spotify": "spotify:track:2YZ7ztho5Dza0F0NQwS2Cu"
+          }
         }
       },
       {
@@ -592,7 +703,10 @@
         "metadata": {
           "album": "きっと青春が聞こえる",
           "length": 247,
-          "released": 1360076400
+          "released": 1360076400,
+          "streaming": {
+            "spotify": "spotify:track:4BVn9xx0R6184WvsmBidGr"
+          }
         }
       },
       {
@@ -602,7 +716,10 @@
         "metadata": {
           "album": "きっと青春が聞こえる",
           "length": 271,
-          "released": 1360076400
+          "released": 1360076400,
+          "streaming": {
+            "spotify": "spotify:track:6sNY19uKNWjFv4ultjEwMQ"
+          }
         }
       },
       {
@@ -619,7 +736,10 @@
           "released": 1361286000,
           "composer": [
             "河田貴央"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7eAHUPVNo2CKHv8DWazbB4"
+          }
         }
       },
       {
@@ -635,7 +755,10 @@
           "released": 1361286000,
           "composer": [
             "佐々木裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5wkmzFGMJnCyibh5jWVt0x"
+          }
         }
       },
       {
@@ -653,7 +776,10 @@
         "metadata": {
           "album": "これからのSomeday / Wonder zone",
           "length": 266,
-          "released": 1362495600
+          "released": 1362495600,
+          "streaming": {
+            "spotify": "spotify:track:4V4KAGasGzHoyHukAIGblN"
+          }
         }
       },
       {
@@ -662,7 +788,10 @@
         "metadata": {
           "album": "これからのSomeday / Wonder zone",
           "length": 236,
-          "released": 1362495600
+          "released": 1362495600,
+          "streaming": {
+            "spotify": "spotify:track:6xJStCZZWIVKuwsPK4SjYI"
+          }
         }
       },
       {
@@ -676,7 +805,10 @@
           "released": 1363878000,
           "composer": [
             "高田 暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3Zry7EUDZEblU0j6nJSwNI"
+          }
         }
       },
       {
@@ -688,7 +820,10 @@
           "released": 1364914800,
           "composer": [
             "河田貴央"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6bCy82omDVBtrco1jkNvsV"
+          }
         }
       },
       {
@@ -700,7 +835,10 @@
           "released": 1364914800,
           "composer": [
             "佐々木裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3l9MXGd95pwN4v5gn4pgrh"
+          }
         }
       },
       {
@@ -712,7 +850,10 @@
           "released": 1365519600,
           "composer": [
             "板垣祐介"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7fNQYWUgVbguww7adXQLsO"
+          }
         }
       },
       {
@@ -728,7 +869,10 @@
           "released": 1366729200,
           "composer": [
             "高田 暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:41FVsypvb9X0gTYOHImShd"
+          }
         }
       },
       {
@@ -742,7 +886,10 @@
           "released": 1369666800,
           "composer": [
             "rino"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3K0ir6WzhM7flumN16KPYv"
+          }
         }
       },
       {
@@ -758,7 +905,10 @@
           "released": 1371740400,
           "composer": [
             "倉内 達矢"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6Qi4IgeruvT9VR2kFYGIjP"
+          }
         }
       },
       {
@@ -771,7 +921,10 @@
           "released": 1372172400,
           "composer": [
             "佐々木裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1CsfOYl3hjxzvcVFSrJOD4"
+          }
         }
       },
       {
@@ -784,7 +937,10 @@
           "released": 1372172400,
           "composer": [
             "杉森 舞"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:48VMPiaDoFzymNNlIJNiKc"
+          }
         }
       },
       {
@@ -796,7 +952,10 @@
           "released": 1374591600,
           "composer": [
             "佐々木裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2LHSTbqhXhBmxDhyng99A0"
+          }
         }
       },
       {
@@ -809,7 +968,10 @@
           "released": 1374591600,
           "composer": [
             "渡辺和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5emxkWnR2aB7s3d0iZq6pm"
+          }
         }
       },
       {
@@ -823,7 +985,10 @@
           "released": 1374764400,
           "composer": [
             "江並哲志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1J9oSzJ4VenJNc5bYaIAj4"
+          }
         }
       },
       {
@@ -832,7 +997,10 @@
         "metadata": {
           "album": "Pure girls project",
           "length": 274,
-          "released": 1377010800
+          "released": 1377010800,
+          "streaming": {
+            "spotify": "spotify:track:5vDkBEGTLcPaK8m1IwppVO"
+          }
         }
       },
       {
@@ -841,7 +1009,10 @@
         "metadata": {
           "album": "Pure girls project",
           "length": 266,
-          "released": 1377010800
+          "released": 1377010800,
+          "streaming": {
+            "spotify": "spotify:track:1OKywwmIGxdiABlkKD53It"
+          }
         }
       },
       {
@@ -858,7 +1029,10 @@
           "released": 1377615600,
           "composer": [
             "川崎里実"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7GRzwocoVsW0yB0ERlBVMG"
+          }
         }
       },
       {
@@ -871,7 +1045,10 @@
           "released": 1380034800,
           "composer": [
             "倉内 達矢"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2MaI9wGxEwFFUQ8tsXRf31"
+          }
         }
       },
       {
@@ -884,7 +1061,10 @@
           "released": 1380034800,
           "composer": [
             "佐々倉 有吾"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:26RTLtH0vbYO7P4RiTSHyq"
+          }
         }
       },
       {
@@ -896,7 +1076,10 @@
           "released": 1385478000,
           "composer": [
             "山口朗彦"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0GXrpYkcxV43ORcaDLnTv1"
+          }
         }
       },
       {
@@ -908,7 +1091,10 @@
           "released": 1385478000,
           "composer": [
             "山田高弘"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6xi4LnHN4H5uOvuyKjQFlM"
+          }
         }
       },
       {
@@ -920,7 +1106,10 @@
           "released": 1390921200,
           "composer": [
             "矢吹 香那"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:50fUJov0ZgQAyv1XpZWiki"
+          }
         }
       },
       {
@@ -933,7 +1122,10 @@
           "released": 1390921200,
           "composer": [
             "高田暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5WrPeRn12GRQKAJSxESayu"
+          }
         }
       },
       {
@@ -945,7 +1137,10 @@
           "released": 1390921200,
           "composer": [
             "倉内達矢"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7MPwXVgspfBMLXe3RPmiBQ"
+          }
         }
       },
       {
@@ -958,7 +1153,10 @@
           "released": 1398178800,
           "composer": [
             "黒須克彦"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4M1msELaGptV81LDVIHAwb"
+          }
         }
       },
       {
@@ -971,7 +1169,10 @@
           "released": 1398178800,
           "composer": [
             "江並哲志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2Zb08GHDVKaq7T9igjxmKe"
+          }
         }
       },
       {
@@ -984,7 +1185,10 @@
           "released": 1399474800,
           "composer": [
             "佐々木 裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3BDVbNDjDPnnR4BFYkTorb"
+          }
         }
       },
       {
@@ -996,7 +1200,10 @@
           "released": 1399474800,
           "composer": [
             "渡辺和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5GXb0KYItTmt8MAypsGzNj"
+          }
         }
       },
       {
@@ -1009,7 +1216,10 @@
           "released": 1401202800,
           "composer": [
             "佐伯高志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6lObXB9bmMSTG6mZ80zZrw"
+          }
         }
       },
       {
@@ -1021,7 +1231,10 @@
           "released": 1401202800,
           "composer": [
             "高阪昌至"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2sTpCCappu7dveknCxijb0"
+          }
         }
       },
       {
@@ -1040,7 +1253,10 @@
           "released": 1402412400,
           "composer": [
             "森 慎太郎"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5cIphsf5LYj5r5zL0XnQzK"
+          }
         }
       },
       {
@@ -1052,7 +1268,10 @@
           "released": 1402412400,
           "composer": [
             "佐伯高志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2nlBorhuZl0dt5TSUS71Yt"
+          }
         }
       },
       {
@@ -1078,7 +1297,10 @@
           "released": 1404831600,
           "composer": [
             "本田光史郎"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:00d2FjyB2c85W8FPI7NT4K"
+          }
         }
       },
       {
@@ -1090,7 +1312,10 @@
           "released": 1404831600,
           "composer": [
             "前口 渉"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5RasXYDPDeJp1R8fSxln2j"
+          }
         }
       },
       {
@@ -1107,7 +1332,10 @@
           "released": 1406214000,
           "composer": [
             "岡本健介"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2KYfpZYWDFhJ1wVJt0nr6v"
+          }
         }
       },
       {
@@ -1121,7 +1349,10 @@
           "released": 1409065200,
           "composer": [
             "森慎太郎"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6ecIYT0iS71sdeXyREo4hE"
+          }
         }
       },
       {
@@ -1134,7 +1365,10 @@
           "released": 1409065200,
           "composer": [
             "板垣祐介"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:17nYGWIYRNJYM9bTmRFG44"
+          }
         }
       },
       {
@@ -1150,7 +1384,10 @@
           "released": 1411484400,
           "composer": [
             "増田 武史"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3OraxsSXFuqckOfrszEDy1"
+          }
         }
       },
       {
@@ -1162,7 +1399,10 @@
           "released": 1412089200,
           "composer": [
             "倉内達矢"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5E6Fl9mSi2Vd84RpmzYKsF"
+          }
         }
       },
       {
@@ -1174,7 +1414,10 @@
           "released": 1412089200,
           "composer": [
             "佐伯高志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0TnzZ9qMvLOYCkASYaZNCL"
+          }
         }
       },
       {
@@ -1188,7 +1431,10 @@
           "released": 1414508400,
           "composer": [
             "川崎里実"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3eV6hQkASfLH4rZsMfQJpi"
+          }
         }
       },
       {
@@ -1201,7 +1447,10 @@
           "released": 1415718000,
           "composer": [
             "中土智博"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0QrA6mjr6HRp2aQkLw7ZHl"
+          }
         }
       },
       {
@@ -1214,7 +1463,10 @@
           "released": 1415718000,
           "composer": [
             "渡辺和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2yEjuc3iBNB5Ku5LVnGeiD"
+          }
         }
       },
       {
@@ -1231,7 +1483,10 @@
           "released": 1416495600,
           "composer": [
             "渡辺 和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7k9bO5IT2yXgzaiUgTtEsR"
+          }
         }
       },
       {
@@ -1244,7 +1499,10 @@
           "released": 1416927600,
           "composer": [
             "増田武史"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7JJy1a9aWRnOYA7ERkjXXr"
+          }
         }
       },
       {
@@ -1257,7 +1515,10 @@
           "released": 1416927600,
           "composer": [
             "佐々木裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:39moifUJfIqzZspMNdUXaA"
+          }
         }
       },
       {
@@ -1270,7 +1531,10 @@
           "released": 1419346800,
           "composer": [
             "佐伯高志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:39Fg4Gjwe9Uv6aNgUSm71T"
+          }
         }
       },
       {
@@ -1282,7 +1546,10 @@
           "released": 1419346800,
           "composer": [
             "佐々倉有吾"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2YkhAKhpvi3lSv5vVIawXk"
+          }
         }
       },
       {
@@ -1295,7 +1562,10 @@
           "released": 1419433200,
           "composer": [
             "佐々木裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5AlnmX5W1urzBN6a2mu7rx"
+          }
         }
       },
       {
@@ -1309,7 +1579,10 @@
           "released": 1419433200,
           "composer": [
             "佐々木裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5N4mL2wwOyRmV8knWYs3QN"
+          }
         }
       },
       {
@@ -1322,7 +1595,10 @@
           "released": 1419433200,
           "composer": [
             "渡辺 和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5klLVOYKURBm2cVEDUkCIH"
+          }
         }
       },
       {
@@ -1336,7 +1612,10 @@
           "released": 1419433200,
           "composer": [
             "渡辺 和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2ALPMt9TJ9qtoJIGTrZuZg"
+          }
         }
       },
       {
@@ -1348,7 +1627,10 @@
           "released": 1422630000,
           "composer": [
             "TSUKASA"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4ivGELMa8ISyJ14CYsTbsV"
+          }
         }
       },
       {
@@ -1361,7 +1643,10 @@
           "released": 1429628400,
           "composer": [
             "高田 暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3YwjuES5v9SsAcxiF4OtkW"
+          }
         }
       },
       {
@@ -1373,7 +1658,10 @@
           "released": 1429628400,
           "composer": [
             "河田貴央"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5nQk7ARnlHN00w3CHeOQdI"
+          }
         }
       },
       {
@@ -1386,7 +1674,10 @@
           "released": 1432306800,
           "composer": [
             "三浦 誠司"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:413989eaOv804ojmihWxCP"
+          }
         }
       },
       {
@@ -1399,7 +1690,10 @@
           "released": 1432306800,
           "composer": [
             "木村 有希"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5K0FdKjsUkibNU1xpOQGTZ"
+          }
         }
       },
       {
@@ -1412,7 +1706,10 @@
           "released": 1432306800,
           "composer": [
             "増田 武史"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4qD6yV5uh0Z9oZ1qnVDto2"
+          }
         }
       },
       {
@@ -1424,7 +1721,10 @@
           "released": 1435676400,
           "composer": [
             "森慎太郎"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:39URZtdz8fkfaAhNe6BHPB"
+          }
         }
       },
       {
@@ -1441,7 +1741,10 @@
           "released": 1435676400,
           "composer": [
             "山口朗彦"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5lybWKtiujlsgc57CJ8b3B"
+          }
         }
       },
       {
@@ -1453,7 +1756,10 @@
           "released": 1436281200,
           "composer": [
             "倉内達矢"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1ReMkk2qSsgGam4y9Adklz"
+          }
         }
       },
       {
@@ -1482,7 +1788,10 @@
           "released": 1436886000,
           "composer": [
             "ZAQ"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:005NUwN5Mnre7uZ0KkQCaG"
+          }
         }
       },
       {
@@ -1498,7 +1807,10 @@
           "released": 1436886000,
           "composer": [
             "本田光史郎"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:22hu0luB8nJ7PaOV9xNbY6"
+          }
         }
       },
       {
@@ -1510,7 +1822,10 @@
           "released": 1438700400,
           "composer": [
             "Herman Hupfeld"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4hMLV22cah0KQARP4GpWjV"
+          }
         }
       },
       {
@@ -1522,7 +1837,10 @@
           "released": 1445958000,
           "composer": [
             "西岡和哉"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5ElFBYrLNttVeMZ0Ef1Vcv"
+          }
         }
       },
       {
@@ -1535,7 +1853,10 @@
           "released": 1445958000,
           "composer": [
             "酒井陽一"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1ZgSVNIl35mbAk4qZzBOXE"
+          }
         }
       },
       {
@@ -1548,7 +1869,10 @@
           "released": 1448377200,
           "composer": [
             "佐々木裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5IciBwCdCD7KN4cPS7slNI"
+          }
         }
       },
       {
@@ -1561,7 +1885,10 @@
           "released": 1448377200,
           "composer": [
             "山田竜平"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0GQap9r77nqRjaCHgNKlhJ"
+          }
         }
       },
       {
@@ -1576,7 +1903,10 @@
           "composer": [
             "伊藤真澄",
             "ミト"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7cmHkvRilNBoMbMYuDqiIC"
+          }
         }
       },
       {
@@ -1589,7 +1919,10 @@
           "released": 1450796400,
           "composer": [
             "rino"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2OZQJEg4pzXfu3SiJ72zle"
+          }
         }
       },
       {
@@ -1602,7 +1935,10 @@
           "released": 1450796400,
           "composer": [
             "佐々木裕"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4VeVZzE78CtjlyTqV7oLKd"
+          }
         }
       },
       {
@@ -1615,7 +1951,10 @@
           "released": 1453215600,
           "composer": [
             "川崎里実"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4L5OknODR8suUXkuXyWXGx"
+          }
         }
       },
       {
@@ -1627,7 +1966,10 @@
           "released": 1453215600,
           "composer": [
             "森慎太郎"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3s5ySlCioYgLP3hrrghaHo"
+          }
         }
       },
       {
@@ -1639,7 +1981,10 @@
           "released": 1456844400,
           "composer": [
             "高田暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0it9FhKT65mkHab7BnXENu"
+          }
         }
       },
       {
@@ -1652,7 +1997,10 @@
           "released": 1456844400,
           "composer": [
             "増谷賢"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:57H5pm6L38AC2D9L7h1Kfe"
+          }
         }
       },
       {
@@ -1664,7 +2012,10 @@
           "released": 1585062000,
           "composer": [
             "高田 暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1TLDe7LHaRGh3nxPl1cKHG"
+          }
         }
       },
       {
@@ -1677,7 +2028,10 @@
           "released": 1585062000,
           "composer": [
             "山田高弘"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4rZ51vvTEY6RB3cCHUvC0a"
+          }
         }
       }
     ],
@@ -1692,7 +2046,10 @@
           "released": 1444176000,
           "composer": [
             "光増ハジメ"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:59TGQhWvrB2bIBj7z2FIjr"
+          }
         }
       },
       {
@@ -1704,7 +2061,10 @@
           "released": 1444176000,
           "composer": [
             "高田 暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1bgrQXcFqDs3gihiD2r3jd"
+          }
         }
       },
       {
@@ -1716,7 +2076,10 @@
           "released": 1444176000,
           "composer": [
             "渡辺和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0FQj7luDMVDhsTIKblIjtx"
+          }
         }
       },
       {
@@ -1729,7 +2092,10 @@
           "released": 1461715200,
           "composer": [
             "佐々倉有吾"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3nxrLaPGlW1EsAWn23bcPX"
+          }
         }
       },
       {
@@ -1742,7 +2108,10 @@
           "released": 1461715200,
           "composer": [
             "山口朗彦"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6kkX6hoN7wkZu7n6K3399o"
+          }
         }
       },
       {
@@ -1755,7 +2124,10 @@
           "released": 1461715200,
           "composer": [
             "宮崎 誠"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4HFtRL9y6elgztUDpXkX0t"
+          }
         }
       },
       {
@@ -1768,7 +2140,10 @@
           "released": 1462924800,
           "composer": [
             "高田 暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:472fNidp2NJoijcPKMvaZv"
+          }
         }
       },
       {
@@ -1781,7 +2156,10 @@
           "released": 1462924800,
           "composer": [
             "Kon-K"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1ORM9UcRS2m6sSCFHtGM9l"
+          }
         }
       },
       {
@@ -1794,7 +2172,10 @@
           "released": 1464134400,
           "composer": [
             "宮崎 誠"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6d3G58cEHrqIMyDKaMuRu3"
+          }
         }
       },
       {
@@ -1807,7 +2188,10 @@
           "released": 1464134400,
           "composer": [
             "金崎真士"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5JvsOjJvozyfkeyGJo3y5x"
+          }
         }
       },
       {
@@ -1819,7 +2203,10 @@
           "released": 1465344000,
           "composer": [
             "金崎真士"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3egD1YzZpyckmVlZJV4GOj"
+          }
         }
       },
       {
@@ -1831,7 +2218,10 @@
           "released": 1465344000,
           "composer": [
             "R・O・N"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7LZRj9JzVDBrwV0Uxtjnba"
+          }
         }
       },
       {
@@ -1845,7 +2235,10 @@
           "composer": [
             "伊藤 賢",
             "光増ハジメ"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7p9Oua59fBF8L7jaD144LA"
+          }
         }
       },
       {
@@ -1858,7 +2251,10 @@
           "released": 1468972800,
           "composer": [
             "桑原 聖 (Arte Refact)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1U4UY7KKXW7F85jMHyFqBB"
+          }
         }
       },
       {
@@ -1875,7 +2271,10 @@
           "released": 1470182400,
           "composer": [
             "渡辺拓也"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5Tebv0qRKNlFXlxd0TiYAy"
+          }
         }
       },
       {
@@ -1892,7 +2291,10 @@
           "released": 1470182400,
           "composer": [
             "高田 暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:51118cg0D9k0F952AGtNou"
+          }
         }
       },
       {
@@ -1905,7 +2307,10 @@
           "released": 1471996800,
           "composer": [
             "山口朗彦"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4DX6X29cQMY1io58PyWTri"
+          }
         }
       },
       {
@@ -1918,7 +2323,10 @@
           "released": 1471996800,
           "composer": [
             "伊藤真澄"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7muVCfGyqrbXoc0EbrmzK0"
+          }
         }
       },
       {
@@ -1938,7 +2346,10 @@
           "released": 1473811200,
           "composer": [
             "光増ハジメ"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0x89IEs0NJHOULPx4wgPPB"
+          }
         }
       },
       {
@@ -1951,7 +2362,10 @@
           "released": 1473811200,
           "composer": [
             "渡辺和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6f9SU0JwNjVDjduReyFpAd"
+          }
         }
       },
       {
@@ -1961,7 +2375,10 @@
         "metadata": {
           "album": "Pops heartで踊るんだもん！",
           "length": 322,
-          "released": 1474934400
+          "released": 1474934400,
+          "streaming": {
+            "spotify": "spotify:track:5wo7Q0bZZc8rWdQaXwquR8"
+          }
         }
       },
       {
@@ -1975,7 +2392,10 @@
         "metadata": {
           "album": "空も心も晴れるから",
           "length": 304,
-          "released": 1477440000
+          "released": 1477440000,
+          "streaming": {
+            "spotify": "spotify:track:6XXu1HySrCSd25li37RADe"
+          }
         }
       },
       {
@@ -1997,7 +2417,10 @@
           "released": 1478649600,
           "composer": [
             "佐伯高志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2h0JK3sS137DlbQrQehutp"
+          }
         }
       },
       {
@@ -2009,7 +2432,10 @@
           "released": 1478649600,
           "composer": [
             "EFFY"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:53r1ZLsLXyCSAJiTxF8hts"
+          }
         }
       },
       {
@@ -2022,7 +2448,10 @@
           "released": 1479859200,
           "composer": [
             "光増ハジメ"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3eYOP1lzRetxIYLE4Ga67y"
+          }
         }
       },
       {
@@ -2035,7 +2464,10 @@
           "released": 1479859200,
           "composer": [
             "田中俊亮"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7M1W2728W0xVeI3nzICWsl"
+          }
         }
       },
       {
@@ -2047,7 +2479,10 @@
           "released": 1479859200,
           "composer": [
             "河田貴央"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4dBdyHDWfox9QU0HN8y30t"
+          }
         }
       },
       {
@@ -2060,7 +2495,10 @@
         "metadata": {
           "album": "Waku-Waku-Week!",
           "length": 256,
-          "released": 1480032000
+          "released": 1480032000,
+          "streaming": {
+            "spotify": "spotify:track:3hdl3kBMjapC8UF5mt3lRY"
+          }
         }
       },
       {
@@ -2069,7 +2507,10 @@
         "metadata": {
           "album": "Daydream Warrior",
           "length": 275,
-          "released": 1482364800
+          "released": 1482364800,
+          "streaming": {
+            "spotify": "spotify:track:449JyzwBG4L3IVHUf9zkZs"
+          }
         }
       },
       {
@@ -2083,7 +2524,10 @@
         "metadata": {
           "album": "G線上のシンデレラ",
           "length": 258,
-          "released": 1485475200
+          "released": 1485475200,
+          "streaming": {
+            "spotify": "spotify:track:1q8HSZgkbK1AAs32TjBiW6"
+          }
         }
       },
       {
@@ -2093,7 +2537,10 @@
         "metadata": {
           "album": "スリリング・ワンウェイ",
           "length": 272,
-          "released": 1487894400
+          "released": 1487894400,
+          "streaming": {
+            "spotify": "spotify:track:0tJ6EW7EqnasppXMSXujDR"
+          }
         }
       },
       {
@@ -2103,7 +2550,10 @@
         "metadata": {
           "album": "P.S.の向こう側",
           "length": 270,
-          "released": 1490313600
+          "released": 1490313600,
+          "streaming": {
+            "spotify": "spotify:track:71dzTiFCv92u6VkND7Vtc6"
+          }
         }
       },
       {
@@ -2112,7 +2562,10 @@
         "metadata": {
           "album": "LONELY TUNING",
           "length": 261,
-          "released": 1490313600
+          "released": 1490313600,
+          "streaming": {
+            "spotify": "spotify:track:3SJdL6hW8ikRfox7mGWBxY"
+          }
         }
       },
       {
@@ -2121,7 +2574,10 @@
         "metadata": {
           "album": "Guilty Eyes Fever",
           "length": 253,
-          "released": 1490313600
+          "released": 1490313600,
+          "streaming": {
+            "spotify": "spotify:track:3ViGWv9aLp5anpJRk4hPIe"
+          }
         }
       },
       {
@@ -2130,7 +2586,10 @@
         "artist": 0,
         "metadata": {
           "length": 303,
-          "released": 1490313600
+          "released": 1490313600,
+          "streaming": {
+            "spotify": "spotify:track:0u1pinuOi7gJh5HitZgaW7"
+          }
         }
       },
       {
@@ -2142,7 +2601,10 @@
           "released": 1491350400,
           "composer": [
             "渡辺拓也"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4juoJEZlwHSbIcD1W5Bdem"
+          }
         }
       },
       {
@@ -2154,7 +2616,10 @@
           "released": 1491350400,
           "composer": [
             "早川博隆"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2c9UHaQUD7eW0x6GUbmZmo"
+          }
         }
       },
       {
@@ -2168,7 +2633,10 @@
           "composer": [
             "TAKAROT",
             "KOUDAI IWATSUBO"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6S90iiviarDsqeZFYuOpow"
+          }
         }
       },
       {
@@ -2181,7 +2649,10 @@
           "released": 1494374400,
           "composer": [
             "藤井亮太"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:09hTxG0bQXAulhD92ambAW"
+          }
         }
       },
       {
@@ -2194,7 +2665,10 @@
           "released": 1494374400,
           "composer": [
             "渡辺未来"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5OLMQiEGFoBQ560FUwJm3O"
+          }
         }
       },
       {
@@ -2206,7 +2680,10 @@
           "released": 1496188800,
           "composer": [
             "竹市佳伸"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4hpJT2KzDvOqjaeXrVsaMP"
+          }
         }
       },
       {
@@ -2218,7 +2695,10 @@
           "released": 1496188800,
           "composer": [
             "江並哲志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:69n3yUeRmkVZpZuyiZcXgR"
+          }
         }
       },
       {
@@ -2231,7 +2711,10 @@
           "released": 1498003200,
           "composer": [
             "佐伯高志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1TizL66jSoN48Hj8airJgr"
+          }
         }
       },
       {
@@ -2243,7 +2726,10 @@
           "released": 1498003200,
           "composer": [
             "渡辺和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:102b9XE1FmD4seoZrOBWoj"
+          }
         }
       },
       {
@@ -2255,7 +2741,10 @@
           "released": 1498780800,
           "composer": [
             "光増ハジメ"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3ngiHH1JSTL7T2i1aDZy7c"
+          }
         }
       },
       {
@@ -2271,7 +2760,10 @@
           "released": 1501632000,
           "composer": [
             "片桐周太郎"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4YKBQ79ioNaMJJlXpCK74l"
+          }
         }
       },
       {
@@ -2287,7 +2779,10 @@
           "released": 1501632000,
           "composer": [
             "原田 篤 (Arte Refact)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2NPr06O7VHTXOwdBoUSEJL"
+          }
         }
       },
       {
@@ -2303,7 +2798,10 @@
           "released": 1501632000,
           "composer": [
             "石倉誉之"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4e8YOAhIclDTz2ffTYycZ1"
+          }
         }
       },
       {
@@ -2320,7 +2818,10 @@
           "released": 1501632000,
           "composer": [
             "金崎真士"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2tkXgl87zjKfDUFkht3maK"
+          }
         }
       },
       {
@@ -2333,7 +2834,10 @@
           "released": 1508889600,
           "composer": [
             "光増ハジメ"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4Kr4DGSLD2SRmjxNjfm3uS"
+          }
         }
       },
       {
@@ -2346,7 +2850,10 @@
           "released": 1508889600,
           "composer": [
             "渡辺和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1Uf8JO0SLxmjFKVtV72d34"
+          }
         }
       },
       {
@@ -2360,7 +2867,10 @@
           "composer": [
             "小高光太郎",
             "UiNA"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2w5T8mOOsekn2uFtsHuK89"
+          }
         }
       },
       {
@@ -2372,7 +2882,10 @@
           "released": 1510704000,
           "composer": [
             "原 知也"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1nsP48vtZS2C2ZJ7xkgOCE"
+          }
         }
       },
       {
@@ -2385,7 +2898,10 @@
           "released": 1511913600,
           "composer": [
             "EFFY (FirstCall)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0ldfDof0ijqXrfmbJmUpvo"
+          }
         }
       },
       {
@@ -2397,7 +2913,10 @@
           "released": 1511913600,
           "composer": [
             "酒井拓也 (Arte Refact)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5eQA8ByEOmjyxLqByisyuF"
+          }
         }
       },
       {
@@ -2409,7 +2928,10 @@
           "released": 1513728000,
           "composer": [
             "河田貴央"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5lNJrTnmGyHRByNYU53aHO"
+          }
         }
       },
       {
@@ -2421,7 +2943,10 @@
           "released": 1513728000,
           "composer": [
             "宮崎 誠"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3nae2NITUTjmQAriOTMKdo"
+          }
         }
       },
       {
@@ -2433,7 +2958,10 @@
           "released": 1513728000,
           "composer": [
             "馬渕直純"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0sBNo8ePBkb9hKV1qrSWjg"
+          }
         }
       },
       {
@@ -2442,7 +2970,10 @@
         "metadata": {
           "album": "One More Sunshine Story",
           "length": 272,
-          "released": 1513900800
+          "released": 1513900800,
+          "streaming": {
+            "spotify": "spotify:track:7h73Xkk2JqVV2bMo0P7x06"
+          }
         }
       },
       {
@@ -2454,7 +2985,10 @@
           "released": 1516233600,
           "composer": [
             "佐伯高志"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:31ENXtNQYS0xIOOmb3Ogjc"
+          }
         }
       },
       {
@@ -2466,7 +3000,10 @@
           "released": 1516233600,
           "composer": [
             "Carlos K."
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0gODhAZpdmxus2pc1B1NRj"
+          }
         }
       },
       {
@@ -2476,7 +3013,10 @@
         "metadata": {
           "album": "おやすみなさん！",
           "length": 249,
-          "released": 1516924800
+          "released": 1516924800,
+          "streaming": {
+            "spotify": "spotify:track:29vpQtliCPSeZGJrY8r375"
+          }
         }
       },
       {
@@ -2485,7 +3025,10 @@
         "metadata": {
           "album": "in this unstable world/Pianoforte Monologue",
           "length": 245,
-          "released": 1519344000
+          "released": 1519344000,
+          "streaming": {
+            "spotify": "spotify:track:2Oo43sMtzITkBXokmd2KO3"
+          }
         }
       },
       {
@@ -2494,7 +3037,10 @@
         "metadata": {
           "album": "in this unstable world/Pianoforte Monologue",
           "length": 307,
-          "released": 1519344000
+          "released": 1519344000,
+          "streaming": {
+            "spotify": "spotify:track:18J1VYmbWcW147rWG1NPLb"
+          }
         }
       },
       {
@@ -2503,7 +3049,10 @@
         "metadata": {
           "album": "Beginner's Sailing",
           "length": 291,
-          "released": 1521763200
+          "released": 1521763200,
+          "streaming": {
+            "spotify": "spotify:track:40j5Fo7t3iUXMNkIpLyGRE"
+          }
         }
       },
       {
@@ -2512,7 +3061,10 @@
         "metadata": {
           "album": "RED GEM WINK/WHITE FIRST LOVE",
           "length": 296,
-          "released": 1524528000
+          "released": 1524528000,
+          "streaming": {
+            "spotify": "spotify:track:6puhUOFB5b7CggOnVUufpI"
+          }
         }
       },
       {
@@ -2521,7 +3073,10 @@
         "metadata": {
           "album": "RED GEM WINK/WHITE FIRST LOVE",
           "length": 271,
-          "released": 1524528000
+          "released": 1524528000,
+          "streaming": {
+            "spotify": "spotify:track:0eTxt9ZSnoccBDd5reFAxK"
+          }
         }
       },
       {
@@ -2530,7 +3085,10 @@
         "metadata": {
           "album": "New winding road/さかなかなんだか？",
           "length": 293,
-          "released": 1527206400
+          "released": 1527206400,
+          "streaming": {
+            "spotify": "spotify:track:2XnOpXIAQHiZla56j6bdgL"
+          }
         }
       },
       {
@@ -2540,7 +3098,10 @@
         "metadata": {
           "album": "New winding road/さかなかなんだか？",
           "length": 289,
-          "released": 1527206400
+          "released": 1527206400,
+          "streaming": {
+            "spotify": "spotify:track:57fDiwr1ayxeS57PC8r13R"
+          }
         }
       },
       {
@@ -2550,7 +3111,10 @@
         "metadata": {
           "album": "サクラバイバイ",
           "length": 280,
-          "released": 1529625600
+          "released": 1529625600,
+          "streaming": {
+            "spotify": "spotify:track:5mi3sowkAheZqe8h11omF3"
+          }
         }
       },
       {
@@ -2558,7 +3122,10 @@
         "title.ko": "졸업이네요",
         "artist": 4,
         "metadata": {
-          "released": 1529625600
+          "released": 1529625600,
+          "streaming": {
+            "spotify": "spotify:track:4RPdmTFVphcUx9Sy1JgIU8"
+          }
         }
       },
       {
@@ -2567,7 +3134,10 @@
         "metadata": {
           "album": "Guilty!? Farewell party",
           "length": 241,
-          "released": 1529625600
+          "released": 1529625600,
+          "streaming": {
+            "spotify": "spotify:track:5tLunY1D3PqrAV9cIndG1g"
+          }
         }
       },
       {
@@ -2577,7 +3147,10 @@
         "metadata": {
           "album": "キセキヒカル",
           "length": 287,
-          "released": 1529625600
+          "released": 1529625600,
+          "streaming": {
+            "spotify": "spotify:track:0Kp3rDOdbDoGaEcFeI1c1R"
+          }
         }
       },
       {
@@ -2587,7 +3160,10 @@
         "metadata": {
           "album": "ホップ・ステップ・ワーイ！",
           "length": 291,
-          "released": 1530316800
+          "released": 1530316800,
+          "streaming": {
+            "spotify": "spotify:track:6XYRVscC01h3U1QbVQAK2w"
+          }
         }
       },
       {
@@ -2597,7 +3173,10 @@
         "metadata": {
           "album": "ホップ・ステップ・ワーイ！",
           "length": 291,
-          "released": 1530316800
+          "released": 1530316800,
+          "streaming": {
+            "spotify": "spotify:track:1gjl9pXsom3jEi6drMjlcG"
+          }
         }
       },
       {
@@ -2607,7 +3186,10 @@
         "metadata": {
           "album": "ホップ・ステップ・ワーイ！",
           "length": 291,
-          "released": 1530316800
+          "released": 1530316800,
+          "streaming": {
+            "spotify": "spotify:track:74qpyMdTVVs57EVMsgFCn9"
+          }
         }
       },
       {
@@ -2617,7 +3199,10 @@
         "metadata": {
           "album": "ホップ・ステップ・ワーイ！",
           "length": 291,
-          "released": 1530316800
+          "released": 1530316800,
+          "streaming": {
+            "spotify": "spotify:track:0yLAi0lPVGp6P1QCiu14hB"
+          }
         }
       },
       {
@@ -2630,7 +3215,10 @@
           "composer": [
             "イワツボコーダイ",
             "TAKAROT"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:72s4FuzWHynj4cMDNccvhD"
+          }
         }
       },
       {
@@ -2642,7 +3230,10 @@
           "released": 1533081600,
           "composer": [
             "Akira Sunset"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1Akys4ddNICtUgEMWyfaX7"
+          }
         }
       },
       {
@@ -2656,7 +3247,10 @@
         "metadata": {
           "album": "ハジマリロード",
           "length": 265,
-          "released": 1543017600
+          "released": 1543017600,
+          "streaming": {
+            "spotify": "spotify:track:2jyZYJ9E6WKjVuitaBAUu6"
+          }
         }
       },
       {
@@ -2669,7 +3263,10 @@
         "metadata": {
           "album": "Marine Border Parasol",
           "length": 295,
-          "released": 1543017600
+          "released": 1543017600,
+          "streaming": {
+            "spotify": "spotify:track:68U6Vfl1uoihmb5eM9BxIt"
+          }
         }
       },
       {
@@ -2683,7 +3280,10 @@
         "metadata": {
           "album": "予測不可能Driving!",
           "length": 228,
-          "released": 1543017600
+          "released": 1543017600,
+          "streaming": {
+            "spotify": "spotify:track:3koLn2DbcEe3yanVBtfx63"
+          }
         }
       },
       {
@@ -2696,7 +3296,10 @@
           "released": 1548201600,
           "composer": [
             "EFFY (FirstCall)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2Nl2TyIotphMyrxgRSRlz8"
+          }
         }
       },
       {
@@ -2708,7 +3311,10 @@
           "released": 1548201600,
           "composer": [
             "Carlos K."
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6S7xc5bgVmWRwpc5HKgXNm"
+          }
         }
       },
       {
@@ -2725,7 +3331,10 @@
           "released": 1548806400,
           "composer": [
             "山口朗彦"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4ZhuOJQnmDqHqUvo0aPsY1"
+          }
         }
       },
       {
@@ -2738,7 +3347,10 @@
           "composer": [
             "Keisuke Koyama",
             "Kanata Okajima"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5TnkzOiLDOKDvUNvQ2KiiR"
+          }
         }
       },
       {
@@ -2750,7 +3362,10 @@
           "released": 1549411200,
           "composer": [
             "河田貴央"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3aYg7E9EixRCtQQX5SZuat"
+          }
         }
       },
       {
@@ -2762,7 +3377,10 @@
           "released": 1549411200,
           "composer": [
             "光増ハジメ (FirstCall)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3ieRKdHq1aOTFZ7xGEHzHC"
+          }
         }
       },
       {
@@ -2775,7 +3393,10 @@
           "composer": [
             "Kanata Okajima",
             "TAKAROT"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3bSp8XRroNBn1YCy7IaHRa"
+          }
         }
       },
       {
@@ -2789,7 +3410,10 @@
             "Kanata Okajima",
             "KOUDAI IWATSUBO",
             "TAKAROT"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3SHwu0Cb4Uz72bH1xhKefG"
+          }
         }
       },
       {
@@ -2803,7 +3427,10 @@
             "TAKAROT",
             "KOUDAI IWATSUBO",
             "Kanata Okajima"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2ykgS4k9SoYG3ZjvALBI14"
+          }
         }
       },
       {
@@ -2817,7 +3444,10 @@
             "TAKAROT",
             "KOUDAI IWATSUBO",
             "Kanata Okajima"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6T5mQ3qiAvqJgBErVfPlda"
+          }
         }
       },
       {
@@ -2831,7 +3461,10 @@
             "KOUDAI IWATSUBO",
             "TAKAROT",
             "Kanata Okajima"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7IW6i3VDqgLPO4o4nCrXrN"
+          }
         }
       },
       {
@@ -2840,7 +3473,10 @@
         "metadata": {
           "album": "i-n-g, I TRY!!",
           "length": 272,
-          "released": 1564099200
+          "released": 1564099200,
+          "streaming": {
+            "spotify": "spotify:track:6CkEJ9q4WK8DWHP95fR5h2"
+          }
         }
       },
       {
@@ -2850,7 +3486,10 @@
         "metadata": {
           "album": "冒険Type A, B, C!!",
           "length": 279,
-          "released": 1564099200
+          "released": 1564099200,
+          "streaming": {
+            "spotify": "spotify:track:2WqRmvz8Yye24JUNV9aYPo"
+          }
         }
       },
       {
@@ -2860,7 +3499,10 @@
         "metadata": {
           "album": "未体験HORIZON",
           "length": 320,
-          "released": 1569369600
+          "released": 1569369600,
+          "streaming": {
+            "spotify": "spotify:track:1m7fzl91xsEJq4FS4egOnU"
+          }
         }
       },
       {
@@ -2869,7 +3511,10 @@
         "metadata": {
           "album": "未体験HORIZON",
           "length": 313,
-          "released": 1569369600
+          "released": 1569369600,
+          "streaming": {
+            "spotify": "spotify:track:73Dktd4JIt6Aw6bIhDbSgn"
+          }
         }
       },
       {
@@ -2878,7 +3523,10 @@
         "metadata": {
           "album": "未体験HORIZON",
           "length": 300,
-          "released": 1569369600
+          "released": 1569369600,
+          "streaming": {
+            "spotify": "spotify:track:1JxplhTPVobgdxEV685vde"
+          }
         }
       },
       {
@@ -2890,7 +3538,10 @@
           "released": 1572393600,
           "composer": [
             "EFFY (FirstCall)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:41AYhoiB3yvaFiEjnRUnrN"
+          }
         }
       },
       {
@@ -2902,7 +3553,10 @@
           "released": 1572393600,
           "composer": [
             "河田貴央"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6fgW8tuVy1UEcoFqijjy99"
+          }
         }
       },
       {
@@ -2915,7 +3569,10 @@
           "composer": [
             "杉山勝彦",
             "ulala"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3JQFG9dQs2VGW6bJPDts3A"
+          }
         }
       },
       {
@@ -2927,7 +3584,10 @@
           "released": 1574812800,
           "composer": [
             "渡辺未来"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1RC5cSSGRNyYMFCuvCEEt5"
+          }
         }
       },
       {
@@ -2939,7 +3599,10 @@
           "released": 1574812800,
           "composer": [
             "本多友紀 (Arte Refact)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7vuXvTDHpcnviKTzMDptNP"
+          }
         }
       },
       {
@@ -2951,7 +3614,10 @@
           "released": 1575417600,
           "composer": [
             "高田 暁"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3XkAIofk0JgOXrt41CV5U6"
+          }
         }
       },
       {
@@ -2963,7 +3629,10 @@
           "released": 1575417600,
           "composer": [
             "前口 渉"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:11L8jsLlG0Ml8BBqdZxWqh"
+          }
         }
       },
       {
@@ -2976,7 +3645,10 @@
           "released": 1575417600,
           "composer": [
             "原田 篤 (Arte Refact)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7drkoBPx9SHgtXOuFjD8eb"
+          }
         }
       },
       {
@@ -2988,7 +3660,10 @@
           "released": 1576022400,
           "composer": [
             "山田竜平"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6b5SwxLObqfrx9ewIU3UWU"
+          }
         }
       },
       {
@@ -3001,7 +3676,10 @@
           "released": 1576022400,
           "composer": [
             "Kohei by SIMONSAYZ"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7HQAR5V6SQC8SGfimUpFYD"
+          }
         }
       },
       {
@@ -3014,7 +3692,10 @@
           "released": 1576022400,
           "composer": [
             "黒川陽介"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6sfCZBZbomvxfp2l15eumu"
+          }
         }
       },
       {
@@ -3040,7 +3721,10 @@
           "composer": [
             "Kanata Okajima",
             "MEG"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6x1oBL3E8rAzZvxvDvb2vw"
+          }
         }
       },
       {
@@ -3053,7 +3737,10 @@
           "composer": [
             "TAKAROT",
             "イワツボコーダイ"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5GnyRVCuIT39RsmwP0NwFA"
+          }
         }
       },
       {
@@ -3065,7 +3752,10 @@
           "released": 1596240000,
           "composer": [
             "EFFY (FirstCall)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3wowUlcFYoM9CvSG0U7U92"
+          }
         }
       },
       {
@@ -3077,7 +3767,10 @@
           "released": 1597795200,
           "composer": [
             "渡辺和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:211qJsL5CTxWKFaYwHQRpo"
+          }
         }
       },
       {
@@ -3089,7 +3782,10 @@
           "released": 1597795200,
           "composer": [
             "馬渕直純"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4oYq3ZBW4v34rQbdzMrWab"
+          }
         }
       },
       {
@@ -3101,7 +3797,10 @@
           "released": 1597795200,
           "composer": [
             "R・O・N"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1nzjVytuj9ctrHGpctCAIV"
+          }
         }
       },
       {
@@ -3110,7 +3809,10 @@
         "metadata": {
           "album": "Aqours 5th Anniversary 地元愛！Take Me Higher Project Theme Song",
           "length": 276,
-          "released": 1598400000
+          "released": 1598400000,
+          "streaming": {
+            "spotify": "spotify:track:3UoWB25H7bsEjB622Caz2s"
+          }
         }
       },
       {
@@ -3122,7 +3824,10 @@
           "released": 1600473600,
           "composer": [
             "山口雄太"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2oZ6e3TmmuFU0p2QowptUo"
+          }
         }
       },
       {
@@ -3135,7 +3840,10 @@
           "released": 1600646400,
           "composer": [
             "TAKAROT"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:10N2sb4vrtmSs5DeZyV5c8"
+          }
         }
       },
       {
@@ -3144,7 +3852,10 @@
         "metadata": {
           "album": "ラブライブ!サンシャイン!! Aqours CHRONICLE (2015～2017)",
           "length": 258,
-          "released": 1600646400
+          "released": 1600646400,
+          "streaming": {
+            "spotify": "spotify:track:3YpXfBk3mZrGAfj0Wb343C"
+          }
         }
       },
       {
@@ -3156,7 +3867,10 @@
         "metadata": {
           "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
           "length": 297,
-          "released": 1607472000
+          "released": 1607472000,
+          "streaming": {
+            "spotify": "spotify:track:3AyAdFgfT5jEHiZr45Gijq"
+          }
         }
       },
       {
@@ -3169,7 +3883,10 @@
         "metadata": {
           "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
           "length": 263,
-          "released": 1607472000
+          "released": 1607472000,
+          "streaming": {
+            "spotify": "spotify:track:6g6nsxbKZvG3V79aCJRDB6"
+          }
         }
       },
       {
@@ -3182,7 +3899,10 @@
         "metadata": {
           "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
           "length": 284,
-          "released": 1607472000
+          "released": 1607472000,
+          "streaming": {
+            "spotify": "spotify:track:0NOjMAor1xOsHaXu7dtwYS"
+          }
         }
       },
       {
@@ -3195,7 +3915,10 @@
         "metadata": {
           "album": "デュオトリオコレクションCD VOL.2 〜WINTER VACATION〜",
           "length": 269,
-          "released": 1607472000
+          "released": 1607472000,
+          "streaming": {
+            "spotify": "spotify:track:671VDfkihffwDZBz56nZ5P"
+          }
         }
       },
       {
@@ -3204,7 +3927,10 @@
         "metadata": {
           "album": "WHITE FIRST LOVE [Disc 2]",
           "length": 266,
-          "released": 1609459200
+          "released": 1609459200,
+          "streaming": {
+            "spotify": "spotify:track:4pgbiFTfLIuWcqgkkGUOlJ"
+          }
         }
       },
       {
@@ -3214,7 +3940,10 @@
         "metadata": {
           "album": "LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album: SAKANAKANANDAKA?",
           "length": 229,
-          "released": 1612915200
+          "released": 1612915200,
+          "streaming": {
+            "spotify": "spotify:track:3vXJrJULk98bQ4dG4WvqNY"
+          }
         }
       },
       {
@@ -3222,7 +3951,10 @@
         "title.ko": "동경 란라란",
         "artist": 12,
         "metadata": {
-          "released": 1614816000
+          "released": 1614816000,
+          "streaming": {
+            "spotify": "spotify:track:4nzacsf8fB6FFUocgF1dc0"
+          }
         }
       },
       {
@@ -3231,7 +3963,10 @@
         "metadata": {
           "album": "smile smile ship Start!",
           "length": 279,
-          "released": 1617148800
+          "released": 1617148800,
+          "streaming": {
+            "spotify": "spotify:track:0rfYpGSgqQLzEc2DHeWY5a"
+          }
         }
       },
       {
@@ -3241,7 +3976,10 @@
         "metadata": {
           "album": "smile smile ship Start!",
           "length": 286,
-          "released": 1617148800
+          "released": 1617148800,
+          "streaming": {
+            "spotify": "spotify:track:22lBQcaqutSbyXNHdEK9zn"
+          }
         }
       },
       {
@@ -3255,7 +3993,10 @@
           "released": 1618617600,
           "composer": [
             "渡辺泰司"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:00uHIFDJKDboxdU0rHyeSv"
+          }
         }
       },
       {
@@ -3268,7 +4009,10 @@
           "released": 1623542400,
           "composer": [
             "川島弘光"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:1j28e7BX7hmf0VSiemwKPT"
+          }
         }
       },
       {
@@ -3282,7 +4026,10 @@
           "released": 1626134400,
           "composer": [
             "渡辺和紀"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3F3CNNz4exyIXjsAMNFXnx"
+          }
         }
       }
     ],
@@ -3292,7 +4039,10 @@
         "artist": 0,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 276
+          "length": 276,
+          "streaming": {
+            "spotify": "spotify:track:2wI8kQ2psvPoMqqlKLusJ1"
+          }
         }
       },
       {
@@ -3301,7 +4051,10 @@
         "artist": 4,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 288
+          "length": 288,
+          "streaming": {
+            "spotify": "spotify:track:3dg76XVsizSIGdyUG6XXvt"
+          }
         }
       },
       {
@@ -3310,7 +4063,10 @@
         "artist": 5,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 234
+          "length": 234,
+          "streaming": {
+            "spotify": "spotify:track:0UAqHawQbQjCvDCYonrZzc"
+          }
         }
       },
       {
@@ -3319,7 +4075,10 @@
         "artist": 6,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 326
+          "length": 326,
+          "streaming": {
+            "spotify": "spotify:track:2RbkLmTbz2dGlLkzgDAUlu"
+          }
         }
       },
       {
@@ -3327,7 +4086,10 @@
         "artist": 7,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 225
+          "length": 225,
+          "streaming": {
+            "spotify": "spotify:track:2H8qziW7IGOPO3yXAhk9o4"
+          }
         }
       },
       {
@@ -3336,7 +4098,10 @@
         "artist": 8,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 289
+          "length": 289,
+          "streaming": {
+            "spotify": "spotify:track:1zejfjJaa1blkQzijxLBeN"
+          }
         }
       },
       {
@@ -3345,7 +4110,10 @@
         "artist": 9,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 204
+          "length": 204,
+          "streaming": {
+            "spotify": "spotify:track:24CUT6eQMpK66kZexYJdhh"
+          }
         }
       },
       {
@@ -3353,7 +4121,10 @@
         "artist": 10,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 259
+          "length": 259,
+          "streaming": {
+            "spotify": "spotify:track:0pxXNuhsLLq6lfj1ZegUCK"
+          }
         }
       },
       {
@@ -3361,7 +4132,10 @@
         "artist": 11,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 296
+          "length": 296,
+          "streaming": {
+            "spotify": "spotify:track:6IR8MKTOD0skW9FKZKl3kH"
+          }
         }
       },
       {
@@ -3370,7 +4144,10 @@
         "artist": 12,
         "metadata": {
           "album": "TOKIMEKI Runners",
-          "length": 270
+          "length": 270,
+          "streaming": {
+            "spotify": "spotify:track:2ZJEnx3d1exXxVpxbD0DaJ"
+          }
         }
       },
       {
@@ -3378,7 +4155,10 @@
         "artist": 0,
         "metadata": {
           "album": "Love U my friends",
-          "length": 240
+          "length": 240,
+          "streaming": {
+            "spotify": "spotify:track:3obgNWJjhn2P4X1jf69HoK"
+          }
         }
       },
       {
@@ -3387,7 +4167,10 @@
         "artist": 4,
         "metadata": {
           "album": "Love U my friends",
-          "length": 259
+          "length": 259,
+          "streaming": {
+            "spotify": "spotify:track:2I2gxRtOhtaghM4kmQbFYH"
+          }
         }
       },
       {
@@ -3396,7 +4179,10 @@
         "artist": 5,
         "metadata": {
           "album": "Love U my friends",
-          "length": 185
+          "length": 185,
+          "streaming": {
+            "spotify": "spotify:track:4Pxuo9SNT3CuNNd1WdOjIB"
+          }
         }
       },
       {
@@ -3405,7 +4191,10 @@
         "artist": 6,
         "metadata": {
           "album": "Love U my friends",
-          "length": 235
+          "length": 235,
+          "streaming": {
+            "spotify": "spotify:track:68yOpLc4Y0FxzZoxkTqioh"
+          }
         }
       },
       {
@@ -3413,7 +4202,10 @@
         "artist": 7,
         "metadata": {
           "album": "Love U my friends",
-          "length": 310
+          "length": 310,
+          "streaming": {
+            "spotify": "spotify:track:6zl2VIj9NgGv0vcXhstEPV"
+          }
         }
       },
       {
@@ -3422,7 +4214,10 @@
         "artist": 8,
         "metadata": {
           "album": "Love U my friends",
-          "length": 253
+          "length": 253,
+          "streaming": {
+            "spotify": "spotify:track:2hIkcuWgKOqeUtUcu8DKay"
+          }
         }
       },
       {
@@ -3430,7 +4225,10 @@
         "artist": 9,
         "metadata": {
           "album": "Love U my friends",
-          "length": 281
+          "length": 281,
+          "streaming": {
+            "spotify": "spotify:track:5TKgniNeHWwaH1pf5QV8nA"
+          }
         }
       },
       {
@@ -3438,7 +4236,10 @@
         "artist": 10,
         "metadata": {
           "album": "Love U my friends",
-          "length": 270
+          "length": 270,
+          "streaming": {
+            "spotify": "spotify:track:6DmIItjA98dekA0MvIeiHC"
+          }
         }
       },
       {
@@ -3447,7 +4248,10 @@
         "artist": 11,
         "metadata": {
           "album": "Love U my friends",
-          "length": 261
+          "length": 261,
+          "streaming": {
+            "spotify": "spotify:track:2wu07j9FHCuZ99fRfbjnK7"
+          }
         }
       },
       {
@@ -3456,7 +4260,10 @@
         "artist": 12,
         "metadata": {
           "album": "Love U my friends",
-          "length": 253
+          "length": 253,
+          "streaming": {
+            "spotify": "spotify:track:1mMPqcCOJjvWOjBcgNZNdL"
+          }
         }
       },
       {
@@ -3464,7 +4271,10 @@
         "artist": 1,
         "metadata": {
           "album": "SUPER NOVA",
-          "length": 254
+          "length": 254,
+          "streaming": {
+            "spotify": "spotify:track:4AN5xcopsmXq2JSF1SNHEz"
+          }
         }
       },
       {
@@ -3472,7 +4282,10 @@
         "artist": 1,
         "metadata": {
           "album": "SUPER NOVA",
-          "length": 253
+          "length": 253,
+          "streaming": {
+            "spotify": "spotify:track:5xzlhflKSdWND9ebn7rBDw"
+          }
         }
       },
       {
@@ -3480,7 +4293,10 @@
         "artist": 2,
         "metadata": {
           "album": "Dream Land!Dream World!",
-          "length": 232
+          "length": 232,
+          "streaming": {
+            "spotify": "spotify:track:7qpVKG6LJb1OORejlgkN9b"
+          }
         }
       },
       {
@@ -3488,7 +4304,10 @@
         "artist": 2,
         "metadata": {
           "album": "Dream Land!Dream World!",
-          "length": 219
+          "length": 219,
+          "streaming": {
+            "spotify": "spotify:track:3IBLu2lUtOtuXEbh20H7Y0"
+          }
         }
       },
       {
@@ -3496,7 +4315,10 @@
         "artist": 3,
         "metadata": {
           "album": "Sing \u0026 Smile!!",
-          "length": 282
+          "length": 282,
+          "streaming": {
+            "spotify": "spotify:track:305C9BYvdU0bLNfMI3bhPw"
+          }
         }
       },
       {
@@ -3504,7 +4326,10 @@
         "artist": 3,
         "metadata": {
           "album": "Sing \u0026 Smile!!",
-          "length": 239
+          "length": 239,
+          "streaming": {
+            "spotify": "spotify:track:7Ld5pHKOgTWFAwmAx525Lv"
+          }
         }
       },
       {
@@ -3513,7 +4338,10 @@
         "artist": 0,
         "metadata": {
           "album": "無敵級*ビリーバー",
-          "length": 245
+          "length": 245,
+          "streaming": {
+            "spotify": "spotify:track:4fwvtGCkTjHfgFvati4kJu"
+          }
         }
       },
       {
@@ -3522,7 +4350,10 @@
         "artist": 0,
         "metadata": {
           "album": "無敵級*ビリーバー",
-          "length": 249
+          "length": 249,
+          "streaming": {
+            "spotify": "spotify:track:1T0I1kD2JNfgqB1oFQWlQD"
+          }
         }
       },
       {
@@ -3534,7 +4365,10 @@
           "length": 241,
           "composer": [
             "Akira Sunset"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3SI3r4xZo4wawWw0iv9p5K"
+          }
         }
       },
       {
@@ -3545,7 +4379,10 @@
           "length": 258,
           "composer": [
             "Carlos K"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:2dIwAYBeMTnszZIQzDQrXM"
+          }
         }
       },
       {
@@ -3557,7 +4394,10 @@
           "length": 260,
           "composer": [
             "月見草"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0EoTGDUKh0Se9mChgBghmp"
+          }
         }
       },
       {
@@ -3568,7 +4408,10 @@
           "length": 237,
           "composer": [
             "Carlos K"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:54SdBdxoc2lbBh1bmPgf9o"
+          }
         }
       },
       {
@@ -3581,7 +4424,10 @@
           "composer": [
             "Carlos K",
             "Akira Sunset"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6BR9SPM7tKuD7wGOkx4CYd"
+          }
         }
       },
       {
@@ -3593,7 +4439,10 @@
           "composer": [
             "Ryota Saito",
             "Diz"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:7chCaPHPbAtQJ1ldS9gE6R"
+          }
         }
       },
       {
@@ -3606,7 +4455,10 @@
             "Hiroki Sagawa",
             "鈴木まなか",
             "要田健"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4PeeXkEdUeIucB7kbcp2u9"
+          }
         }
       },
       {
@@ -3619,7 +4471,10 @@
           "composer": [
             "浦島健太",
             "山本匠"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:3Qms7SJJWR6vjxsrAJb6n6"
+          }
         }
       },
       {
@@ -3632,7 +4487,10 @@
           "composer": [
             "米澤森人",
             "藤原彩豊"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:6vWqcL79ETNeXDZpR231Tn"
+          }
         }
       },
       {
@@ -3645,7 +4503,10 @@
           "composer": [
             "中村歩",
             "菊池博人"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:5bKOT6xcTF9SLJw4sKgb2s"
+          }
         }
       },
       {
@@ -3656,7 +4517,10 @@
           "length": 289,
           "composer": [
             "矢鴇つかさ (Arte Refact)"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4XWwyEKkU1KEmVCwGjCOXf"
+          }
         }
       },
       {
@@ -3668,7 +4532,10 @@
           "composer": [
             "PASSiON KiNG",
             "ygarshy"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:0EIfyw7CQpOmIsV5CqnXLp"
+          }
         }
       },
       {
@@ -3677,7 +4544,10 @@
         "artist": 0,
         "metadata": {
           "album": "虹色Passions!",
-          "length": 255
+          "length": 255,
+          "streaming": {
+            "spotify": "spotify:track:02pLFicJc11BISyxKv8UcC"
+          }
         }
       },
       {
@@ -3685,7 +4555,10 @@
         "artist": 0,
         "metadata": {
           "album": "虹色Passions!",
-          "length": 292
+          "length": 292,
+          "streaming": {
+            "spotify": "spotify:track:2qRh35Wd3WgUi5p1g2oatH"
+          }
         }
       },
       {
@@ -3693,7 +4566,10 @@
         "artist": 0,
         "metadata": {
           "album": "NEO SKY, NEO MAP!",
-          "length": 278
+          "length": 278,
+          "streaming": {
+            "spotify": "spotify:track:4AMtutbqOdlw9ybtWSE1et"
+          }
         }
       },
       {
@@ -3702,7 +4578,10 @@
         "artist": 0,
         "metadata": {
           "album": "NEO SKY, NEO MAP!",
-          "length": 259
+          "length": 259,
+          "streaming": {
+            "spotify": "spotify:track:6FIDVtIZikNpWLiGp4QtHB"
+          }
         }
       },
       {
@@ -3710,7 +4589,10 @@
         "artist": 4,
         "metadata": {
           "album": "Dream with You / Poppin' Up! / DIVE!",
-          "length": 258
+          "length": 258,
+          "streaming": {
+            "spotify": "spotify:track:2pOgQuNCRUmDvAKjqwmGR9"
+          }
         }
       },
       {
@@ -3718,7 +4600,10 @@
         "artist": 5,
         "metadata": {
           "album": "Dream with You / Poppin' Up! / DIVE!",
-          "length": 258
+          "length": 258,
+          "streaming": {
+            "spotify": "spotify:track:0paCkEf09T6bhSrr5ZkIEe"
+          }
         }
       },
       {
@@ -3726,7 +4611,10 @@
         "artist": 10,
         "metadata": {
           "album": "Dream with You / Poppin' Up! / DIVE!",
-          "length": 244
+          "length": 244,
+          "streaming": {
+            "spotify": "spotify:track:1U1MCOvXcpTguCzyXyBE90"
+          }
         }
       },
       {
@@ -3735,7 +4623,10 @@
         "artist": 8,
         "metadata": {
           "album": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』挿入歌シングル第二弾 サイコーハート / La Bella Patria / ツナガルコネクト",
-          "length": 252
+          "length": 252,
+          "streaming": {
+            "spotify": "spotify:track:7fR786eNI8rp2sKxQM5jK0"
+          }
         }
       },
       {
@@ -3743,7 +4634,10 @@
         "artist": 11,
         "metadata": {
           "album": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』挿入歌シングル第二弾 サイコーハート / La Bella Patria / ツナガルコネクト",
-          "length": 286
+          "length": 286,
+          "streaming": {
+            "spotify": "spotify:track:29OkXQXdGcDRTzcqsy0kvJ"
+          }
         }
       },
       {
@@ -3752,7 +4646,10 @@
         "artist": 12,
         "metadata": {
           "album": "TVアニメ『ラブライブ！虹ヶ咲学園スクールアイドル同好会』挿入歌シングル第二弾 サイコーハート / La Bella Patria / ツナガルコネクト",
-          "length": 238
+          "length": 238,
+          "streaming": {
+            "spotify": "spotify:track:5STRLlJ8d8O8cImBgyxvNv"
+          }
         }
       },
       {
@@ -3760,7 +4657,10 @@
         "artist": 9,
         "metadata": {
           "album": "Butterfly / Solitude Rain / VIVID WORLD",
-          "length": 216
+          "length": 216,
+          "streaming": {
+            "spotify": "spotify:track:0CmpgRM57Uq8KOQAzKOxrq"
+          }
         }
       },
       {
@@ -3768,7 +4668,10 @@
         "artist": 6,
         "metadata": {
           "album": "Butterfly / Solitude Rain / VIVID WORLD",
-          "length": 247
+          "length": 247,
+          "streaming": {
+            "spotify": "spotify:track:7pTGAjgAD6mojP2oRwiXX5"
+          }
         }
       },
       {
@@ -3776,7 +4679,10 @@
         "artist": 7,
         "metadata": {
           "album": "Butterfly / Solitude Rain / VIVID WORLD",
-          "length": 276
+          "length": 276,
+          "streaming": {
+            "spotify": "spotify:track:2nsE6Ebr959B30OaevvMJI"
+          }
         }
       },
       {
@@ -3784,7 +4690,10 @@
         "artist": 4,
         "metadata": {
           "album": "Awakening Promise/夢がここからはじまるよ",
-          "length": 254
+          "length": 254,
+          "streaming": {
+            "spotify": "spotify:track:5tURJEIapyFgJB6OoykQJI"
+          }
         }
       },
       {
@@ -3793,7 +4702,10 @@
         "artist": 0,
         "metadata": {
           "album": "Awakening Promise/夢がここからはじまるよ",
-          "length": 284
+          "length": 284,
+          "streaming": {
+            "spotify": "spotify:track:1VXAsYc8reWdpt1l5mXzid"
+          }
         }
       },
       {
@@ -3855,7 +4767,10 @@
         "metadata": {
           "album": "THE SECRET NiGHT",
           "length": 233,
-          "released": 1621987200
+          "released": 1621987200,
+          "streaming": {
+            "spotify": "spotify:track:5suU2eE1OiXqZbrQzj9SN7"
+          }
         }
       },
       {
@@ -3864,7 +4779,10 @@
         "metadata": {
           "album": "THE SECRET NiGHT",
           "length": 249,
-          "released": 1621987200
+          "released": 1621987200,
+          "streaming": {
+            "spotify": "spotify:track:13js1LWsNrTSUomm4bYblW"
+          }
         }
       },
       {
@@ -3873,7 +4791,10 @@
         "metadata": {
           "album": "Maze Town",
           "length": 263,
-          "released": 1623801600
+          "released": 1623801600,
+          "streaming": {
+            "spotify": "spotify:track:1aLfZSKp44prkEYIGpWM63"
+          }
         }
       },
       {
@@ -3883,7 +4804,10 @@
         "metadata": {
           "album": "Maze Town",
           "length": 204,
-          "released": 1623801600
+          "released": 1623801600,
+          "streaming": {
+            "spotify": "spotify:track:0X9n53f79K9XLWX4qKu2qW"
+          }
         }
       },
       {
@@ -3905,7 +4829,10 @@
         "metadata": {
           "album": "Swinging!",
           "length": 243,
-          "released": 1626220800
+          "released": 1626220800,
+          "streaming": {
+            "spotify": "spotify:track:13js1LWsNrTSUomm4bYblW"
+          }
         }
       },
       {
@@ -3914,7 +4841,10 @@
         "metadata": {
           "album": "Swinging!",
           "length": 257,
-          "released": 1626220800
+          "released": 1626220800,
+          "streaming": {
+            "spotify": "spotify:track:0jfqESQKZffIftSyZUAbPx"
+          }
         }
       }
     ],
@@ -3925,7 +4855,10 @@
         "artist": 0,
         "metadata": {
           "album": "始まりは君の空",
-          "length": 302
+          "length": 302,
+          "streaming": {
+            "spotify": "spotify:track:3MLmsSy2wq9Ko73GSDUwNM"
+          }
         }
       },
       {
@@ -3933,7 +4866,10 @@
         "artist": 0,
         "metadata": {
           "album": "始まりは君の空",
-          "length": 199
+          "length": 199,
+          "streaming": {
+            "spotify": "spotify:track:3KJwVgA2M5SgZ4p0kjMpKk"
+          }
         }
       },
       {
@@ -3941,7 +4877,10 @@
         "artist": 0,
         "metadata": {
           "album": "始まりは君の空",
-          "length": 295
+          "length": 295,
+          "streaming": {
+            "spotify": "spotify:track:0OvbH8jtqdiX4yZITT3mVS"
+          }
         }
       },
       {
@@ -3950,7 +4889,10 @@
         "artist": 0,
         "metadata": {
           "album": "始まりは君の空",
-          "length": 238
+          "length": 238,
+          "streaming": {
+            "spotify": "spotify:track:3MLmsSy2wq9Ko73GSDUwNM"
+          }
         }
       },
       {
@@ -3963,7 +4905,10 @@
             "畑亜貴",
             "小幡康裕",
             "山下洋介"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4b5akyLpnayCjVkYJmP88J"
+          }
         }
       },
       {
@@ -3977,7 +4922,10 @@
             "宮嶋淳子",
             "藤井万利子",
             "久保田真悟（Jazzin’park）"
-          ]
+          ],
+          "streaming": {
+            "spotify": "spotify:track:4PiWVzAtJ9hNl8Sjzj7VW2"
+          }
         }
       },
       {
@@ -3987,7 +4935,10 @@
         "metadata": {
           "album": "未来は風のように",
           "length": 247,
-          "released": 1629849600
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:4th5k2K45udTXELLdrVk18"
+          }
         }
       },
       {
@@ -3997,7 +4948,10 @@
         "metadata": {
           "album": "未来は風のように",
           "length": 259,
-          "released": 1629849600
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:2OSWhe6d75zEZI9f0szj6s"
+          }
         }
       },
       {
@@ -4007,7 +4961,10 @@
         "metadata": {
           "album": "未来予報ハレルヤ!/Tiny Stars",
           "length": 231,
-          "released": 1629849600
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:39u2IRpp8uuWxd8TfnEftr"
+          }
         }
       },
       {
@@ -4015,7 +4972,10 @@
         "artist": 0,
         "metadata": {
           "album": "未来予報ハレルヤ!/Tiny Stars",
-          "released": 1629849600
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:2XLcdWHqfOkNTQdiIPfcup"
+          }
         }
       },
       {
@@ -4023,7 +4983,10 @@
         "artist": 0,
         "metadata": {
           "album": "未来予報ハレルヤ!/Tiny Stars",
-          "released": 1629849600
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:3pKcK6fQkqEWdNJ2i1tsCn"
+          }
         }
       },
       {
@@ -4031,7 +4994,10 @@
         "artist": 0,
         "metadata": {
           "album": "未来予報ハレルヤ!/Tiny Stars",
-          "released": 1629849600
+          "released": 1629849600,
+          "streaming": {
+            "spotify": "spotify:track:3AIwVCB3xukZP0vLrv2QxR"
+          }
         }
       }
     ]

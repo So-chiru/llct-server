@@ -61,5 +61,9 @@ func Router() *mux.Router {
 	r.HandleFunc("/call/{id:[0-9]+}", callHandler)
 	r.HandleFunc("/admin", adminHandler)
 
+	r.HandleFunc("/spotify/oauth", spotifyLoginHandler)
+	r.HandleFunc("/spotify/callback", spotifyCallbackHandler)
+	r.HandleFunc("/spotify/refresh_token", spotifyRefreshTokenHandler)
+
 	return r
 }

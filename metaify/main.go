@@ -1,10 +1,13 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"io"
 	"io/ioutil"
 	"log"
+	"net/http"
+	"net/url"
 	"os"
 	"os/exec"
 	"strconv"
@@ -143,6 +146,119 @@ func askContinue() {
 	if result != "Y" && result != "y" {
 		writeLog("[-] Aborts!")
 		os.Exit(0)
+	}
+}
+
+func askContinueResult() bool {
+	var result = ""
+	_, err := fmt.Scanln(&result)
+	if err != nil {
+		if err.Error() == "unexpected newline" {
+			result = "Y"
+		} else {
+			panic(err)
+		}
+	}
+
+	if result != "Y" && result != "y" {
+		return false
+	}
+
+	return true
+}
+
+func addSpotifyLinks() {
+	var lists = utils.GetListFile()
+
+	var token = metautils.AskNewInput("Spotify Token")
+
+	for i, l := range lists.Songs {
+		for i2, l2 := range l {
+			fmt.Println(l2)
+
+			if l2.Metadata.Streaming != nil && l2.Metadata.Streaming.Spotify != nil {
+				fmt.Print("[+] Link for " + l2.Title + ", " + *l2.Metadata.Streaming.Spotify + " already exists. skip? [Y/n] ")
+				skip := askContinueResult()
+
+				if skip {
+					continue
+				}
+			}
+
+			req, err := http.NewRequest("GET", "https://api.spotify.com/v1/search?type=track&market=KR&limit=4&q=track:"+url.QueryEscape(l2.Title), nil)
+			if err != nil {
+				panic(err)
+			}
+
+			req.Header.Add("Authorization", "Bearer "+token)
+
+			client := http.Client{}
+			res, err := client.Do(req)
+			if err != nil {
+				panic(err)
+			}
+
+			if res.StatusCode != 200 {
+				fmt.Println(res)
+				panic("not valid status code")
+			}
+
+			defer res.Body.Close()
+
+			bytes, err := ioutil.ReadAll(res.Body)
+			if err != nil {
+				panic(err)
+			}
+
+			var d map[string]interface{}
+			err = json.Unmarshal(bytes, &d)
+			if err != nil {
+				panic(err)
+			}
+
+			klists := d["tracks"].(map[string]interface{})["items"].([]interface{})
+
+			for i3, item := range klists {
+				name := item.(map[string]interface{})["name"]
+				released := item.(map[string]interface{})["release_date"]
+				uri := item.(map[string]interface{})["uri"]
+				artistName := item.(map[string]interface{})["artists"].([]interface{})[0].(map[string]interface{})["name"]
+
+				fmt.Println("["+fmt.Sprint(i3)+"]", name, artistName, released, uri)
+			}
+
+			if len(klists) == 0 {
+				fmt.Println("no result for " + l2.Title)
+				continue
+			}
+
+			index := metautils.AskNewInput("Index to download (Defaults to 0, press 'n' to skip.)")
+			if len(index) == 0 {
+				index = "0"
+			}
+
+			if index == "n" {
+				continue
+			}
+
+			indexInt, err := strconv.Atoi(index)
+			if err != nil {
+				panic(err)
+			}
+
+			if lists.Songs[i][i2].Metadata.Streaming == nil {
+				lists.Songs[i][i2].Metadata.Streaming = &structs.LLCTSongStreamProvider{}
+			}
+
+			ptr := (klists[indexInt].(map[string]interface{})["uri"].(string))
+			lists.Songs[i][i2].Metadata.Streaming.Spotify = &ptr
+
+			utils.ToListFile(lists, false)
+
+			divider()
+
+			// askContinue()
+		}
 	}
 }
 
@@ -430,6 +546,8 @@ func main() {
 		generateMetadata()
 	} else if os.Args[1] == "new" {
 		createNewSong()
+	} else if os.Args[1] == "spotify" {
+		addSpotifyLinks()
 	} else if os.Args[1] == "cover" {
 		coverDownload()
 	} else if os.Args[1] == "normalize" {
